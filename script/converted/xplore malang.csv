@@ -1,0 +1,83 @@
+,Case ID,Timestamp,Activity,Resource
+0,1,2019‑04‑29,menambahkan final,Hanif Ramadhan
+1,2,2019‑04‑26,menambahkan rotate landscape,dennis cunong
+2,2,2019‑04‑26,menambahkan rotate landscape,Ilham Satria
+3,3,2019‑04‑26,menambahkan intent setting,aprilia widyas
+4,4,2019‑04‑26,menambahkan merapihkan kodingan,Hanif Ramadhan
+5,5,2019‑04‑25,memperbaiki backend,Rizka Fadhilah
+6,6,2019‑04‑24,menambahkan search,Hanif Ramadhan
+7,6,2019‑04‑24,menambahkan search,Hanif Ramadhan
+8,7,2019‑04‑22,menambahkan back end,Ilham Satria
+9,45,2019‑04‑21,resolved backend menu,Rizka Fadhilah
+10,45,2019‑04‑21,resolved backend menu,Rizka Fadhilah
+11,9,2019‑04‑20,menambahkan setting share,aprilia widyas
+12,10,2019‑04‑20,menambahkan front end,aulia ikhsanati
+13,28,2019‑04‑20,menambahkan menyelesaikan feed,Hanif Ramadhan
+14,17,2019‑04‑16,menambahkan progress setting,Rizka Fadhilah
+15,13,2019‑04‑16,memperbaiki profile,aulia ikhsanati
+16,14,2019‑04‑11,membuat filter kategori,Hanif Ramadhan
+17,7,2019‑04‑09,membuat back end,Ilham Satria
+18,10,2019‑04‑09,membuat front end,dennis cunong
+19,15,2019‑04‑09,membuat tranportasi,Hanif Ramadhan
+20,45,2019‑04‑09,resolved front-end about,aprilia widyas
+21,17,2019‑04‑09,menambahkan progress,aulia ikhsanati
+22,23,2019‑04‑08,merge branch 'interface-improvement',Rizka Fadhilah
+23,19,2019‑04‑08,menambahkan workspace.xml,Rizka Fadhilah
+24,0,2019‑04‑08,memperbaiki ,Rizka Fadhilah
+25,45,2019‑04‑02,menambahkan solved backend,Hanif Ramadhan
+26,21,2019‑04‑02,menambahkan solve error,aulia ikhsanati
+27,22,2019‑04‑02,menambahkan solve conflict,aprilia widyas
+28,21,2019‑04‑02,menambahkan solve error,aprilia widyas
+29,23,2019‑04‑02,merge branch,aprilia widyas
+30,24,2019‑04‑01,merge remote-tracking branch,Hanif Ramadhan
+31,25,2019‑04‑01,merge in dennis_konten,Hanif Ramadhan
+32,10,2019‑04‑01,membuat front end,Ilham Satria
+33,26,2019‑04‑01,membuat frontend backend,Rizka Fadhilah
+34,27,2019‑04‑01,menambahkan final backend,aulia ikhsanati
+35,27,2019‑04‑01,menambahkan final backend,dennis cunong
+36,28,2019‑03‑26,memperbaiki feed,Hanif Ramadhan
+37,29,2019‑03‑26,membuat backend filter,Ilham Satria
+38,7,2019‑03‑26,membuat back end,Ilham Satria
+39,10,2019‑03‑26,mengubah front end,dennis cunong
+40,7,2019‑03‑26,membuat back end,dennis cunong
+41,10,2019‑03‑26,mengubah front end,dennis cunong
+42,30,2019‑03‑26,menambahkan rating baru,aprilia widyas
+43,7,2019‑03‑25,membuat back end,Rizka Fadhilah
+44,31,2019‑03‑24,menambahkan backend registrasi,aulia ikhsanati
+45,10,2019‑03‑24,menambahkan front end,aulia ikhsanati
+46,32,2019‑03‑19,membuat pencarian lokasi,dennis cunong
+47,33,2019‑03‑19,membuat diskusi,aprilia widyas
+48,40,2019‑03‑19,menambahkan feedback seluruh,aulia ikhsanati
+49,10,2019‑03‑19,membuat front end,Rizka Fadhilah
+50,35,2019‑03‑19,menambahkan login with,Hanif Ramadhan
+51,36,2019‑03‑18,membuat upload konten,Hanif Ramadhan
+52,48,2019‑03‑12,update sidebar 1,Hanif Ramadhan
+53,45,2019‑03‑04,resolved ,aulia ikhsanati
+54,10,2019‑03‑03,membuat front end,dennis cunong
+55,38,2019‑03‑03,merge branch 'master',Rizka Fadhilah
+56,39,2019‑03‑03,membuat rating pariwisata,Rizka Fadhilah
+57,10,2019‑03‑03,membuat front end,Ilham Satria
+58,40,2019‑03‑03,membuat feedback,aulia ikhsanati
+59,41,2019‑03‑02,menambahkan foto ke,Hanif Ramadhan
+60,42,2019‑03‑02,menambahkan upload foto,Hanif Ramadhan
+61,28,2019‑03‑02,membuat feed,Hanif Ramadhan
+62,43,2019‑02‑27,memperbaiki navbar bottom,Hanif Ramadhan
+63,44,2019‑02‑26,membuat bottom navigation,Hanif Ramadhan
+64,45,2019‑02‑26,menambahkan solved,aprilia widyas
+65,45,2019‑02‑25,resolved ,aprilia widyas
+66,45,2019‑02‑25,resolved ,aprilia widyas
+67,6,2019‑02‑25,menambahkan search,dennis cunong
+68,6,2019‑02‑25,menambahkan search,dennis cunong
+69,10,2019‑02‑25,menambahkan front end,dennis cunong
+70,46,2019‑02‑25,menghubungkan login facebook,Ilham Satria
+71,47,2019‑02‑25,menambahkan coba commit,Hanif Ramadhan
+72,48,2019‑02‑25,membuat sidebar,aulia ikhsanati
+73,48,2019‑02‑25,membuat sidebar,aulia ikhsanati
+74,45,2019‑02‑25,resolved ,Rizka Fadhilah
+75,49,2019‑02‑19,menambahkan front-end pariwisata,Rizka Fadhilah
+76,50,2019‑02‑16,menambahkan splash screen,aulia ikhsanati
+77,7,2019‑02‑15,menambahkan back end,Hanif Ramadhan
+78,10,2019‑02‑15,menambahkan front end,Hanif Ramadhan
+79,51,2019‑02‑15,menambahkan first commit,Hanif Ramadhan
+80,52,2019‑02‑14,mengubah readme.md online,Tb Rama Ramadhan
+81,53,2019‑02‑14,menambahkan initial commit,aulia ikhsanati

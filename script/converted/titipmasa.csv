@@ -1,0 +1,60 @@
+,Case ID,Timestamp,Activity,Resource
+0,0,2019‑04‑30,memperbaiki ,Sevira Hendari Pratiwi
+1,0,2019‑04‑29,memperbaiki ,Rahkmah Nabila
+2,1,2019‑04‑23,update filter tempat,Nisya
+3,2,2019‑04‑23,update melakukan tampilan,Sevira Hendari Pratiwi
+4,10,2019‑04‑23,membuat chat/message memperbaki,Rahkmah Nabila
+5,4,2019‑04‑22,membuat filter keberangkatan,ben hughie
+6,5,2019‑04‑22,membuat front-end filter,ben hughie
+7,10,2019‑04‑22,update chat to,muhammad fikri makmur
+8,1,2019‑04‑09,membuat filter tempat,Nisya
+9,7,2019‑04‑09,membuat filter rekomendasi,Anisa Agustina
+10,8,2019‑04‑09,memperbaiki code eror,Rahkmah Nabila
+11,9,2019‑04‑08,membuat halaman validasi,Sevira Hendari Pratiwi
+12,10,2019‑04‑08,menambahkan chat,muhammad fikri makmur
+13,11,2019‑04‑02,menambahkan halaman konfirmasi,Anisa Agustina
+14,12,2019‑04‑02,membuat halaman review,Nisya
+15,13,2019‑04‑02,menambahkan halaman titipan,Nisya
+16,14,2019‑04‑01,memperbaiki melakukan halaman,Sevira Hendari Pratiwi
+17,15,2019‑04‑01,menghubungkan api location,muhammad fikri makmur
+18,16,2019‑04‑01,menambahkan mengatasi eror,Rahkmah Nabila
+19,17,2019‑04‑01,menghubungkan api maps,muhammad fikri makmur
+20,18,2019‑03‑29,membuat halaman pembayaran,Sevira Hendari Pratiwi
+21,19,2019‑03‑28,menghubungkan to firebase,Rahkmah Nabila
+22,20,2019‑03‑28,memperbaiki beberapa code,Rahkmah Nabila
+23,21,2019‑03‑26,membuat halaman trip,Nisya
+24,9,2019‑03‑26,update halaman validasi,Sevira Hendari Pratiwi
+25,21,2019‑03‑26,membuat halaman trip,Anisa Agustina
+26,22,2019‑03‑25,melengkapi code database,Rahkmah Nabila
+27,23,2019‑03‑25,menambahkan code back,Rahkmah Nabila
+28,24,2019‑03‑25,memperbaiki tampilan trip_lokal,muhammad fikri makmur
+29,24,2019‑03‑25,memperbaiki tampilan trip_lokal,muhammad fikri makmur
+30,21,2019‑03‑20,membuat halaman trip,Anisa Agustina
+31,21,2019‑03‑20,membuat halaman trip,Anisa Agustina
+32,25,2019‑03‑19,membuat tampilan halaman,muhammad fikri makmur
+33,26,2019‑03‑19,membuat tampilan filter,ben hughie
+34,21,2019‑03‑19,membuat halaman trip,Nisya
+35,27,2019‑03‑19,membuat tampilan validasi,Sevira Hendari Pratiwi
+36,28,2019‑03‑19,membuat tampilan activity_chat.xml,Rahkmah Nabila
+37,29,2019‑03‑19,mengubah database registrasi,Rahkmah Nabila
+38,30,2019‑03‑19,mengubah tampilan into,ben hughie
+39,31,2019‑03‑18,update tampilan slider,Nisya
+40,32,2019‑03‑18,mengubah posisi button,Sevira Hendari Pratiwi
+41,33,2019‑03‑18,update backend,muhammad fikri makmur
+42,33,2019‑03‑18,update backend,muhammad fikri makmur
+43,34,2019‑03‑17,menghubungkan firebase ke,Rahkmah Nabila
+44,35,2019‑03‑04,menambahkan tampilan intro,ben hughie
+45,36,2019‑03‑04,menambahkan intro slider,ben hughie
+46,37,2019‑03‑02,update tampilan lupa,muhammad fikri makmur
+47,37,2019‑03‑02,update tampilan lupa,muhammad fikri makmur
+48,38,2019‑03‑01,memperbaiki eror lupa,Anisa Agustina
+49,25,2019‑03‑01,menambahkan tampilan halaman,Rahkmah Nabila
+50,35,2019‑02‑28,menambahkan tampilan intro,Nisya
+51,31,2019‑02‑28,membuat tampilan slider,Sevira Hendari Pratiwi
+52,39,2019‑02‑26,membuat user profile,ben hughie
+53,40,2019‑02‑25,menambahkan login,Nisya
+54,41,2019‑02‑25,menambahkan logcat mainactivity,Rahkmah Nabila
+55,42,2019‑02‑20,menambahkan lupapassword,Anisa Agustina
+56,0,2019‑02‑20,menambahkan ,Sevira Hendari Pratiwi
+57,43,2019‑02‑20,menambahkan mainactivity registrasiactivity,muhammad fikri makmur
+58,44,2019‑02‑18,menambahkan splash screen,rahkmahnabila

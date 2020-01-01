@@ -1,0 +1,81 @@
+Author,Commit,Message,Date
+Ian Dzillan Malik,59ea683,Testing Unit,2019‑04‑29
+Ian Dzillan Malik,1cf13aa,Fix App,2019‑04‑27
+Ayuvira Kusuma,45370fd,fixasi fungsionalitas feedback (Resolve #44),2019‑04‑25
+Ayuvira Kusuma,c176e7b,Fixasi layout feedback Resolve #61,2019‑04‑25
+Fahri Hamzalah,85bba03,memperbaiki fungsionalitas feedback (ref #44),2019‑04‑22
+Ian Dzillan Malik,f1519ce,Perbaikan Layout About Us  Feedback  Login  Register  Profile (Landscapeable) (Resolved #56),2019‑04‑22
+farhan zuhdy,a3d4bf7,Perbaikan fungsional login (ref #3),2019‑04‑22
+Ian Dzillan Malik,aff69b9,Perbaikan Layout Artikel (Resolved #46),2019‑04‑21
+Ian Dzillan Malik,ddfec8f,Perubahan layout pada fragment profile (Resolved #52),2019‑04‑21
+Ian Dzillan Malik,0696fc7,Notifikasi Like Dan Comment Untuk Fitur Postingan Panen (Resolved #55),2019‑04‑21
+Ian Dzillan Malik,bcd647a,Post Detail dan User Profile (Resolved #54),2019‑04‑21
+Ian Dzillan Malik,3f34738,Penambahan Fitur My Forum dan My Panen (Resolved #53),2019‑04‑20
+Ian Dzillan Malik,97505af,Layout + Controller Profile & Edit Profile (Resolved #52),2019‑04‑18
+Ian Dzillan Malik,a3252eb,Controller Menampilkan Comment Pada Postingan Panen (Resolved #51),2019‑04‑18
+Ian Dzillan Malik,b3788ad,Controller Menampilkan Comment User Pada Postingan Forum (Resolved #50),2019‑04‑18
+Ian Dzillan Malik,b996d65,Layout + Controller Pada Fitur Panen (Posting  Adapater  Like  dan Comment) (Resolved #49),2019‑04‑18
+Ian Dzillan Malik,01c8450,Controller Forum (Adapter  Like  Comment) (Resolved #48),2019‑04‑17
+Muhammad Rafidan,059eb9c,Layout Forum (Untuk Menampilkan Hasil Posting) (Resolved #47),2019‑04‑17
+Ichwan Habibie,1a2c2ad,Pembuatan WebView Fragment Artikel (Resolve #46),2019‑04‑17
+Ian Dzillan Malik,7a6cdd4,Pembuatan Fitur Posting Forum (Resolve #45),2019‑04‑15
+farhan zuhdy,b02797a,Merge branch 'master' of https://bitbucket.org/rpl2019/farming-app,2019‑04‑09
+farhan zuhdy,00274dd,pembuatan fungsional feedback (ref #44),2019‑04‑09
+Ichwan Habibie,a61741c,pembuatan fungsionalitas feedback (penambahan variabel) ref #43,2019‑04‑09
+Ichwan Habibie,fc75198,pembuatan fungsionalitas feedback (penambahan variabel),2019‑04‑09
+Muhammad Rafidan,c47d976,Pembuatan layout feedback (ref #42),2019‑04‑09
+Ayuvira Kusuma,04dfa95,(ref #41),2019‑04‑09
+Ian Dzillan Malik,0c1555f,Rebuild Farming App (ref #39),2019‑04‑09
+Fahri Hamzalah,633f71a,membuat fungsionalitas new_listpanen (ref #40),2019‑04‑09
+Ayuvira Kusuma,9b6d177,melakukan intent dari home(panen) ke layout list panen (Resolve #37),2019‑04‑02
+Ayuvira Kusuma,9935577,fix layout isi panen (Resolve #23),2019‑04‑02
+farhan zuhdy,fb7d3d3,perbaikan list artikel (ref #24),2019‑04‑02
+Ian Dzillan Malik,9d4e789,Edit Code pada fitur list form (ref #21),2019‑04‑02
+Ichwan Habibie,6acc207,memperbaiki Layout DetailArtikel dan Memanggil class detail artikel (ref #24),2019‑04‑02
+farhan zuhdy,982a5f4,memperbaiki artikel #24,2019‑04‑02
+Ian Dzillan Malik,2146d8b,Pemindahan home ke Main Activity (ref #9),2019‑04‑02
+Ayuvira Kusuma,159f5f0,menyambungkan listpanen dengan isipanen (ref #23),2019‑04‑01
+Ian Dzillan Malik,8db5f20,Perbaikan validasi confirm password pada registrasi (resolved #7) Perbaikan layout tambah form dan menambah List Forum pada firebase (ref #21),2019‑03‑29
+Fahri Hamzalah,401fece,Menambahkan recycler view dan fungsionalitas pada list panen (ref #22),2019‑03‑29
+Ichwan Habibie,f311c42,perbaikan artikel dan penambahan layout detail artikel (ref #24),2019‑03‑26
+Ayuvira Kusuma,be24387,menyambungkan listpanen dengan isipanen (ref #23),2019‑03‑26
+Ayuvira Kusuma,0b47181,perbaikan layout isipanen (ref #23),2019‑03‑26
+farhan zuhdy,588c1b8,perbaikan list artikel (ref #24),2019‑03‑26
+Fahri Hamzalah,5d974d4,Perbaikan list panen (ref #22),2019‑03‑26
+Ian Dzillan Malik,111efca,Menambah method writeNewForm() untuk menambahkan topik baru ke firebase (ref #21),2019‑03‑26
+Muhammad Rafidan,0d2a193,Menambahkan variable firebase pada class chatroom (ref #21),2019‑03‑26
+Ichwan Habibie,418c27c,Detail artikel (ref #24),2019‑03‑20
+farhan zuhdy,5865350,Pembuatan list artikel (ref #24),2019‑03‑19
+Muhammad Rafidan,ad9aaf7,Pembuatan list user dan chatroom (ref #21),2019‑03‑19
+Ayuvira Kusuma,da569aa,layout isi panen (ref #23),2019‑03‑19
+Fahri Hamzalah,1026b60,Pembuatan layout list panen (ref #22),2019‑03‑19
+Ian Dzillan Malik,c8ec9d1,Pembuatan list daftar form diskusi (ref #21),2019‑03‑19
+Muhammad Rafidan,2b59e01,Fitur Registrasi Fix Banget (Resolved #d78e147),2019‑03‑19
+Ian Dzillan Malik,d37a250,fix Ubah Password (ref #78e21c7)  Update code ubah profile (ref #2bd349f)  Icon Launcher  Navigasi tombol back,2019‑03‑19
+Muhammad Rafidan,9.01E+32,Fitur Registrasi Fix (Resolved #d78e147),2019‑03‑18
+Muhammad Rafidan,aa6c28f,Fitur Registrasi (Resolved #d78e147),2019‑03‑18
+Ian Dzillan Malik,925e545,fix navigation bar dan logout (ref #bfa6955),2019‑03‑18
+Fahri Hamzalah,fb3818b,Menambah fungsionalitas Cancel pada ubahProfil,2019‑03‑17
+Ian Dzillan Malik,9aefda5,Manyambungkan home dengan ubah profile,2019‑03‑17
+Ayuvira Kusuma,78e21c7,perbaikan ubah Password,2019‑03‑05
+Ayuvira Kusuma,2b49be7,fungsionalitas ubah password,2019‑03‑05
+farhan zuhdy,0382d27,fix navigation bar (ref #bfa6955),2019‑03‑03
+farhan zuhdy,bfa6955,navigation bar,2019‑03‑03
+Fahri Hamzalah,2baebf9,memperbaiki fitur fungsional ubahprofil.java (ref #2bd349f),2019‑03‑02
+Ichwan Habibie,e23df8c,Menambahkan Fungsionalitas Lupa Password ke firebase dan email masing-masing,2019‑03‑02
+Muhammad Rafidan,d78e147,penambahan fungsionalitas register ke firebase,2019‑03‑02
+Ian Dzillan Malik,c131e0e,Controller Login (Resolved #47cae86),2019‑03‑02
+Ian Dzillan Malik,d94da8d,"Perbaikan ""cannot Resolve symbol R""",2019‑03‑01
+Ian Dzillan Malik,4fe6a2a,Menyambungkan class login dengan class register dan class lupaPassword (ref #47cae86),2019‑03‑01
+farhanzuhdy,005db75,Pembuatan Beranda,2019‑02‑25
+Ian Dzillan Malik,5847c1b,Controller Login (ref #47cae86,2019‑02‑20
+Muhammad Rafidan,72f1e59,Pembuatan Layout Register,2019‑02‑20
+Ichwan Habibie,d593dd6,Perbaikan Layout Lupa Password (ref #b2c1ab2),2019‑02‑20
+Fahri Hamzalah,a0ed897,Perbaikan Layout Ubah Profile (ref #2bd349f),2019‑02‑20
+Fahri Hamzalah,2bd349f,Pembuatan Layout Ubah Profil,2019‑02‑20
+Ayuvira Kusuma,95fe5b8,Layout Ubah Password,2019‑02‑20
+Ichwan Habibie,b2c1ab2,Perbaikan Layout Forget Password (ref #49aeea0),2019‑02‑19
+Ichwan Habibie,49aeea0,forget password,2019‑02‑19
+Ian Dzillan Malik,fecb2b1,Add Login Layout,2019‑02‑19
+Ian Dzillan Malik,47cae86,Ongoing Login,2019‑02‑19
+Ian Dzillan Malik,683f8c4,Buat SplashScreen,2019‑02‑18
