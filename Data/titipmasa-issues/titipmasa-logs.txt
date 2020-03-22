@@ -1,0 +1,1118 @@
+﻿[
+  {
+    "comment": 50856602,
+    "changed_to": "sevirahendari",
+    "field": "responsible",
+    "created_on": "2019-03-02T08:16:51.307548+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 4,
+    "changed_from": ""
+  },
+  {
+    "comment": 50856602,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-02T08:16:51.303112+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 4,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51209133,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T03:19:38.841552+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 3,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209166,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T03:22:44.240690+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 5,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209173,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T03:23:17.848977+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 8,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209181,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T03:23:56.601807+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 3,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209188,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T03:24:31.627708+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 8,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209204,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T03:26:14.055725+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 1,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209236,
+    "changed_to": "duplicate",
+    "field": "status",
+    "created_on": "2019-03-19T03:30:57.228474+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 4,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209269,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T03:35:35.491068+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 2,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209270,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T03:35:51.331907+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 2,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209822,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T04:43:04.666557+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 9,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211149,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:45:54.861721+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 9,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211160,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:46:30.298794+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211162,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:46:37.658558+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 10,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211173,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:47:29.004008+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 4,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211173,
+    "changed_to": "[1][3] (1) Membuat intro slider",
+    "field": "title",
+    "created_on": "2019-03-19T06:47:28.993516+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 4,
+    "changed_from": "[1][3]membuat intro slider"
+  },
+  {
+    "comment": 51211187,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:48:59.518891+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 1,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211201,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:49:43.981273+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 12,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211211,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:50:08.656884+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 11,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211214,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:50:20.148880+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 11,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211222,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:51:14.102643+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 2,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211228,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:51:59.644860+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 8,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211236,
+    "changed_to": "[1][3] Membuat intro slider",
+    "field": "title",
+    "created_on": "2019-03-19T06:52:28.213257+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 4,
+    "changed_from": "[1][3] (1) Membuat intro slider"
+  },
+  {
+    "comment": 51211244,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:53:06.278559+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 3,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211269,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:54:00.302033+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 5,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211284,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:54:29.375732+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 7,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211341,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:57:35.129437+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 14,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211354,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-19T06:57:58.072497+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 13,
+    "changed_from": ""
+  },
+  {
+    "comment": 51211454,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T07:04:52.873539+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 14,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211519,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T07:10:04.177581+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 16,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51367554,
+    "changed_to": "rahkmahnabila",
+    "field": "responsible",
+    "created_on": "2019-03-28T03:14:53.396066+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 16,
+    "changed_from": "nisyafeb"
+  },
+  {
+    "comment": 51376900,
+    "changed_to": "[2][1] Membuat halaman trip local",
+    "field": "title",
+    "created_on": "2019-03-28T13:17:33.021475+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 16,
+    "changed_from": "[2][4] Membuat halaman trip local"
+  },
+  {
+    "comment": 51376971,
+    "changed_to": "[2][3] Membuat halaman trip internasional",
+    "field": "title",
+    "created_on": "2019-03-28T13:20:14.070609+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 17,
+    "changed_from": "[2][5] Membuat halaman trip internasional"
+  },
+  {
+    "comment": 51376992,
+    "changed_to": "[2][4] Menyambungkan API Location (Maps)",
+    "field": "title",
+    "created_on": "2019-03-28T13:21:23.190158+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 15,
+    "changed_from": "[2][3] Menyambungkan API Location (Maps)"
+  },
+  {
+    "comment": 51377007,
+    "changed_to": "[2][5] Membuat halaman titipan",
+    "field": "title",
+    "created_on": "2019-03-28T13:22:02.647230+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 22,
+    "changed_from": "[2][10] Membuat halaman titipan"
+  },
+  {
+    "comment": 51377021,
+    "changed_to": "[2][6] Membuat halaman review titipan",
+    "field": "title",
+    "created_on": "2019-03-28T13:22:39.524779+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 23,
+    "changed_from": "[2][11] Membuat halaman review titipan"
+  },
+  {
+    "comment": 51377049,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:24:09.960469+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 25,
+    "changed_from": "Sprint 3"
+  },
+  {
+    "comment": 51377049,
+    "changed_to": "[2][7] Membuat halaman konfirmasi transaksi",
+    "field": "title",
+    "created_on": "2019-03-28T13:24:09.937514+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 25,
+    "changed_from": "[3][2] Membuat halaman konfirmasi transaksi"
+  },
+  {
+    "comment": 51377063,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:25:05.153610+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 24,
+    "changed_from": "Sprint 3"
+  },
+  {
+    "comment": 51377063,
+    "changed_to": "[2][8] Membuat halaman pembayaran",
+    "field": "title",
+    "created_on": "2019-03-28T13:25:05.136798+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 24,
+    "changed_from": "[3][1] Membuat halaman pembayaran"
+  },
+  {
+    "comment": 51377075,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:25:45.633411+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 13,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51377075,
+    "changed_to": "[3][1] Membuat halaman validasi user",
+    "field": "title",
+    "created_on": "2019-03-28T13:25:45.607162+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 13,
+    "changed_from": "[2][1] Membuat halaman validasi user"
+  },
+  {
+    "comment": 51377093,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:26:32.506849+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 19,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51377093,
+    "changed_to": "[3][2] Membuat fitur filter tempat tujuan",
+    "field": "title",
+    "created_on": "2019-03-28T13:26:32.500107+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 19,
+    "changed_from": "[2][7] Membuat fitur filter tempat tujuan"
+  },
+  {
+    "comment": 51377112,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:27:16.269320+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 18,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51377112,
+    "changed_to": "[3][3] Membuat fitur filter rekomendasi",
+    "field": "title",
+    "created_on": "2019-03-28T13:27:16.257999+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 18,
+    "changed_from": "[2][6] Membuat fitur filter rekomendasi"
+  },
+  {
+    "comment": 51377174,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:29:33.037874+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 20,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51377174,
+    "changed_to": "[3][4] Membuat fitur filter keberangkatan",
+    "field": "title",
+    "created_on": "2019-03-28T13:29:33.033949+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 20,
+    "changed_from": "[2][8] Membuat tampilan filter keberangkatan"
+  },
+  {
+    "comment": 51377202,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-28T13:30:29.464102+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 21,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51377202,
+    "changed_to": "[3][5] Membuat fitur Chat/Message",
+    "field": "title",
+    "created_on": "2019-03-28T13:30:29.446567+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 21,
+    "changed_from": "[2][9] Membuat fitur Chat/Message"
+  },
+  {
+    "comment": 51377278,
+    "changed_to": "anisaagustina",
+    "field": "responsible",
+    "created_on": "2019-03-28T13:33:57.296225+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 18,
+    "changed_from": "rahkmahnabila"
+  },
+  {
+    "comment": 51377293,
+    "changed_to": "nisyafeb",
+    "field": "responsible",
+    "created_on": "2019-03-28T13:34:41.694733+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 19,
+    "changed_from": "sevirahendari"
+  },
+  {
+    "comment": 51377774,
+    "changed_to": "sevirahendari",
+    "field": "responsible",
+    "created_on": "2019-03-28T14:00:01.572704+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 24,
+    "changed_from": "fikfik"
+  },
+  {
+    "comment": 51436800,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T02:55:23.703947+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 16,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51436863,
+    "changed_to": "[2][2] Membuat login API pada website",
+    "field": "title",
+    "created_on": "2019-04-02T03:00:54.435787+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 14,
+    "changed_from": "[2][2] Membuat login API"
+  },
+  {
+    "comment": 51436869,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:01:34.169683+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 14,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51436883,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:02:56.347903+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 17,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437004,
+    "changed_to": "[2][5] Membuat halaman titipan (post barang)",
+    "field": "title",
+    "created_on": "2019-04-02T03:21:40.958226+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 22,
+    "changed_from": "[2][5] Membuat halaman titipan"
+  },
+  {
+    "comment": 51437004,
+    "changed_to": "Membuat halaman titipan post barang pada aplikasi mobile tanpa melakukan upload foto barang yang akan di titip. \r\n\r\nStory : user melakukan prosesn penitipan barang dengan cara memilih lokasi kemudian memilih  detail titipan pada aplikasi (telah di sediakan) kemudian melakukan submit.",
+    "field": "content",
+    "created_on": "2019-04-02T03:21:40.955343+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 22,
+    "changed_from": "Membuat halaman titipan"
+  },
+  {
+    "comment": 51437033,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:26:19.118466+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 22,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437069,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:31:31.850268+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 15,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437140,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:39:20.823157+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 24,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437162,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T03:42:32.693809+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 25,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437325,
+    "changed_to": "Membuat halaman untuk melihat trip local yang tersedia\r\n\r\nStory: Ketika user berhasil login, maka user dapat memilih halaman Trip Lokal yang berisi daftar daerah-daerah yang ada di Lokal. User juga dapat memilih daerah mana yang mau user lakukan untuk menitipkan barang.",
+    "field": "content",
+    "created_on": "2019-04-02T04:04:44.536894+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 16,
+    "changed_from": "Membuat halaman untuk melihat trip local yang tersedia"
+  },
+  {
+    "comment": 51437325,
+    "changed_to": "trip lokal.png",
+    "field": "attachment",
+    "created_on": "2019-04-02T04:04:44.502331+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 16,
+    "changed_from": "/rpl2019/titipmasa/issues/attachments/16/rpl2019/titipmasa/1554177884.34/16/trip%20lokal.png"
+  },
+  {
+    "comment": 51439415,
+    "changed_to": "Membuat halaman review titipan yang berisi detail dari barang titipan.\r\n\r\nStory: User dapat melihat detail dari barang yang mau dititip. Detail barang tersebut berisi gambar, harga barang, deskripsi barang. Pada halaman detail tersebut, user dapat melakukan konfirmasi pembayaran jika user ingin menitipkan barang tersebut",
+    "field": "content",
+    "created_on": "2019-04-02T07:10:24.890024+00:00",
+    "user": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "issue": 23,
+    "changed_from": "Membuat halaman review titipan"
+  },
+  {
+    "comment": 51439571,
+    "changed_to": "Membuat login dengan API pada database Website http://titipmasa.id/\r\n\r\nStory: User dapat melakukan login akun pada website http://titipmasa.id/ dan dapat login pada aplikasi mobile titip masa. Jika belum punya akun, User dapat melakukan registrasi yang akan mengarah pada database website http://titipmasa.id/",
+    "field": "content",
+    "created_on": "2019-04-02T07:18:32.976705+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 14,
+    "changed_from": "Membuat login dengan API"
+  },
+  {
+    "comment": 51439571,
+    "changed_to": "login.jpg",
+    "field": "attachment",
+    "created_on": "2019-04-02T07:18:32.923901+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 14,
+    "changed_from": "/rpl2019/titipmasa/issues/attachments/14/rpl2019/titipmasa/1554189512.78/14/login.jpg"
+  },
+  {
+    "comment": 51439659,
+    "changed_to": "Membuat location dengan menggunakan API Maps\r\n\r\nStory: User dapat mengetahui lokasi tepat dimana dia berada yang dapat di lihat pada halaman User Profile dengan nama Lokasi Saya. Dengan fitur Lokasi Saya ini juga dapat meyakinkan user (Yang dititip) mengenai keberadaan yang menitipkan barangnya.",
+    "field": "content",
+    "created_on": "2019-04-02T07:23:04.659913+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 15,
+    "changed_from": "Membuat location dengan menggunakan API Maps"
+  },
+  {
+    "comment": 51439659,
+    "changed_to": "lokasi.jpg",
+    "field": "attachment",
+    "created_on": "2019-04-02T07:23:04.581543+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 15,
+    "changed_from": "/rpl2019/titipmasa/issues/attachments/15/rpl2019/titipmasa/1554189784.42/15/lokasi.jpg"
+  },
+  {
+    "comment": 51439714,
+    "changed_to": "Membuat tampilan untuk trip international\r\n\r\nStory: Ketika user berhasil login, maka user dapat memilih halaman Trip Internasional dengan menggeser (slide halaman) atau memilih menu internasional pada menu bar di bawah. Fitur trip Internasional yang berisi daftar negara-negara apa saja yang tersedia. User juga dapat memilih negara mana yang mau user lakukan untuk menitipkan barang.",
+    "field": "content",
+    "created_on": "2019-04-02T07:26:51.964926+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 17,
+    "changed_from": "Membuat tampilan untuk trip international"
+  },
+  {
+    "comment": 51439714,
+    "changed_to": "inter.png",
+    "field": "attachment",
+    "created_on": "2019-04-02T07:26:51.897942+00:00",
+    "user": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "issue": 17,
+    "changed_from": "/rpl2019/titipmasa/issues/attachments/17/rpl2019/titipmasa/1554190011.72/17/inter.png"
+  },
+  {
+    "comment": 51439892,
+    "changed_to": "Membuat halaman validasi user dengan menggunakan id card (KTP/SIM/Id card lainnya) dan nomor telephone\r\n\r\nStory: Halaman ini merupakan halaman yang memvalidasi user, dimana untuk membuktikan user benar - benar valid atau tidak. Pada halaman ini user harus melengkapi data yang diminta seperti KTP/SIM. user juga harus melengkapi data -data yang belum diisi saat register",
+    "field": "content",
+    "created_on": "2019-04-02T07:36:59.969384+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 13,
+    "changed_from": "Membuat halaman validasi user dengan menggunakan id card (KTP/SIM/Id card lainnya) dan nomor telephone"
+  },
+  {
+    "comment": 51440065,
+    "changed_to": "Membuat tampilan trip filter tempat tujuan\r\n\r\nStory: Pada halaman ini user dapat melakukan filter berdasarkan tempat tujuan, misal A asal bandung ingin membeli barang dari makassar, ada dapat melakukan filter tempat tujuan dari tempat asal barang ke tempat asal A",
+    "field": "content",
+    "created_on": "2019-04-02T07:45:42.004760+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 19,
+    "changed_from": "Membuat tampilan trip filter tempat tujuan"
+  },
+  {
+    "comment": 51440088,
+    "changed_to": "Membuat tampilan untuk filter rekomendasi\r\n\r\nStory: Pada halaman ini user dapat melakukan filter berdasarkan barang yang diinginkan, misal Si A ingin menampilkan semua titipan sepatu",
+    "field": "content",
+    "created_on": "2019-04-02T07:46:48.535493+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 18,
+    "changed_from": "Membuat tampilan untuk filter rekomendasi"
+  },
+  {
+    "comment": 51440143,
+    "changed_to": "Membuat fitur chat\r\n\r\nStory: Pada halaman ini user dapat melakukan percakapan atau mengirim pesan langsung ke penitip barang. Misala si A ingin menitip barang, dan ingin mengetahui beberapa hal tentang barang tersebut, si A dapat mengontak langsung si yang dititipi",
+    "field": "content",
+    "created_on": "2019-04-02T07:48:43.705652+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 21,
+    "changed_from": "Membuat fitur chat"
+  },
+  {
+    "comment": 51440151,
+    "changed_to": "Membuat tampilan filter keberangkatan pada fitur trip\r\n\r\nStory: Pada halaman ini user dapat melakukan filter keberangkatan berdasarkan yang paling cepat",
+    "field": "content",
+    "created_on": "2019-04-02T07:49:37.595674+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 20,
+    "changed_from": "Membuat tampilan filter keberangkatan pada fitur trip"
+  },
+  {
+    "comment": 51444524,
+    "changed_to": "Membuat tampilan untuk pembayaran\r\n\r\nStory : Apabila orang yang dititipi telah menyetujui barang tersebut, maka orang yang dititipi dapat menginputkan biaya kirim untuk tujuan barang tersebut, tanggal keberangkat, jam keberangkatan, jumlah titipan, serta dapat melakukan penitipan barang secara pulang-pergi.",
+    "field": "content",
+    "created_on": "2019-04-02T11:46:38.375807+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 24,
+    "changed_from": "Membuat tampilan untuh pembayaran"
+  },
+  {
+    "comment": 51444524,
+    "changed_to": "1.jpg",
+    "field": "attachment",
+    "created_on": "2019-04-02T11:46:38.244719+00:00",
+    "user": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "issue": 24,
+    "changed_from": "/rpl2019/titipmasa/issues/attachments/24/rpl2019/titipmasa/1554205598.08/24/1.jpg"
+  },
+  {
+    "comment": 51445485,
+    "changed_to": "Membuat tampilan konfirmasi transaksi\r\n\r\nStory : setelah yang dititpi mengirimkan konfirmasi, maka yang menitip harus melakukan konfirmasi pembayaran, bahwa dia telah membayar yang mereka titip",
+    "field": "content",
+    "created_on": "2019-04-02T12:31:29.032255+00:00",
+    "user": {
+      "display_name": "Anisa Agustina",
+      "account_id": "5c540a9c3e729341b35199b7"
+    },
+    "issue": 25,
+    "changed_from": "Membuat tampilan konfirmasi transaksi"
+  },
+  {
+    "comment": 51536939,
+    "changed_to": "Membuat fitur chat\r\n\r\nStory: Pada halaman ini user dapat melakukan percakapan atau mengirim pesan langsung ke penitip barang. Misal si A ingin menitip barang, dan ingin mengetahui beberapa hal tentang barang tersebut, si A dapat mengontak langsung si yang dititipi. Di halaman ini user akan di arahkan ke WhatsApp si user yang posting titipan",
+    "field": "content",
+    "created_on": "2019-04-08T13:34:22.629577+00:00",
+    "user": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "issue": 21,
+    "changed_from": "Membuat fitur chat\r\n\r\nStory: Pada halaman ini user dapat melakukan percakapan atau mengirim pesan langsung ke penitip barang. Misala si A ingin menitip barang, dan ingin mengetahui beberapa hal tentang barang tersebut, si A dapat mengontak langsung si yang dititipi"
+  },
+  {
+    "comment": 51753638,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-04-22T15:21:11.693384+00:00",
+    "user": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "issue": 27,
+    "changed_from": ""
+  },
+  {
+    "comment": 51753638,
+    "changed_to": "benhughierezanda",
+    "field": "responsible",
+    "created_on": "2019-04-22T15:21:11.689102+00:00",
+    "user": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "issue": 27,
+    "changed_from": ""
+  },
+  {
+    "comment": 51753638,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-22T15:21:11.684956+00:00",
+    "user": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "issue": 27,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51753638,
+    "changed_to": "Filter keberangkatan 2 terdiri atas :\r\n- Foto produk dari kota yang ingin didatangi\r\n- Harga dari produk tersebut\r\n- Request produk",
+    "field": "content",
+    "created_on": "2019-04-22T15:21:11.680976+00:00",
+    "user": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "issue": 27,
+    "changed_from": ""
+  },
+  {
+    "comment": 51886687,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-30T04:17:05.852584+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 21,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886847,
+    "changed_to": "on hold",
+    "field": "status",
+    "created_on": "2019-04-30T04:41:10.538180+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 19,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886855,
+    "changed_to": "on hold",
+    "field": "status",
+    "created_on": "2019-04-30T04:42:11.140922+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 27,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886867,
+    "changed_to": "on hold",
+    "field": "status",
+    "created_on": "2019-04-30T04:43:32.369445+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 18,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886868,
+    "changed_to": "on hold",
+    "field": "status",
+    "created_on": "2019-04-30T04:43:41.780431+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 20,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886869,
+    "changed_to": "on hold",
+    "field": "status",
+    "created_on": "2019-04-30T04:43:48.493665+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 26,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886930,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-30T04:52:32.739149+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 13,
+    "changed_from": "new"
+  }
+]

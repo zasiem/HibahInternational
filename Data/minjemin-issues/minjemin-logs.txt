@@ -1,0 +1,1034 @@
+﻿[
+  {
+    "comment": 50760881,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-02-25T05:34:34.275413+00:00",
+    "user": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "issue": 3,
+    "changed_from": "new"
+  },
+  {
+    "comment": 50868970,
+    "changed_to": "[4][3] Membuat halaman utama",
+    "field": "title",
+    "created_on": "2019-03-03T16:57:27.006593+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 6,
+    "changed_from": "[4]"
+  },
+  {
+    "comment": 50868970,
+    "changed_to": "zenithomadyagantang",
+    "field": "responsible",
+    "created_on": "2019-03-03T16:57:27.004215+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 6,
+    "changed_from": ""
+  },
+  {
+    "comment": 50868970,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-03T16:57:27.000894+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 6,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51181424,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-17T05:59:18.136434+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 2,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51199646,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-18T14:37:43.815353+00:00",
+    "user": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "issue": 6,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51216835,
+    "changed_to": "[2][2] Membuat fungsi peminjaman barang",
+    "field": "title",
+    "created_on": "2019-03-19T11:59:51.641169+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 9,
+    "changed_from": "(6,2) Membuat fungsi peminjaman barang"
+  },
+  {
+    "comment": 51216876,
+    "changed_to": "[1][2]-Membuat Halaman Daftar",
+    "field": "title",
+    "created_on": "2019-03-19T12:01:24.765170+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 8,
+    "changed_from": "(3,2) Membuat Register"
+  },
+  {
+    "comment": 51216894,
+    "changed_to": "[1][4] -Membuat halaman Kelola profile",
+    "field": "title",
+    "created_on": "2019-03-19T12:02:31.178901+00:00",
+    "user": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "issue": 1,
+    "changed_from": "(1) (4) Membuat Kelola Profile"
+  },
+  {
+    "comment": 51216897,
+    "changed_to": "[1][1]- Membuat Halaman Masuk",
+    "field": "title",
+    "created_on": "2019-03-19T12:02:40.763153+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 7,
+    "changed_from": "(1,2) Membuat Halaman Masuk"
+  },
+  {
+    "comment": 51216897,
+    "changed_to": "Task : Alif, Rizky",
+    "field": "content",
+    "created_on": "2019-03-19T12:02:40.680067+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 7,
+    "changed_from": ""
+  },
+  {
+    "comment": 51216917,
+    "changed_to": "[1][4] -Membuat halaman Kelola profile",
+    "field": "title",
+    "created_on": "2019-03-19T12:03:27.980195+00:00",
+    "user": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "issue": 4,
+    "changed_from": "(1)(5) Membuat gambaran kelola profile"
+  },
+  {
+    "comment": 51216953,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T12:05:21.288004+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 4,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51220433,
+    "changed_to": "Membuat Halaman Chekout\r\n\r\nFront End\r\nLayout Checkout : \r\n\r\n- Detail Peminjaman\r\n- Pembayaran\r\n\r\nBack End\r\n\r\n- Fungsi Detail Peminjaman\r\n- Pembayaran",
+    "field": "content",
+    "created_on": "2019-03-19T15:12:21.083226+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 14,
+    "changed_from": "Membuat Halaman Chekout\r\n\r\nFront End\r\nLayout Checkout :\r\n- Detail Peminjaman\r\n- Pembayaran\r\n\r\nBack End\r\n- Fungsi Detail Peminjaman\r\n- Pembayaran"
+  },
+  {
+    "comment": 51221282,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T15:50:25.329088+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 7,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51221296,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T15:51:09.572091+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 1,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51246016,
+    "changed_to": "[2][3]-Membuat Fungsi checkout",
+    "field": "title",
+    "created_on": "2019-03-21T01:13:35.107920+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 14,
+    "changed_from": "#14 [2][3]-Membuat Fungsi checkout"
+  },
+  {
+    "comment": 51319461,
+    "changed_to": "alifjafar",
+    "field": "responsible",
+    "created_on": "2019-03-25T16:59:35.439729+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 12,
+    "changed_from": "firdhatami"
+  },
+  {
+    "comment": 51319461,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-25T16:59:35.435088+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 12,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51327595,
+    "changed_to": "zenithomadyagantang",
+    "field": "responsible",
+    "created_on": "2019-03-26T06:53:11.716523+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 16,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437497,
+    "changed_to": "membuat front end checkout bersama @rizkyrhakiki \r\n\r\nDetail peminjaman\r\nPembayaran\r\nNavigation Tab",
+    "field": "content",
+    "created_on": "2019-04-02T04:25:00.183356+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 16,
+    "changed_from": "membuat front end checkout bersama @rizkyrhakiki"
+  },
+  {
+    "comment": 51437503,
+    "changed_to": "membuat front end checkout bersama @rizkyrhakiki \r\n\r\nFront End\r\nLayout Checkout : \r\n\r\n- Detail Peminjaman\r\n- Pembayaran",
+    "field": "content",
+    "created_on": "2019-04-02T04:26:23.576033+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 16,
+    "changed_from": "membuat front end checkout bersama @rizkyrhakiki \r\n\r\nDetail peminjaman\r\nPembayaran\r\nNavigation Tab"
+  },
+  {
+    "comment": 51437643,
+    "changed_to": "Membuat tampilan item barang tagihan",
+    "field": "content",
+    "created_on": "2019-04-02T04:44:01.995015+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 11,
+    "changed_from": "Task : Ryan dan Danti"
+  },
+  {
+    "comment": 51438089,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:36:21.811127+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438089,
+    "changed_to": "[2][1] Front end Filter/Searching Data Barang",
+    "field": "title",
+    "created_on": "2019-04-02T05:36:21.808271+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 10,
+    "changed_from": "[2][1] Filter/Searching Data Barang"
+  },
+  {
+    "comment": 51438089,
+    "changed_to": "Task : Firdha dan Danti\r\n\r\nMembuat front end dan back end dari filter/searching data barang.\r\nYang terdiri dari XML dan Java class\r\n\r\nStory : user melakukukan pencarian barang dengan cara mengetik pada halaman home untuk pencarian. kemudian klik icon seacrh sehingga aplikasi memunculkan sesuai dengan kata kunci yang diketik oleh user. \r\n\r\nlibk mockup / attach mock up",
+    "field": "content",
+    "created_on": "2019-04-02T05:36:21.804382+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 10,
+    "changed_from": "Task : Firdha dan Danti\r\n\r\nMembuat front end dan back end dari filter/searching data barang.\r\nYang terdiri dari XML dan Java class"
+  },
+  {
+    "comment": 51438144,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:40:40.475131+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 10,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438152,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:41:19.262494+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 18,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438215,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:46:56.433601+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 12,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438220,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:47:11.186981+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 9,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438241,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:49:25.543054+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 13,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438249,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:50:05.073507+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 14,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438300,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:54:17.070249+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 11,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438306,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:54:41.393894+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 17,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438373,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:58:10.427161+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 16,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51438564,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T06:10:21.612320+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 18,
+    "changed_from": "closed"
+  },
+  {
+    "comment": 51474171,
+    "changed_to": "[2][5] Integrasi antara fungsi check out dengan transaksi",
+    "field": "title",
+    "created_on": "2019-04-04T00:04:00.193881+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 19,
+    "changed_from": "[2][25] Integrasi antara fungsi check out dengan transaksi"
+  },
+  {
+    "comment": 51474452,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T00:57:44.617703+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 18,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474458,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T00:59:30.876048+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 17,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474458,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-04T00:59:30.872076+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 17,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51474464,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T00:59:51.902872+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 16,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474466,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:00:01.010192+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 11,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474472,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:00:11.534526+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 14,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474478,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:00:28.350299+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 13,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474482,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:01:33.931229+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 9,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474484,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:01:50.427950+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 12,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474490,
+    "changed_to": "[2][2] Front-end Peminjaman Barang (Detail item)",
+    "field": "title",
+    "created_on": "2019-04-04T01:03:28.382817+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 12,
+    "changed_from": "[2][2] Membuat halaman peminjaman barang"
+  },
+  {
+    "comment": 51474490,
+    "changed_to": "firdhatami",
+    "field": "responsible",
+    "created_on": "2019-04-04T01:03:28.379541+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 12,
+    "changed_from": "alifjafar"
+  },
+  {
+    "comment": 51474518,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:08:59.413081+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 7,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474519,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:09:26.445835+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 8,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474563,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-04T01:16:20.731533+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 8,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51474565,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:16:44.517860+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 6,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474566,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:16:56.401961+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 2,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474567,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:17:05.648619+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 5,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474568,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:17:14.646379+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 3,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474569,
+    "changed_to": "Sprint 1",
+    "field": "milestone",
+    "created_on": "2019-04-04T01:17:25.278810+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 4,
+    "changed_from": ""
+  },
+  {
+    "comment": 51474570,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-04T01:17:32.381604+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 4,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51474572,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-04T01:17:45.357299+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 5,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51474627,
+    "changed_to": "Membuat integrasi antara fungsi check out dengan transaksi melalui api, sehinga ketika aktifitas checkout berhasil akan dialihkan ke page transaksi.",
+    "field": "content",
+    "created_on": "2019-04-04T01:22:58.498628+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 19,
+    "changed_from": "buat detail story dan data"
+  },
+  {
+    "comment": 51546723,
+    "changed_to": "[3][2] Front End halaman review and feedback",
+    "field": "title",
+    "created_on": "2019-04-09T03:04:45.895000+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 21,
+    "changed_from": "[3][2]"
+  },
+  {
+    "comment": 51546915,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-09T03:29:21.816042+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 22,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51552794,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-09T09:44:46.094765+00:00",
+    "user": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "issue": 23,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51557819,
+    "changed_to": "Deskripsi Fitur :\r\n\r\nFitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Ketika user memilih fitur chat, user akan melihat history chat yang pernah dilakukan, termasuk chat terbaru. Ketika user memilih salah satu chat maka akan ditampilkan pesan nya dengan dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak. \r\n\r\nBackend :\r\n- Logic Menampilkan daftar history chat\r\n- Menampilkan pesan chat \r\n- Input pesan dan disimpan pada database\r\n- Read pesan dan ditampilkan di tampilan chat",
+    "field": "content",
+    "created_on": "2019-04-09T14:03:27.234582+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 24,
+    "changed_from": "Fitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Ketika user memilih fitur chat, user akan melihat history chat yang pernah dilakukan, termasuk chat terbaru. Ketika user memilih salah satu chat maka akan ditampilkan pesan nya dengan dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak. \r\n\r\nBackend \r\n- Logic Menampilkan daftar history chat\r\n- Menampilkan pesan chat \r\n- Input pesan dan disimpan pada database\r\n- Read pesan dan ditampilkan di tampilan chat"
+  },
+  {
+    "comment": 51746581,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-22T06:29:41.460134+00:00",
+    "user": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "issue": 21,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51746627,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-22T06:33:19.776315+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 26,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51746642,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-04-22T06:34:20.216339+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 23,
+    "changed_from": ""
+  },
+  {
+    "comment": 51747631,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-22T07:43:10.974630+00:00",
+    "user": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "issue": 26,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51747775,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-22T07:56:29.799684+00:00",
+    "user": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "issue": 22,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51759563,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-23T02:18:35.220524+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 19,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51759777,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-23T02:41:29.708111+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 24,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51760227,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-23T03:35:44.767436+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 15,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51771838,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-23T15:50:55.352984+00:00",
+    "user": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "issue": 20,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51814114,
+    "changed_to": "fitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Tampilan fiturchat ini dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak\r\n\r\nMockup : \r\nbit.ly/TampilanMinjemin",
+    "field": "content",
+    "created_on": "2019-04-26T01:45:25.286587+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 22,
+    "changed_from": "fitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Tampilan fiturchat ini dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak"
+  },
+  {
+    "comment": 51814137,
+    "changed_to": "Halaman feedback adalah halaman dimana kita bisa menambahkan rating barang, dan memberikan feedback kepada barang yang sudah dipinjam.\r\nLalu jika di submit hasil review dan rating akan ditampilkan di halaman barang.\r\n\r\n\r\nMockup : \r\nbit.ly/TampilanMinjemin",
+    "field": "content",
+    "created_on": "2019-04-26T01:47:58.563846+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 21,
+    "changed_from": "Halaman feedback adalah halaman dimana kita bisa menambahkan rating barang, dan memberikan feedback kepada barang yang sudah dipinjam.\r\nLalu jika di submit hasil review dan rating akan ditampilkan di halaman barang."
+  },
+  {
+    "comment": 51886617,
+    "changed_to": "Deskripsi Fitur :\r\n\r\nFitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Ketika user memilih fitur chat, user akan melihat history chat yang pernah dilakukan, termasuk chat terbaru. Ketika user memilih salah satu chat maka akan ditampilkan pesan nya dengan dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak.\r\n\r\nBackend :   \r\n- Logic Menampilkan daftar history chat   \r\n- Menampilkan pesan chat - Input pesan   \r\n- Read pesan dan ditampilkan di tampilan chat",
+    "field": "content",
+    "created_on": "2019-04-30T04:05:34.336345+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 24,
+    "changed_from": "Deskripsi Fitur :\r\n\r\nFitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Ketika user memilih fitur chat, user akan melihat history chat yang pernah dilakukan, termasuk chat terbaru. Ketika user memilih salah satu chat maka akan ditampilkan pesan nya dengan dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak. \r\n\r\nBackend :\r\n- Logic Menampilkan daftar history chat\r\n- Menampilkan pesan chat \r\n- Input pesan dan disimpan pada database\r\n- Read pesan dan ditampilkan di tampilan chat"
+  },
+  {
+    "comment": 51886624,
+    "changed_to": "Layout pengembalian barang adalah sebuah fitur pengembalian barang jika dirasa customer merasa barang yang di pinjam tidak sesuai. Didalam layout ini mempunyai fitur berupa pilih metode pengembalian, masukan alamat pengembalian, pilih waktu pengembalian dan pengajuan negosiasi jam pengembalian.  \r\n  \r\nMockup : bit.ly/TampilanMinjemin",
+    "field": "content",
+    "created_on": "2019-04-30T04:06:30.649424+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 26,
+    "changed_from": "Layout pengembalian barang adalah sebuah fitur pengembalian barang jika dirasa customer merasa barang yang di pinjam tidak sesuai.  Didalam layout ini mempunyai fitur berupa pilih metode pengembalian, masukan alamat pengembalian, pilih waktu pengembalian dan pengajuan negosiasi jam pengembalian."
+  },
+  {
+    "comment": 51886703,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-04-30T04:19:54.592005+00:00",
+    "user": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "issue": 22,
+    "changed_from": ""
+  },
+  {
+    "comment": 51886858,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T04:42:21.454015+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 26,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51886866,
+    "changed_to": "open",
+    "field": "status",
+    "created_on": "2019-04-30T04:43:29.509657+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 20,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51886871,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T04:43:56.557255+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 20,
+    "changed_from": "open"
+  },
+  {
+    "comment": 51886932,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T04:52:58.919842+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 22,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51886947,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T04:55:13.807341+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 21,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51886951,
+    "changed_to": "open",
+    "field": "status",
+    "created_on": "2019-04-30T04:55:35.156238+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 21,
+    "changed_from": "closed"
+  },
+  {
+    "comment": 51886956,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T04:55:54.266828+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 21,
+    "changed_from": "open"
+  },
+  {
+    "comment": 51887089,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:16:45.629023+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 28,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887090,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:17:07.766205+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 27,
+    "changed_from": "new"
+  }
+]

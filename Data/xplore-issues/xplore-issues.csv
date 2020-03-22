@@ -1,0 +1,65 @@
+status,issue,title,date,assignee
+closed,61,[3][4] Membuat back end dari fitur Profil,2019-04-09T03:09:05.998785+00:00,aulia ikhsanati
+closed,63,[3][7] Membuat front end dari kategori Transportasi,2019-04-09T03:16:33.782299+00:00,aulia ikhsanati
+closed,64,[3][8] Membuat back end dari fitur Transportasi,2019-04-21T09:11:21.552223+00:00,Rizka Fadhilah
+closed,67,[3][10] Membuat back end dari fitur Filter,2019-04-30T03:29:32.737889+00:00,Hanif Ramadhan
+closed,66,[3][9] Membuat front end dari fitur Filter,2019-04-30T03:27:48.782392+00:00,Ilham Satria
+closed,62,[3][5] Membuat front end dari fitur Feeds,2019-04-09T03:12:16.457866+00:00,Hanif Ramadhan
+closed,13,[3][6] Membuat back end dari fitur Feeds,2019-03-03T17:37:09.132714+00:00,Hanif Ramadhan
+closed,60,[3][3] Membuat back end maps dari fitur Oleh-oleh,2019-04-09T03:05:39.414362+00:00,Hanif Ramadhan
+closed,65,[3][2] Membuat backend dari fitur About Us,2019-04-30T03:24:14.199556+00:00,dennis cunong
+closed,54,[3][1] Membuat Front-end dari fitur About us,2019-03-19T10:10:26.087815+00:00,aprilia widyas
+resolved,3,[3][9] Membuat Front-End dari Fitur filter,2019-02-23T07:22:37.437153+00:00,dennis cunong
+resolved,56,[3][10] Membuat back-end dari fitur filter,2019-03-19T10:20:09.958670+00:00,Hanif Ramadhan
+closed,44,[2][13] Membuat back-end kategori oleh-oleh,2019-03-19T09:49:03.705414+00:00,dennis cunong
+closed,45,[2][3] Membuat front-end Like ketegoti Oleh-oleh,2019-03-19T10:03:37.381382+00:00,Hanif Ramadhan
+closed,49,[2][7] Membuat Front-end maps pada kategori Oleh-oleh,2019-03-19T10:07:21.765623+00:00,Ilham Satria
+closed,50,[2][8] Membuat back-end maps pada kategori Oleh-oleh,2019-03-19T10:07:47.414430+00:00,Ilham Satria
+closed,52,[2][10] Membuat front end weather,2019-03-19T10:08:34.913733+00:00,Rizka Fadhilah
+closed,53,[2][11] Membuat back end weather,2019-03-19T10:09:20.867679+00:00,Rizka Fadhilah
+closed,10,[2][12] Membuat Front End Kategori Oleh-Oleh,2019-03-03T15:43:40.145159+00:00,dennis cunong
+resolved,34,[1][23] Membuat Front End dari Like pda kategori Kuliner,2019-03-19T08:41:38.126960+00:00,aprilia widyas
+resolved,30,[1][15] Membuat back-end Like pada kategori Pariwisata,2019-03-19T08:35:47.356448+00:00,aprilia widyas
+resolved,40,[1][24] Membuat back-end Like pada kategori Kuliner,2019-03-19T08:47:20.788941+00:00,aprilia widyas
+closed,46,[2][4] Membuat back-end Like pada Kategori Oleh-oleh,2019-03-19T10:04:40.003659+00:00,aprilia widyas
+closed,48,[2][6] Membuat back-end Feedback pada kategori Oleh-oleh,2019-03-19T10:06:11.715394+00:00,aulia ikhsanati
+closed,47,[2][5] Membuat front-end Feedback pada kategori Oleh-oleh,2019-03-19T10:05:36.715027+00:00,aulia ikhsanati
+closed,59,[2][2] Membuat back-end Registrasi Account,2019-03-19T10:50:31.476530+00:00,aulia ikhsanati
+resolved,55,[2][8] Membuat front-end dari fitur Profile,2019-03-19T10:11:22.951255+00:00,Ilham Satria
+new,51,[2][9] Membuat back end link to feeds dari kategori Oleh-oleh,2019-03-19T10:08:10.539621+00:00,Hanif Ramadhan
+closed,58,[2][1] Membuat front-end Registrasi Account,2019-03-19T10:50:01.302341+00:00,aulia ikhsanati
+resolved,35,[1][20] Membuat back-end kategori kuliner,2019-03-19T08:43:06.597648+00:00,Ilham Satria
+resolved,12,[1][14] Membuat front-end Like pada Kategori Pariwisata,2019-03-03T16:34:14.643523+00:00,Hanif Ramadhan
+resolved,37,[1][22] Membuat Back End Feedback pada kategori kuliner,2019-03-19T08:44:49.114736+00:00,aulia ikhsanati
+resolved,27,[1][13] Membuat back-end feedback pada kategori Pariwisata,2019-03-19T08:29:03.791614+00:00,aulia ikhsanati
+resolved,39,[1][23] Membuat front-end dari Like pada kategori kuliner,2019-03-19T08:46:40.333950+00:00,Ilham Satria
+resolved,29,[1][21] Membuat Front End Feedback pada kategori kuliner,2019-03-19T08:35:13.828338+00:00,aulia ikhsanati
+resolved,2,[1][12] Membuat front-end Feedback dari Kategori Pariwisata,2019-02-23T05:06:46.648184+00:00,aulia ikhsanati
+resolved,24,[1][29] Membuat Fitur Feed,2019-03-19T08:24:37.923025+00:00,Hanif Ramadhan
+new,57,[3][11] Testing Aplikasi,2019-03-19T10:21:53.611482+00:00,null
+new,42,[1][26] Membuat back end link to feeds dari fitur Kuliner,2019-03-19T08:50:08.663745+00:00,aulia ikhsanati
+new,41,[1][25] Membuat Back-end maps pada kategori Kuliner,2019-03-19T08:49:16.083883+00:00,Hanif Ramadhan
+new,33,[1][18] Membuat back-end link to feeds dari kategori Pariwisata,2019-03-19T08:41:12.627217+00:00,Ilham Satria
+new,32,[1][17] Membuat back-end maps pada kategori Pariwisata,2019-03-19T08:37:17.818478+00:00,dennis cunong
+new,31,[1][16] Membuat front-end maps pada kategori Pariwisata,2019-03-19T08:36:41.335970+00:00,dennis cunong
+new,28,[1][26] Membuat back end link to feeds dari fitur kuliner,2019-03-19T08:33:07.562519+00:00,Hanif Ramadhan
+new,26,[1][11] Membuat back-end kategori Pariwisata,2019-03-19T08:26:36.119830+00:00,Ilham Satria
+resolved,25,[1][10] Membuat front-end Kategori Pariwisata,2019-03-19T08:24:43.780233+00:00,Rizka Fadhilah
+resolved,22,[1][8] Membuat front-end logout,2019-03-19T08:20:42.128086+00:00,aulia ikhsanati
+resolved,23,[1][9] Membuat Back-end Logout,2019-03-19T08:21:40.162569+00:00,Hanif Ramadhan
+closed,11,[1][19] Membuat Front End Kategori Kuliner,2019-03-03T15:49:01.361230+00:00,Ilham Satria
+new,7,[1][28] membuat navigation bottom,2019-02-27T12:14:56.543102+00:00,Hanif Ramadhan
+resolved,9,[1][27]Membuat Front-end Fitur Feedback pada Sidebar,2019-03-03T15:23:57.693816+00:00,aulia ikhsanati
+resolved,21,[1][5] Membuat back-end Login dengan Akun Google,2019-03-19T06:55:59.616493+00:00,Hanif Ramadhan
+resolved,20,[1][7] Membuat Console Firebase untuk Login dengan Akun Facebook,2019-03-19T06:53:27.846861+00:00,Ilham Satria
+resolved,1,[1][6] Mencoba membuat Firebase Login Google,2019-02-19T22:50:18.059810+00:00,Hanif Ramadhan
+new,19,[1][5] Membuat back-end Login dengan Akun Facebook,2019-03-19T06:43:44.717840+00:00,Ilham Satria
+new,18,[1][5] Membuat back-end Login dengan Email Registrasi,2019-03-19T06:41:35.437590+00:00,Hanif Ramadhan
+resolved,17,[1][4] Membuat front-end Login Xplore Malang,2019-03-19T06:38:19.786802+00:00,Hanif Ramadhan
+resolved,16,[1][3] Membuat back-end dari Splash Screen,2019-03-19T06:36:20.616886+00:00,null
+resolved,15,[1][2] Membuat front-end dari Splash Screen,2019-03-19T06:35:19.668988+00:00,aulia ikhsanati
+resolved,14,[1][1] Membuat Akun Firebase (Console Firebase),2019-03-19T06:32:46.286739+00:00,Hanif Ramadhan
+closed,5,[1][3] Membuat Front-End untuk menu About Us,2019-02-24T19:30:28.431831+00:00,aprilia widyas
+closed,6,[25][2] Membuat desain front end sidebar,2019-02-24T23:38:52.696579+00:00,aulia ikhsanati
+closed,4,[8][3] Membuat front-end Fitur Pariwisata,2019-02-23T07:22:49.334264+00:00,Rizka Fadhilah
+closed,8,Membuat Fitur Feed,2019-03-02T03:41:16.553938+00:00,Hanif Ramadhan

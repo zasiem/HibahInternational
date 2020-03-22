@@ -1,0 +1,62 @@
+status,issue,title,date,assignee
+on hold,55,[3][10][a]Notifikasi Like Dan Comment Untuk Fitur Postingan Panen,2019-04-20T20:21:35.762385+00:00,Ian Dzillan Malik
+closed,53,[3][8][a] Penambahan Fitur My Forum dan My Panen,2019-04-20T15:34:56.738697+00:00,Ian Dzillan Malik
+closed,56,"[3][11][a] Perbaikan Layout About Us, Feedback, Login, Register, Profile (Landscapeable)",2019-04-22T13:52:56.233560+00:00,Ian Dzillan Malik
+closed,54,[3][9][a] Post Detail dan User Profile,2019-04-20T18:07:30.973353+00:00,Ian Dzillan Malik
+closed,51,[3][6][b]Controller Menampilkan Comment Pada Postingan Panen,2019-04-17T19:36:09.270644+00:00,Ian Dzillan Malik
+closed,52,[3][7][a] Layout + Controller Profile & Edit Profile,2019-04-18T06:39:46.245775+00:00,Ian Dzillan Malik
+closed,49,"[3][6][a]Layout + Controller Pada Fitur Panen (Posting, Adapater, Like, dan Comment)",2019-04-17T18:26:11.671478+00:00,Ian Dzillan Malik
+closed,42,[3][3] Pembuatan layout feedback,2019-04-09T16:11:56.028758+00:00,Muhammad Rafidan
+closed,46,[3][5][a]WebView Fragment Artikel,2019-04-16T17:20:17.060417+00:00,Ichwan Habibie
+closed,61,[3][12] Fixasi layout feedback,2019-04-25T16:00:57.370282+00:00,Ayuvira Kusuma
+on hold,44,[3][3][b] Pembuatan fungsional feedback,2019-04-09T16:56:00.367077+00:00,farhan zuhdy
+on hold,43,[3][3][a] pembuatan fungsionalitas feedback (penambahan variabel),2019-04-09T16:31:28.384180+00:00,Ichwan Habibie
+closed,47,[3][4][b]Layout Forum (Untuk Menampilkan Hasil Posting),2019-04-17T13:09:08.076076+00:00,Muhammad Rafidan
+closed,45,[3][4][a]Fitur Posting Forum,2019-04-15T06:47:32.924676+00:00,Ian Dzillan Malik
+closed,48,"[3][4][c]Controller Forum (Adapter, Like, Comment)",2019-04-17T13:43:39.873333+00:00,Ian Dzillan Malik
+closed,50,[3][4][d]Controller Menampilkan Comment User Pada Postingan Forum,2019-04-17T19:19:53.943204+00:00,Ian Dzillan Malik
+closed,41,[3][2][a] Menambahkan logo dan deskripsi aplikasi pada layout about us,2019-04-09T14:41:58.660803+00:00,Ayuvira Kusuma
+closed,39,[3][1] Rebuild App,2019-04-09T05:54:05.164064+00:00,Ian Dzillan Malik
+closed,40,[2][2][f] membuat fungsionalitas new_listpanen,2019-04-09T12:20:55.974414+00:00,Fahri Hamzalah
+resolved,24,Layout Artikel,2019-03-19T16:49:22.444271+00:00,Ichwan Habibie
+resolved,21,[2][1] Pembuatan list / daftar form diskusi,2019-03-19T12:55:20.730449+00:00,Ian Dzillan Malik
+resolved,28,[2][2][d] Pembuatan fitur penambahan list panen,2019-04-02T06:51:05.591110+00:00,Fahri Hamzalah
+resolved,29,[2][2][e] Menyambungkan fitur list panen ke firebase,2019-04-02T06:53:24.594791+00:00,Fahri Hamzalah
+resolved,32,[2][1][d] Menyambungkan layout chatroom dengan firebase,2019-04-02T07:08:04.284066+00:00,Muhammad Rafidan
+resolved,25,[2][2][b] integrasi layout isi panen dengan menggunakan firebase,2019-04-02T06:29:02.825643+00:00,Ayuvira Kusuma
+resolved,18,[1][6][3] Membuat fungsionalitas lupa password,2019-03-19T11:03:42.858860+00:00,Ichwan Habibie
+resolved,5,"[1][2][d] Menyambungkan class login, register, dan lupa password",2019-03-19T10:54:31.442107+00:00,Ian Dzillan Malik
+resolved,9,[1][3][a]Pembuatan layout beranda,2019-03-19T10:57:38.990771+00:00,farhan zuhdy
+resolved,10,[1][3][b]Mengkoneksikan home dengan ubah profile,2019-03-19T10:58:25.908467+00:00,Ian Dzillan Malik
+resolved,11,[1][4][a] Pembuatan layout ubah profile,2019-03-19T10:59:17.525102+00:00,Fahri Hamzalah
+resolved,58,[1][4] Pembuatan Fitur Ubah Profile,2019-04-25T15:21:37.505942+00:00,Muhammad Rafidan
+resolved,12,[1][4][b] Membuat fungsionalitas ubah profile,2019-03-19T10:59:48.176247+00:00,Fahri Hamzalah
+resolved,13,[1][4][c] Menambah fungsi cancel pada fungsionalitas ubah profile,2019-03-19T11:00:19.135228+00:00,Fahri Hamzalah
+resolved,16,[1][5][3] Menghubungkan fungsi ubah password kedalam fungsionalitas ubah profile,2019-03-19T11:01:59.218150+00:00,Ian Dzillan Malik
+resolved,20,[1][7] Pembuatan fungsionalitas navigation/side bar,2019-03-19T11:04:57.560410+00:00,Ian Dzillan Malik
+resolved,60,[1][6] Pembuatan Fitur Lupa Password,2019-04-25T15:38:38.060451+00:00,Ichwan Habibie
+resolved,17,[1][6][1] Membuat layout lupa password,2019-03-19T11:03:14.515974+00:00,Ichwan Habibie
+resolved,4,[1][2][c] Membuat controller login,2019-03-19T10:52:18.849635+00:00,Ian Dzillan Malik
+resolved,3,[1][2][b] Pembuatan fungsionalitas login,2019-03-19T10:51:51.879759+00:00,Ian Dzillan Malik
+resolved,2,[1][2][a] Pembuatan layout Login,2019-03-19T10:51:22.205847+00:00,Ian Dzillan Malik
+resolved,57,[1][2] Pembuatan Fitur Login,2019-04-25T14:38:33.474946+00:00,Muhammad Rafidan
+resolved,1,[1][1]Pembuatan SplashScreen,2019-03-19T10:48:40.741093+00:00,Ian Dzillan Malik
+resolved,59,[1][5] Pembuatan Fitur Ubah Password,2019-04-25T15:31:52.793375+00:00,Ayuvira Kusuma
+resolved,14,[1][5][1] Membuat layout ubah password,2019-03-19T11:00:45.144603+00:00,Ayuvira Kusuma
+resolved,15,[1][5][2] Membuat fungsionalitas ubah password,2019-03-19T11:01:09.445284+00:00,Ayuvira Kusuma
+resolved,19,[1][6][2] Penambahan fungsionalitas lupa password ke firebase dan email,2019-03-19T11:04:22.937538+00:00,Ichwan Habibie
+resolved,6,Pembuatan layout register,2019-03-19T10:55:17.717806+00:00,Muhammad Rafidan
+resolved,8,Menyambungkan fungsionalitas register ke firebase,2019-03-19T10:56:21.646070+00:00,Muhammad Rafidan
+resolved,38,[2][1][e] Menghubungkan layout chatroom dengan layout list topik diskusi,2019-04-02T12:00:18.482206+00:00,Muhammad Rafidan
+resolved,37,[2][2][c] menghubungkan tampilan home(panen) dengan layout isi panen,2019-04-02T11:30:20.401449+00:00,Ayuvira Kusuma
+resolved,23,[2][2][a] Front end layout isi panen,2019-03-19T14:41:13.038409+00:00,Ayuvira Kusuma
+resolved,36,[2][2][f]menyambungkan fitur home dengan fitur panen,2019-04-02T10:47:21.451635+00:00,Fahri Hamzalah
+resolved,34,[2][3][d] Menyambungkan layout artikel dengan layout detail artikel,2019-04-02T07:14:03.187487+00:00,farhan zuhdy
+resolved,35,[2][3][C] Menyambungkan Detail Artikel dengan Layout List Artikel,2019-04-02T07:14:06.225235+00:00,Ichwan Habibie
+resolved,33,[2][1][C] Menyambungkan list forum dengan firebase,2019-04-02T07:08:07.608300+00:00,Ian Dzillan Malik
+closed,22,[2][2][c] Layout (front end) Pembuatan layout list panen,2019-03-19T14:32:37.146483+00:00,Fahri Hamzalah
+resolved,31,[2][3][b] Pembuatan Layout Detail Artikel,2019-04-02T06:59:37.287475+00:00,Ichwan Habibie
+resolved,30,[2][3][a] Pembuatan Layout List Artikel,2019-04-02T06:56:46.843478+00:00,farhan zuhdy
+closed,26,[2][1][a] Pembuatan Layout List Chatroom,2019-04-02T06:33:34.833400+00:00,Muhammad Rafidan
+closed,27,[2][1][b] Pembuatan Layout List Forum,2019-04-02T06:48:37.815122+00:00,Ian Dzillan Malik
+resolved,7,Pembuatan fungsionalitas register,2019-03-19T10:55:55.384308+00:00,Muhammad Rafidan

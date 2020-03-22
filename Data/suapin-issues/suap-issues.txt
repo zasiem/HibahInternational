@@ -1,0 +1,1363 @@
+﻿[
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "enhancement",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat rounded button pada tampilan login",
+    "reporter": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      }
+    ],
+    "content": "Rounded button merupakan tampilan button pada menu login yang memiliki bentuk sedikit bundar dan lebih menarik dari tampilan button bawaan android studio.",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-04-09T04:02:57.134321+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T06:00:20.090313+00:00",
+    "id": 31
+  },
+  {
+    "status": "on hold",
+    "priority": "minor",
+    "kind": "enhancement",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Mengubah Background Halaman History",
+    "reporter": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      }
+    ],
+    "content": "Disini, tampilan halaman history akan berubah dengan warna yang bergradasi.",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-04-16T16:01:10.838308+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T05:59:22.753201+00:00",
+    "id": 35
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:27:01.719208+00:00",
+    "voters": [],
+    "title": "Sign in with Facebook (firebase)",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Membuat sign in yang terintegrasi dengan facebook menggunakan firebase pada fitur sign in. Dengan adanya fitur ini, pengguna dapat mengeklik button login with facebook untuk masuk kedalam aplikasi.",
+    "assignee": null,
+    "created_on": "2019-03-19T14:59:25.813838+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-30T05:57:57.667716+00:00",
+    "id": 24
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-29T13:21:17.527930+00:00",
+    "voters": [],
+    "title": "Membuat settings Night Mode",
+    "reporter": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      }
+    ],
+    "content": "Disini kita membuat pengaturan yaitu night mode dimana tampilan dalam aplikasi menjadi mode malam. Mode malam disini ialah background dari aplikasi menjadi hitam",
+    "assignee": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "created_on": "2019-04-29T13:02:44.852057+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T05:57:18.006198+00:00",
+    "id": 37
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:29:02.579064+00:00",
+    "voters": [],
+    "title": "Membuat artikel pada home",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "ketika kita mengklik button home maka akan muncul artikel yang berisikan berita terkini saat ini maupun berbentuk iklan",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-03-19T15:01:09.604100+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T05:55:27.295180+00:00",
+    "id": 26
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:37:06.699544+00:00",
+    "voters": [],
+    "title": "Membuat tampilan xml button share location",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Disini kita membuat xml \\(layout\\) dari button location share yang nanti pada kodingan java apabila button di klik akan mengambil location sesuai yang diklik",
+    "assignee": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "created_on": "2019-03-19T14:55:36.208836+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-30T03:37:06.697067+00:00",
+    "id": 21
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Menambahkan Fitur di About",
+    "reporter": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      }
+    ],
+    "content": "Menambahkan Fitur di About",
+    "assignee": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "created_on": "2019-03-26T09:56:57.218838+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-30T03:29:36.037700+00:00",
+    "id": 30
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:27:35.635220+00:00",
+    "voters": [],
+    "title": "Sign in with Google (firebase)",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Disini adalah pembuatan fitur sign in dengan menggunakan akun Google. Dengan adanya fitur ini, pengguna bisa masuk ke dalam aplikasi dengan menggunakan akun Google",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-03-19T14:58:38.803094+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-30T03:27:35.632230+00:00",
+    "id": 23
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Back-end Testimoni",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": null,
+    "created_on": "2019-03-19T15:00:13.551897+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-25T13:04:37.558484+00:00",
+    "id": 25
+  },
+  {
+    "status": "resolved",
+    "priority": "critical",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Solving Eror Sync",
+    "reporter": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-04-16T17:02:04.590262+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-16T17:03:48.859746+00:00",
+    "id": 36
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Memperbaiki tampilan button",
+    "reporter": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      }
+    ],
+    "content": "memperbaiki tampilan button pada button donate sign out",
+    "assignee": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "created_on": "2019-04-16T15:24:46.271335+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-23T16:08:01.454836+00:00",
+    "id": 34
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Menambahkan fitur about pada aplikasi suap.in",
+    "reporter": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      }
+    ],
+    "content": "merombak lagi tampilan fitur about agar lebih enak di baca dan dilihat",
+    "assignee": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "created_on": "2019-04-09T16:44:40.040046+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-09T17:24:09.968994+00:00",
+    "id": 33
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat Button untuk menghubungkan ke fitur about",
+    "reporter": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      },
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      }
+    ],
+    "content": "Membuat button about pada halaman home agar bisa langsung terhubung ke halaman about",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-04-09T16:42:55.384643+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-09T16:58:35.004505+00:00",
+    "id": 32
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T15:42:20.718411+00:00",
+    "voters": [],
+    "title": "Create Donation Feature",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Menambahkan xml dan java pada fitur Donation",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-02-24T16:29:49.137577+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-09T10:53:58.914241+00:00",
+    "id": 4
+  },
+  {
+    "status": "closed",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Halaman Profile User",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-03-03T17:50:55.130190+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-09T10:44:38.052841+00:00",
+    "id": 10
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T16:24:56.023077+00:00",
+    "voters": [],
+    "title": "Membuat fitur share location",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "menambahkan pick up untuk user dalam halaman donation",
+    "assignee": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "created_on": "2019-03-19T14:53:33.459750+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-09T04:36:58.128234+00:00",
+    "id": 19
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Crash aplikasi",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-03-26T05:19:42.515422+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-09T04:35:52.667146+00:00",
+    "id": 29
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat front-end testimoni",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-03-19T14:57:43.351104+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-09T04:35:22.885271+00:00",
+    "id": 22
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Menambahkan Image slider pada Menu About",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "created_on": "2019-03-19T14:54:28.870622+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-09T02:59:03.483489+00:00",
+    "id": 20
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Halaman Profile User",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Membuat tampilan Account yang berisi profile user seperti nama,alamat,no. handphone",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-03-19T14:47:11.688065+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T12:00:43.930937+00:00",
+    "id": 16
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Login dengan API ke email",
+    "reporter": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      }
+    ],
+    "content": "Membuat penyempurnaan laman login dengan menambahkan beberapa fitur serta memperindah tampilan login.",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-03-16T21:23:22.705239+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T11:28:47.313337+00:00",
+    "id": 12
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Terjadi error pada fragment",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Project tidak dapat di run",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-03-26T04:39:55.348982+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:10:15.160450+00:00",
+    "id": 28
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat fitur sharelock dalam donation",
+    "reporter": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "created_on": "2019-03-18T18:34:03.569139+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:06:36.989815+00:00",
+    "id": 14
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-03-19T16:34:16.767456+00:00",
+    "voters": [],
+    "title": "Menambahkan Bottom Navigation dan mengkoneksikan ke fragment-nya",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "1. Membuat Activity berupa Bottom Navigation\r\n2. Membuat fragment sesuai dengan navigation\r\n3. Mengkoneksikan",
+    "assignee": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "created_on": "2019-03-19T14:50:05.678448+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:05:02.261818+00:00",
+    "id": 17
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:02:38.372043+00:00",
+    "voters": [],
+    "title": "Membuat icon aplikasi",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Membuat icon aplikasi pada menu android \r\n\r\nStory : user dapat melakukan klik icon aplikas dan otomatis aplikasi akan membuka dan masuk ke halaman log in. \r\n\r\nLink mock up / attach mock up",
+    "assignee": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "created_on": "2019-03-26T04:37:40.174829+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:03:16.925019+00:00",
+    "id": 27
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Login dengan API ke email",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-03-19T14:51:05.426137+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T06:59:09.709546+00:00",
+    "id": 18
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Tampilan Layout",
+    "reporter": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      }
+    ],
+    "content": "",
+    "assignee": null,
+    "created_on": "2019-02-26T00:39:38.165625+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:09:22.225841+00:00",
+    "id": 5
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "#6 Create Donation Detail Layout",
+    "reporter": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-02-26T01:50:10.906189+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:08:50.291097+00:00",
+    "id": 6
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-02-22T05:55:23.381058+00:00",
+    "voters": [],
+    "title": "Membuat Splash Screen",
+    "reporter": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      }
+    ],
+    "content": "1. Pada pembuatan splash screen ini saya membuat tampilan awal saat aplikasi dibuka\r\n2. Dimulai dengan menambahkan gambar logo aplikasi dibagian drawable\r\n3. Kemudian membuat class activity_splashscreen.xml dan membuat class SplashScreen.java\r\n4. lalu menambahkan source code dibagian text pada class activity_splashscreen.xml\r\n5. Menambahkan source code pada SplashScreen.java \r\n6. Mengatur style pada style.xml",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-02-21T13:05:36.048003+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:08:19.827933+00:00",
+    "id": 1
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-03-18T12:54:34.733082+00:00",
+    "voters": [],
+    "title": "Menambahkan fitur about",
+    "reporter": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fernando Redondo",
+        "account_id": "5c54028d5f6f554665c17d5d"
+      }
+    ],
+    "content": "Menambahkan beberapa fitur pada laman about",
+    "assignee": {
+      "display_name": "Fernando Redondo",
+      "account_id": "5c54028d5f6f554665c17d5d"
+    },
+    "created_on": "2019-03-18T12:54:00.116485+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:07:49.147201+00:00",
+    "id": 13
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat Tampilan Login",
+    "reporter": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      },
+      {
+        "display_name": "Indah Nur Fitri Astuti",
+        "account_id": "5c540986a1c91017b4036943"
+      }
+    ],
+    "content": "1. Pada bagian ini saya membuat tampilan login yang nantinya akan muncul setelah splashscreen selesai dijalankan\r\n2. Dimulai dengan membuat class baru dengan nama LoginActivity.java dan activity_login.xml\r\n3. Selanjutnya menambahkan source code di folder tersebut sesuai dengan kebutuhan agar dijalankan dengan sempurna",
+    "assignee": {
+      "display_name": "Indah Nur Fitri Astuti",
+      "account_id": "5c540986a1c91017b4036943"
+    },
+    "created_on": "2019-02-22T09:46:51.887882+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:07:13.435027+00:00",
+    "id": 3
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-02-22T19:24:05.459545+00:00",
+    "voters": [],
+    "title": "Membuat Image Slider pada Home",
+    "reporter": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      }
+    ],
+    "content": "1. Membuat class FragmentSlider, SliderIndicator, SliderPagerAdapter, SliderView, bg_indicator.xml, indicator_circle.xml, fragment_slider_item.xml\r\n2. Menambah source code\r\n3. Menambah gambar pada drawable",
+    "assignee": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "created_on": "2019-02-22T06:53:40.650665+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:06:32.860737+00:00",
+    "id": 2
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Mengkoneksikan halaman donnation dengan halaman donation selection, serta menambahkan gambar pada donation selection",
+    "reporter": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Yohanes Alfandi",
+        "account_id": "5c540202dcae4f5d16e7e70c"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Yohanes Alfandi",
+      "account_id": "5c540202dcae4f5d16e7e70c"
+    },
+    "created_on": "2019-03-03T16:52:39.896355+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:06:03.648468+00:00",
+    "id": 9
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Mengkoneksikan halaman Home ke halaman Donation dan About",
+    "reporter": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      }
+    ],
+    "content": "1. Pada issue kali ini saya menambahkan method intent kedalam class HomeActivity. java agar ketika mengklik button Donation akan terkoneksi ke halaman DonationActivity.java\r\n2. Selanjutnya menambahkan method intent kedalam class HomeActivity. java agar ketika mengklik button About akan terkoneksi ke halaman AboutActivity.java",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-03-01T09:05:54.275350+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:05:32.172713+00:00",
+    "id": 7
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Menambahkan Bottom Navigation",
+    "reporter": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Kurnia Dwi",
+        "account_id": "5c540df39909c944ea2be820"
+      }
+    ],
+    "content": "Menyempurnakan tampilan home dengan tambahan source code untuk bottom navigation",
+    "assignee": {
+      "display_name": "Kurnia Dwi",
+      "account_id": "5c540df39909c944ea2be820"
+    },
+    "created_on": "2019-03-16T20:27:32.063525+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:04:48.263140+00:00",
+    "id": 11
+  },
+  {
+    "status": "invalid",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "#8 Menambahkan image pada Fitur Donation",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "created_on": "2019-03-03T16:30:08.947218+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T05:03:43.308119+00:00",
+    "id": 8
+  },
+  {
+    "status": "invalid",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat splashscreen",
+    "reporter": {
+      "display_name": "MLuthfi Ridhwan",
+      "account_id": "5c54088985c9b117bae37590"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Jannatul Rahmadiani",
+        "account_id": "5c5401ee1bed9a195187cfc2"
+      },
+      {
+        "display_name": "MLuthfi Ridhwan",
+        "account_id": "5c54088985c9b117bae37590"
+      }
+    ],
+    "content": "Membuat tampilan awal masuk ke aplikasi",
+    "assignee": {
+      "display_name": "Jannatul Rahmadiani",
+      "account_id": "5c5401ee1bed9a195187cfc2"
+    },
+    "created_on": "2019-03-19T04:50:39.355995+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T04:51:22.747494+00:00",
+    "id": 15
+  }
+]

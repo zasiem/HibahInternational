@@ -1,0 +1,94 @@
+Author,Commit,Message,Date
+Vera Adelia,5d4cf45,set title rating,4/13/2019
+Vera Adelia,76daad6,update dependencies androidx,4/10/2019
+Vera Adelia,48e6256,M Merge remote-tracking branch 'origin/master',4/9/2019
+atika rahmawatihusna,f66fa06,update code rekening owner #32,4/9/2019
+atika rahmawatihusna,5e1fade,update code,4/9/2019
+atika rahmawatihusna,b7b665f,update code,4/9/2019
+atika rahmawatihusna,108a52c,payment booking price #32,4/9/2019
+atika rahmawatihusna,8.31E+41,update username profile fragment #27,4/9/2019
+rinaldy js,fe6e33b,screen rotation portrait #30,4/9/2019
+rinaldy js,f55831e,implemen maps SDK #33,4/9/2019
+atika rahmawatihusna,445861a,implemen data booking + rating + cancel booking #32,4/9/2019
+Naufal Al Hakim,b21f6e5,UI detail history booking #31,4/9/2019
+Naufal Al Hakim,29418c9,update code booking,4/9/2019
+Naufal Al Hakim,cb4fdfb,setting preference update profile #30,4/9/2019
+Ganar Nugraha,7e4e501,complain activty #29,4/9/2019
+Ganar Nugraha,1222b31,view about us #28,4/9/2019
+Azolla Dhigo Prasetya,782a996,change backend detail area + implemen Glige for image #25,4/9/2019
+Azolla Dhigo Prasetya,285a1ae,remove file unused + change icon app,4/9/2019
+Azolla Dhigo Prasetya,6680b5f,fix bug crash load history #31,4/9/2019
+Vera Adelia,a150d55,implemen Glide for load image profile #25,4/9/2019
+atika rahmawatihusna,977dde9,update code rekening owner,4/7/2019
+atika rahmawatihusna,3b7583f,update code,4/7/2019
+atika rahmawatihusna,9f32929,update code,4/7/2019
+atika rahmawatihusna,f5eafc8,payment booking price,4/7/2019
+atika rahmawatihusna,e0a75f4,update username profile fragment,4/7/2019
+rinaldy js,23cccb5,screen rotation portrait,4/7/2019
+rinaldy js,11f9816,implemen maps SDK,4/6/2019
+atika rahmawatihusna,d436042,implemen data booking + rating + cancel booking,4/6/2019
+Naufal Al Hakim,5baffb9,UI detail history booking,4/6/2019
+Naufal Al Hakim,58baaca,update code booking,4/6/2019
+Naufal Al Hakim,0be733b,setting preference update profile,4/5/2019
+Ganar Nugraha,4cf1074,complain activty,4/5/2019
+Ganar Nugraha,12af11e,view about us,4/5/2019
+Azolla Dhigo Prasetya,c987358,change backend detail area + implemen Glige for image #25,4/3/2019
+Azolla Dhigo Prasetya,024d83d,remove file unused + change icon app,4/3/2019
+Azolla Dhigo Prasetya,3240f02,fix bug crash load history,4/3/2019
+Vera Adelia,eccdfa1,implemen Glide for load image profile,4/3/2019
+Vera Adelia,cd8157f,fix login goole + facebook #12 note : cause app is debug not release so must change the key hashes intermitten,4/3/2019
+Vera Adelia,6e3371e,fix login email #12,4/3/2019
+Vera Adelia,9d6089e,fix register #12,4/3/2019
+Azolla Dhigo Prasetya,ff93a93,update code detail area format date #14,4/2/2019
+Azolla Dhigo Prasetya,8a395ef,update code detail area #10,4/2/2019
+Ganar Nugraha,6326a63,implemen detail area #10,4/2/2019
+Ganar Nugraha,730dc92,UI booking + onClickListener recycleview #24,4/2/2019
+Ganar Nugraha,6fc0d19,update code back button in app bar,4/2/2019
+Ganar Nugraha,c1cb815,Update code login facebook #12,4/2/2019
+Ganar Nugraha,2b7d6fb,Implemen data + UI area list #28,4/2/2019
+Naufal Al Hakim,ea1f3f1,Implemen data recommended area #7,4/2/2019
+Naufal Al Hakim,4b7a74d,Implemen data fragmen history #16,4/2/2019
+rinaldy js,b3de00e,Implemen Login Google #12,4/2/2019
+atika rahmawatihusna,233b1a5,Implemen Login Facebook #12,4/2/2019
+rinaldy js,98f3f83,Update Login Register Shared Preferences #12,4/2/2019
+atika rahmawatihusna,5ef3bb6,Update firebase register #2,4/2/2019
+atika rahmawatihusna,1785ab7,Firebase Register + Log Out #2,4/2/2019
+atika rahmawatihusna,a260fb8,App Bar Home + History,4/2/2019
+Ganar Nugraha,39bf78a,UI fragment home 2 #27,4/2/2019
+Ganar Nugraha,373c3ff,UI fragment home #27,4/2/2019
+Naufal Al Hakim,949c819,UI Fragment History #27,4/2/2019
+Azolla Dhigo Prasetya,8d229a0,UI Fragment Profile #27,4/2/2019
+Vera Adelia,c5a81dd,add fragment history + home #27,4/2/2019
+Vera Adelia,eea4b98,change UI register + implemen bottom nav view pager #3,4/1/2019
+Vera Adelia,4366869,change UI Login + Implemen Facebook SDK #12,4/1/2019
+Vera Adelia,8d73348,change UI SplashScreen #6,3/28/2019
+Vera Adelia,c5c784a,Merapihkan front-end detail lapangan #19,3/26/2019
+atika rahmawatihusna,d1e22ff,#25 (2)  (14) Membuat tampilan Konfirmasi booking,3/26/2019
+Naufal Al Hakim,ac8e728, (13) Penambahan tampilan status booking failed (ref #24),3/26/2019
+Azolla Dhigo Prasetya,2f76b44,#23: (2) (12) Merapihkan Front-End Layout Font Size,3/25/2019
+rinaldy js,567fbfb,Backend conect lapang to detail lapang (ref #22),3/25/2019
+Ganar Nugraha,87fcfd0,(10) Membuat notifikasi status booking #21,3/20/2019
+Azolla Dhigo Prasetya,50f7ebf,(3) Membuat Front-End Pop Up Konfirmasi Booking #18,3/19/2019
+atika rahmawatihusna,9cb83aa,(6) Membuat Front-End Status Booking #20,3/19/2019
+Vera Adelia,5fd7abd,(5) Membuat Front-End Booking Detail #19,3/19/2019
+Naufal Al Hakim,5a5be1c,Membuat Front-End Konfirmasi Booking #17,3/19/2019
+Naufal Al Hakim,f382483,Membuat Front-End Konfirmasi Booking #17,3/19/2019
+Vera Adelia,105fbad,Deskripsi lapangan fix,3/18/2019
+rinaldy js,bfa1656,Recyclerview Badminton futsal basket,3/6/2019
+Ganar Nugraha,20f14c3,Layout deskripsi lapangan badminton,3/2/2019
+Naufal Al Hakim,e3c2f6f,dekripsi lapangan futsal,3/2/2019
+Azolla Dhigo Prasetya,122dd84,image cardview,3/2/2019
+Azolla Dhigo Prasetya,bc29aa5,Cardview Badminton,3/2/2019
+Ganar Nugraha,b605da5,Menambahkan Layout Pilih Jadwal,3/1/2019
+rinaldy js,550792a,Login API google,3/1/2019
+Azolla Dhigo Prasetya,d9aa021,RecyclerView,2/28/2019
+atika rahmawatihusna,665ce3f,Mengubah if phone.lenghtpada RegistrasiActivity.java,2/27/2019
+atika rahmawatihusna,818857f,Mengupdate Layout Register Aplikasi,2/25/2019
+Vera Adelia,3c54e86,Sign In and Log out,2/25/2019
+rinaldy js,419bbbc,Menghubungkan login ke firebase,2/25/2019
+rinaldy js,5a68bc4,Menghubungkan register ke firebase,2/25/2019
+Vera Adelia,71a7afb,Merapihkan Layout Landing page,2/22/2019
+rinaldy js,015957a,Membuat Landing Page,2/22/2019
+rinaldy js,d205e70,Fitur Signin & Signup,2/22/2019
+rinaldy js,b9cd1f2,Upload ulang,2/22/2019
+Naufal Al Hakim,517a899,menambah,2/22/2019

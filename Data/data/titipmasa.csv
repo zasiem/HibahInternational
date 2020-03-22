@@ -1,0 +1,60 @@
+Author,Commit,Message,Date
+Sevira Hendari Pratiwi,e8d8c37,revisi ref#13,4/30/2019
+Rahkmah Nabila,0a6cb21,revisi,4/29/2019
+Nisya,1040054,Update fitur filter tempat tujuan ref#19,4/23/2019
+Sevira Hendari Pratiwi,b7cd4ec,Melakukan update pada tampilan validasi user ref#13,4/23/2019
+Rahkmah Nabila,fbbd56b,[3][5] Membuat layout Fitur Chat/Message dan memperbaki Chat.java ref#21,4/23/2019
+ben hughie,81bd863,[3][4] Membuat Filter Keberangkatan 2 (ref #27),4/22/2019
+ben hughie,d755fac,Front-end [3][4]Membuat Filter Keberangkatan (ref #26),4/22/2019
+muhammad fikri makmur,7087a02,update chat to whatsup and firebase #21,4/22/2019
+Nisya,196aecd,[3][2] Membuat fitur filter tempat tujuan ref#19,4/9/2019
+Anisa Agustina,cf42eea,[3][3] Membuat fitur filter rekomendasi ref#18,4/9/2019
+Rahkmah Nabila,51b213b,Memperbaiki code eror pada adapterData ref#23,4/9/2019
+Sevira Hendari Pratiwi,3bb3ae3,Membuat halaman validasi user ref#13,4/8/2019
+muhammad fikri makmur,11acc33,Fitur chat #21,4/8/2019
+Anisa Agustina,3092192,[2][7] Membuat halaman konfirmasi transaksi ref#25 menambahkan halaman konfirmasii,4/2/2019
+Nisya,0f12117,[2][6] Membuat halaman review titipan ref#23,4/2/2019
+Nisya,9d5af6b,halaman titipan ref#22,4/2/2019
+Sevira Hendari Pratiwi,eeaa6e1,Melakukan perbaikan pada halaman pembayaran ref#24,4/1/2019
+muhammad fikri makmur,de9db6e,[2][4]Membuat API location dan menyambungkan pada location user ref #15,4/1/2019
+Rahkmah Nabila,3e9cff4,mengatasi eror pada run pembayaran ref #24,4/1/2019
+muhammad fikri makmur,0a9d2f8,[2][4] Menyambungkan API maps (Location) ref #15,4/1/2019
+Sevira Hendari Pratiwi,cd5d739,Membuat halaman pembayaran ref#24,3/29/2019
+Rahkmah Nabila,c032617,connect to firebase,3/28/2019
+Rahkmah Nabila,5ad2293,Memperbaiki beberapa code dan menambahkan tampilan trip local ref#16,3/28/2019
+Nisya,0f1ba05,[2][4] Membuat halaman trip local ref#16,3/26/2019
+Sevira Hendari Pratiwi,55b931a,Membuat halaman validasi user (update) ref#13,3/26/2019
+Anisa Agustina,adc1a54,[2][5] Membuat halaman trip internasional ref#17,3/26/2019
+Rahkmah Nabila,87c8c71,melengkapi code untuk database registrasi firebase ref#7,3/25/2019
+Rahkmah Nabila,9a2b4ee,Menambahkan code back end fitur chat ref#21,3/25/2019
+muhammad fikri makmur,ab00d69,M memperbaiki tampilan trip_lokal  menggunakan fragmen pada menu navigation bar#16,3/25/2019
+muhammad fikri makmur,645b511,memperbaiki tampilan trip_lokal  menggunakan fragmen pada menu navigation bar#16,3/25/2019
+Anisa Agustina,060c6ef,[2][5] Membuat halaman trip internasional #26,3/20/2019
+Anisa Agustina,ec5b785,membuat halaman trip internasional,3/20/2019
+muhammad fikri makmur,c9bed85,membuat tampilan halaman titipan #22,3/19/2019
+ben hughie,b69f790,[2][8] Membuat tampilan filter keberangkatan Membuat tampilan filter keberangkatan dengan menggunakan pesawat Terdapat antara lain TextView  Spinner  Button  dan lainnya Membuat layout dengan menggunakan warna yang ada sama dengan sebelumnya (Sprint 1),3/19/2019
+Nisya,005cba5,[2][4] Membuat halaman trip local,3/19/2019
+Sevira Hendari Pratiwi,e444df3,Membuat Tampilan untuk validasi user #13,3/19/2019
+Rahkmah Nabila,364713a,[2][9] Membuat tampilan activity_chat.xml #21,3/19/2019
+Rahkmah Nabila,698b4b0,membuat database registrasi & mengubah registrasiactivity #7,3/19/2019
+ben hughie,cad5335,Mengedit tampilan into slider 3 (tombol next  edit font),3/19/2019
+Nisya,f8e0d72,update tampilan slider 2,3/18/2019
+Sevira Hendari Pratiwi,f6a4119,Mengubah posisi button Next pada intro slider 1 dan mengubah fontsize,3/18/2019
+muhammad fikri makmur,507825,update backend #2,3/18/2019
+muhammad fikri makmur,9cd6b47,Update backend,3/18/2019
+Rahkmah Nabila,396f225,membuat firebase dan menyambungkannya ke project #7,3/17/2019
+ben hughie,c68b5e6,Tampilan Intro Slider 3,3/4/2019
+ben hughie,dc67b0f,Intro Slider 3,3/4/2019
+muhammad fikri makmur,8a7abec,Update tampilan lupa password untuk memasukkan email  mengirim password baru ke email user #2,3/2/2019
+muhammad fikri makmur,7e0aa17,Update tampilan lupa password untuk memasukkan email  mengirim password baru ke email user,3/2/2019
+Anisa Agustina,ed47667,memperbaiki eror pada lupa password yang beradi di manifest dan main activity,3/1/2019
+Rahkmah Nabila,d381bea,tampilan halaman utama pada activity_halaman_utama.xml #6,3/1/2019
+Nisya,71f5274,tampilan intro slider 2,2/28/2019
+Sevira Hendari Pratiwi,03677f6,membuat tampilan slider 1,2/28/2019
+ben hughie,dad12fc,buat layout User Profile #3,2/26/2019
+Nisya,0425ce5,login,2/25/2019
+Rahkmah Nabila,7d5644c,tambah Logcat pada MainActivity,2/25/2019
+Anisa Agustina,4a29153,lupaPassword #2,2/20/2019
+Sevira Hendari Pratiwi,3c122b0,layoutRegistrasi #1,2/20/2019
+muhammad fikri makmur,8c2037b,MainActivity RegistrasiActivity,2/20/2019
+rahkmahnabila,8c0127d,Splash screen,2/18/2019

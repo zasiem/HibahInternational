@@ -1,0 +1,83 @@
+Author,Commit,Message,Date
+Hanif Ramadhan,2681e9b,Final,4/29/2019
+dennis cunong,3d514ee,Rotate Landscape Feed,4/26/2019
+Ilham Satria,5cbeff8,Rotate Landscape Home,4/26/2019
+aprilia widyas,16ce644,intent setting,4/26/2019
+Hanif Ramadhan,cf73c41,Merapihkan Kodingan,4/26/2019
+Rizka Fadhilah,a359369,Perbaikan backend Transportasi#64,4/25/2019
+Hanif Ramadhan,4c3e411,Search,4/24/2019
+Hanif Ramadhan,1db2f07,Search,4/24/2019
+Ilham Satria,175e3b5,Back end fitur Search #56,4/22/2019
+Rizka Fadhilah,d81e095,M Backend menu Transprtasi Resolved#64,4/21/2019
+Rizka Fadhilah,098000d,Backend Menu Transportasi Resolved#64,4/21/2019
+aprilia widyas,01a8b47,Setting Share Preference baru 2,4/20/2019
+aulia ikhsanati,c3ee3a2,front end transportasi #63,4/20/2019
+Hanif Ramadhan,0308a6b,Menyelesaikan Feed #13 #62,4/20/2019
+Rizka Fadhilah,90bf8bf,Progress Setting,4/16/2019
+aulia ikhsanati,42d06ca,perbaikan edit profile #61,4/16/2019
+Hanif Ramadhan,49fd7c5,Membuat Filter Kategori,4/11/2019
+Ilham Satria,024837f,Membuat Back End fitur Search #56,4/9/2019
+dennis cunong,9eb9c02,Membuat Front End Search #3,4/9/2019
+Hanif Ramadhan,8909d9e,Membuat Layout Tranportasi #63,4/9/2019
+aprilia widyas,81adc17,Membuat front-end About Us. Resolve#54,4/9/2019
+aulia ikhsanati,7d0366e,progress #61,4/9/2019
+Rizka Fadhilah,ed93294,M Merge branch 'interface-improvement',4/8/2019
+Rizka Fadhilah,a5f37db,workspace.xml,4/8/2019
+Rizka Fadhilah,471781d,Perbaikan Layout,4/8/2019
+Hanif Ramadhan,e545307,Solved Backend dan Front End Maps #32 #41 #49,4/2/2019
+aulia ikhsanati,d1b9121,solve error,4/2/2019
+aprilia widyas,d3ba85a,M solve conflict,4/2/2019
+aprilia widyas,dfd9c93,M solve error 1,4/2/2019
+aprilia widyas,406a099,merge branch,4/2/2019
+Hanif Ramadhan,bd956d1,M Merge remote-tracking branch 'origin/ilhamsatria' Conflicts: .gradle/buildOutputCleanup/buildOutputCleanup.lock .idea/misc.xml .idea/workspace.xml app/app.iml,4/1/2019
+Hanif Ramadhan,9d62bf3,M Merged in dennis_konten (pull request #3) Membuat front end profile #55,4/1/2019
+Ilham Satria,e4cb93c,Membuat front end profile #55,4/1/2019
+Rizka Fadhilah,20567bd,Membuat frontend backend weather #52 #53,4/1/2019
+aulia ikhsanati,bcbe7e1,Final BackEnd Feedback #27 #37 #48,4/1/2019
+dennis cunong,264facf,Final BackEnd Konten #44 #35 #,4/1/2019
+Hanif Ramadhan,72919c9,Membetulkan Feed,3/26/2019
+Ilham Satria,07c2af3,Membuat backend filter,3/26/2019
+Ilham Satria,8853dba,Membuat back end filter,3/26/2019
+dennis cunong,bbd6bdb,Membuat Front End Edit Profile,3/26/2019
+dennis cunong,20ae9a1,Membuat back end weather #53,3/26/2019
+dennis cunong,a777582,Membuat Front End Edit Profile,3/26/2019
+aprilia widyas,27c513e,rating baru setengah jalan masih belum ke firebase,3/26/2019
+Rizka Fadhilah,1ee4622,Membuat back end weather #53,3/25/2019
+aulia ikhsanati,6bcdfaf,Backend Registrasi Solve #59,3/24/2019
+aulia ikhsanati,9de9b79,front end dan back end registrasi,3/24/2019
+dennis cunong,133d8e5,Membuat Pencarian Lokasi dengan Aplikasi Google Maps pada Kategori Pariwisata,3/19/2019
+aprilia widyas,accd99b,Membuat Layout Diskusi,3/19/2019
+aulia ikhsanati,fd341e7,layout feedback pada seluruh kategori,3/19/2019
+Rizka Fadhilah,4153724,[2][10] Membuat front end weather #52,3/19/2019
+Hanif Ramadhan,c67bcde,Login with email #18,3/19/2019
+Hanif Ramadhan,f1607fc,Membuat Fitur Upload Konten,3/18/2019
+Hanif Ramadhan,36c6ae0,Update pada Sidebar 1,3/12/2019
+aulia ikhsanati,2ebf33a,resolve #13,3/4/2019
+dennis cunong,ecbc160,Membuat Front End Fitur Oleh-Oleh Malang,3/3/2019
+Rizka Fadhilah,071a4ef,M Merge branch 'master' of https://bitbucket.org/rpl2019/xplore-malang,3/3/2019
+Rizka Fadhilah,693ce2b,Membuat Rating pada fitur Pariwisata #12,3/3/2019
+Ilham Satria,058c976,Membuat Front End Kuliner #11,3/3/2019
+aulia ikhsanati,4d0ea6f,Membuat Layout Fitur Feedback #9,3/3/2019
+Hanif Ramadhan,3e82b7f,Menampilkan foto ke Feed #8,3/2/2019
+Hanif Ramadhan,943b600,Upload foto ke Firebase #8,3/2/2019
+Hanif Ramadhan,144dedf,Membuat layout feed #8,3/2/2019
+Hanif Ramadhan,57f3550,Perbaikan pada Navbar Bottom #7,2/27/2019
+Hanif Ramadhan,1e8949c,Membuat Bottom Navigation View,2/26/2019
+aprilia widyas,4402399,solved,2/26/2019
+aprilia widyas,07294c5,M resolved #5,2/25/2019
+aprilia widyas,d00bb0e,resolved #5,2/25/2019
+dennis cunong,2062b9e,M Fitur Search,2/25/2019
+dennis cunong,a11eef9,Fitur Search,2/25/2019
+dennis cunong,2e9d3bb,front end search,2/25/2019
+Ilham Satria,d041084,Menghubungkan Login dengan Facebook #1,2/25/2019
+Hanif Ramadhan,affa996,Coba Commit,2/25/2019
+aulia ikhsanati,1d656d8,Membuat Sidebar#2,2/25/2019
+aulia ikhsanati,1f25765,Membuat Sidebar,2/25/2019
+Rizka Fadhilah,358437f,resolved #4,2/25/2019
+Rizka Fadhilah,b18e402,Front-end pariwisata,2/19/2019
+aulia ikhsanati,15498f8,Splash Screen,2/16/2019
+Hanif Ramadhan,bc78eb9,Back End Fitur Login,2/15/2019
+Hanif Ramadhan,67b4f20,Front End Login dan Register,2/15/2019
+Hanif Ramadhan,55db194,First Commit,2/15/2019
+Tb Rama Ramadhan,e28accf,README.md edited online with Bitbucket,2/14/2019
+aulia ikhsanati,c8e3fc2,Initial commit,2/14/2019

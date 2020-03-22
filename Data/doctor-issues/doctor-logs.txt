@@ -1,0 +1,494 @@
+﻿[
+  {
+    "comment": 51210952,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:30:31.849064+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 9,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51210988,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:33:17.630363+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 7,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51210994,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:33:22.916561+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 6,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211038,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:36:42.911230+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 4,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211039,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:36:51.814370+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 3,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211043,
+    "changed_to": "open",
+    "field": "status",
+    "created_on": "2019-03-19T06:37:33.355187+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 3,
+    "changed_from": "closed"
+  },
+  {
+    "comment": 51211054,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:38:04.526926+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 2,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211056,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T06:38:15.954458+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 1,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51217949,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-19T13:06:30.157383+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 51218040,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-19T13:10:45.900775+00:00",
+    "user": {
+      "display_name": "avisa gavrilla",
+      "account_id": "5c540abe137421218b59de84"
+    },
+    "issue": 11,
+    "changed_from": ""
+  },
+  {
+    "comment": 51218046,
+    "changed_to": "Front and Back End Cari Dokter",
+    "field": "title",
+    "created_on": "2019-03-19T13:11:08.484442+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 12,
+    "changed_from": "Back End Cari Dokter"
+  },
+  {
+    "comment": 51218389,
+    "changed_to": "Front and Back End Cari Rumah Sakit",
+    "field": "title",
+    "created_on": "2019-03-19T13:30:50.923209+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 12,
+    "changed_from": "Front and Back End Cari Dokter"
+  },
+  {
+    "comment": 51219874,
+    "changed_to": "Sprint 2",
+    "field": "milestone",
+    "created_on": "2019-03-19T14:45:25.171424+00:00",
+    "user": {
+      "display_name": "sylvia feng",
+      "account_id": "557058:817ef63f-8454-4143-8ace-c14d3ed8ffdc"
+    },
+    "issue": 3,
+    "changed_from": ""
+  },
+  {
+    "comment": 51219874,
+    "changed_to": "Perbaiki yang Password dan Email jika dikosongin.",
+    "field": "content",
+    "created_on": "2019-03-19T14:45:25.074975+00:00",
+    "user": {
+      "display_name": "sylvia feng",
+      "account_id": "557058:817ef63f-8454-4143-8ace-c14d3ed8ffdc"
+    },
+    "issue": 3,
+    "changed_from": ""
+  },
+  {
+    "comment": 51345858,
+    "changed_to": "Back End Cari Jadwal Praktek",
+    "field": "title",
+    "created_on": "2019-03-27T01:07:58.945535+00:00",
+    "user": {
+      "display_name": "Muhammad Ishak Syukri",
+      "account_id": "5c5409884c070827c2a2275f"
+    },
+    "issue": 18,
+    "changed_from": "Front End Cari Dokter"
+  },
+  {
+    "comment": 51347866,
+    "changed_to": "Back End Cari dokter",
+    "field": "title",
+    "created_on": "2019-03-27T05:07:32.103470+00:00",
+    "user": {
+      "display_name": "sylvia feng",
+      "account_id": "557058:817ef63f-8454-4143-8ace-c14d3ed8ffdc"
+    },
+    "issue": 14,
+    "changed_from": "Back End Cari jadwal praktek dokter"
+  },
+  {
+    "comment": 51398271,
+    "changed_to": "Front End Cari dokter",
+    "field": "title",
+    "created_on": "2019-03-29T15:25:34.684444+00:00",
+    "user": {
+      "display_name": "sylvia feng",
+      "account_id": "557058:817ef63f-8454-4143-8ace-c14d3ed8ffdc"
+    },
+    "issue": 14,
+    "changed_from": "Back End Cari dokter"
+  },
+  {
+    "comment": 51398698,
+    "changed_to": "Sprint 3",
+    "field": "milestone",
+    "created_on": "2019-03-29T15:49:12.528855+00:00",
+    "user": {
+      "display_name": "sylvia feng",
+      "account_id": "557058:817ef63f-8454-4143-8ace-c14d3ed8ffdc"
+    },
+    "issue": 15,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51437803,
+    "changed_to": "Perbaiki yang Password dan Email jika dikosongin. \r\n\r\nStory : jika salah satu field pada halama login tidak di isikan oleh user maka akan muncul notifikasi login gagal .\r\n\r\nLink mock up ==>",
+    "field": "content",
+    "created_on": "2019-04-02T05:05:38.997738+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 3,
+    "changed_from": "Perbaiki yang Password dan Email jika dikosongin."
+  },
+  {
+    "comment": 51437813,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:06:22.147626+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 3,
+    "changed_from": "open"
+  },
+  {
+    "comment": 51437844,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:09:20.197531+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 21,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437856,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:10:21.422616+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 14,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437885,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:14:48.823920+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 11,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437895,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T05:16:08.560843+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 18,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51447669,
+    "changed_to": "Sprint 2\r\n\r\nstory : membuat fitur searching",
+    "field": "content",
+    "created_on": "2019-04-02T14:26:15.896749+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 12,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51447669,
+    "changed_to": "Screenshot_20190402-212358_e-DOCTOR[1].jpg",
+    "field": "attachment",
+    "created_on": "2019-04-02T14:26:15.662112+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 12,
+    "changed_from": "/rpl2019/e-doctor/issues/attachments/12/rpl2019/e-doctor/1554215175.43/12/Screenshot_20190402-212358_e-DOCTOR%5B1%5D.jpg"
+  },
+  {
+    "comment": 51447860,
+    "changed_to": "Sprint 2\r\n\r\nStory : menampilkan daftar dokter dan jika di pencet muncul detail dokter, dan bisa jiga mencari dokter\r\n\r\nMockup",
+    "field": "content",
+    "created_on": "2019-04-02T14:35:39.265282+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 10,
+    "changed_from": "Sprint 2"
+  },
+  {
+    "comment": 51447860,
+    "changed_to": "Screenshot_2019-04-01-21-28-06-729_app.andropath.com.edoctor.png",
+    "field": "attachment",
+    "created_on": "2019-04-02T14:35:39.204644+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 10,
+    "changed_from": "/rpl2019/e-doctor/issues/attachments/10/rpl2019/e-doctor/1554215739.13/10/Screenshot_2019-04-01-21-28-06-729_app.andropath.com.edoctor.png"
+  },
+  {
+    "comment": 51447860,
+    "changed_to": "Screenshot_2019-04-01-21-28-17-800_app.andropath.com.edoctor.png",
+    "field": "attachment",
+    "created_on": "2019-04-02T14:35:39.121041+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 10,
+    "changed_from": "/rpl2019/e-doctor/issues/attachments/10/rpl2019/e-doctor/1554215739.06/10/Screenshot_2019-04-01-21-28-17-800_app.andropath.com.edoctor.png"
+  },
+  {
+    "comment": 51447860,
+    "changed_to": "Screenshot_2019-04-02-21-33-17-522_app.andropath.com.edoctor.png",
+    "field": "attachment",
+    "created_on": "2019-04-02T14:35:39.023814+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 10,
+    "changed_from": "/rpl2019/e-doctor/issues/attachments/10/rpl2019/e-doctor/1554215738.81/10/Screenshot_2019-04-02-21-33-17-522_app.andropath.com.edoctor.png"
+  },
+  {
+    "comment": 51597734,
+    "changed_to": "Sprint 2\r\n\r\nstory : membuat fitur searching, telah menyelesaikan fitur cari rumah sakit",
+    "field": "content",
+    "created_on": "2019-04-11T13:58:22.310020+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 12,
+    "changed_from": "Sprint 2\r\n\r\nstory : membuat fitur searching"
+  },
+  {
+    "comment": 51740128,
+    "changed_to": "back end mengedit profile",
+    "field": "title",
+    "created_on": "2019-04-21T08:33:30.219755+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 13,
+    "changed_from": "back end profile"
+  },
+  {
+    "comment": 51740128,
+    "changed_to": "Sprint 3\r\nStory: user dapat menengedit profile",
+    "field": "content",
+    "created_on": "2019-04-21T08:33:30.217221+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 13,
+    "changed_from": "Sprint 3"
+  },
+  {
+    "comment": 51740128,
+    "changed_to": "Screenshot_2019-04-21-15-30-57-498_app.andropath.com.edoctor.png",
+    "field": "attachment",
+    "created_on": "2019-04-21T08:33:30.190500+00:00",
+    "user": {
+      "display_name": "Tb Rama Ramadhan",
+      "account_id": "5c54025229af5e218af2ff4a"
+    },
+    "issue": 13,
+    "changed_from": "/rpl2019/e-doctor/issues/attachments/13/rpl2019/e-doctor/1555835610.06/13/Screenshot_2019-04-21-15-30-57-498_app.andropath.com.edoctor.png"
+  },
+  {
+    "comment": 51753193,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-22T14:47:28.121036+00:00",
+    "user": {
+      "display_name": "Ghalib Mahendra",
+      "account_id": "5c5407fc0abefd4ed4ed6db9"
+    },
+    "issue": 22,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51887737,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T06:20:47.263847+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 15,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887792,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T06:25:24.260487+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 13,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887801,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T06:26:09.422209+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 23,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887811,
+    "changed_to": "invalid",
+    "field": "status",
+    "created_on": "2019-04-30T06:26:59.638315+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 17,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887843,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T06:29:23.325505+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 24,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887847,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T06:29:40.679178+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 22,
+    "changed_from": "new"
+  }
+]

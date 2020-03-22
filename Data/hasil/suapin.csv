@@ -1,0 +1,134 @@
+Case ID,Timestamp,Activity,Resource
+4,2019-02-20 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+1,2019-02-21 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+1,2019-02-21 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+1,2019-02-21 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+1,2019-02-21 13:05:36.048003+00:00,Open,Jannatul Rahmadiani
+1,2019-02-22 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+3,2019-02-22 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+2,2019-02-22 06:53:40.650665+00:00,Open,Kurnia Dwi
+3,2019-02-22 09:46:51.887882+00:00,Open,Indah Nur Fitri Astuti
+2,2019-02-23 00:00:00+00:00,Implement task,Kurnia Dwi
+2,2019-02-24 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+4,2019-02-24 16:29:49.137577+00:00,Open,MLuthfi Ridhwan
+4,2019-02-25 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+13,2019-02-26 00:00:00+00:00,Implement task,Fernando Redondo
+32,2019-02-26 00:00:00+00:00,Implement task,yohanesalfandi
+7,2019-03-01 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+2,2019-03-01 00:00:00+00:00,Implement task,Kurnia Dwi
+7,2019-03-01 09:05:54.275350+00:00,Open,Jannatul Rahmadiani
+2,2019-03-01 11:49:11.599316+00:00,Resolved,Kurnia Dwi
+32,2019-03-03 00:00:00+00:00,Implement task,yohanesalfandi
+8,2019-03-03 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+10,2019-03-03 17:50:55.130190+00:00,Open,MLuthfi Ridhwan
+9,2019-03-04 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+1,2019-03-16 20:25:19.254554+00:00,Resolved,Kurnia Dwi
+11,2019-03-16 20:27:32.063525+00:00,Open,Kurnia Dwi
+12,2019-03-17 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+13,2019-03-18 00:00:00+00:00,Implement task,Fernando Redondo
+13,2019-03-18 00:00:00+00:00,Implement task,Fernando Redondo
+13,2019-03-18 12:54:00.116485+00:00,Open,Fernando Redondo
+21,2019-03-19 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+7,2019-03-19 00:00:00+00:00,Implement task,yohanesalfandi
+14,2019-03-19 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+17,2019-03-19 00:00:00+00:00,Implement task,Kurnia Dwi
+14,2019-03-19 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+15,2019-03-19 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+2,2019-03-19 04:49:22.248543+00:00,Closed,Tien Kusumasari
+3,2019-03-19 04:50:00.441616+00:00,Resolved,Tien Kusumasari
+3,2019-03-19 04:50:16.819033+00:00,Closed,Tien Kusumasari
+1,2019-03-19 04:50:54.153271+00:00,Closed,Tien Kusumasari
+15,2019-03-19 04:51:22.788875+00:00,Invalid,Tien Kusumasari
+4,2019-03-19 04:52:52.293993+00:00,Resolved,Tien Kusumasari
+4,2019-03-19 04:53:10.794131+00:00,Closed,Tien Kusumasari
+13,2019-03-19 04:53:45.331570+00:00,Resolved,Tien Kusumasari
+13,2019-03-19 04:53:59.124816+00:00,Closed,Tien Kusumasari
+6,2019-03-19 04:57:32.056917+00:00,Invalid,Tien Kusumasari
+9,2019-03-19 05:01:05.180716+00:00,Invalid,Tien Kusumasari
+8,2019-03-19 05:02:06.596376+00:00,Invalid,Tien Kusumasari
+7,2019-03-19 05:02:37.018877+00:00,Resolved,Tien Kusumasari
+7,2019-03-19 05:02:52.713085+00:00,Closed,Tien Kusumasari
+11,2019-03-19 05:03:27.582679+00:00,Resolved,Tien Kusumasari
+11,2019-03-19 05:03:46.024364+00:00,Closed,Tien Kusumasari
+5,2019-03-19 05:04:17.647945+00:00,Invalid,Tien Kusumasari
+16,2019-03-19 14:47:11.688065+00:00,Open,Jannatul Rahmadiani
+17,2019-03-19 14:50:05.678448+00:00,Open,Kurnia Dwi
+19,2019-03-19 14:53:33.459750+00:00,Open,Indah Nur Fitri Astuti
+20,2019-03-19 14:54:28.870622+00:00,Open,Fernando Redondo
+21,2019-03-19 14:55:36.208836+00:00,Open,Indah Nur Fitri Astuti
+22,2019-03-19 14:57:43.351104+00:00,Open,MLuthfi Ridhwan
+23,2019-03-19 14:58:38.803094+00:00,Open,Yohanes Alfandi
+24,2019-03-19 14:59:25.813838+00:00,Open,
+26,2019-03-19 15:01:09.604100+00:00,Open,MLuthfi Ridhwan
+20,2019-03-20 00:00:00+00:00,Implement task,Fernando Redondo
+23,2019-03-20 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+28,2019-03-25 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+27,2019-03-26 00:00:00+00:00,Implement task,Kurnia Dwi
+16,2019-03-26 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+30,2019-03-26 00:00:00+00:00,Implement task,Fernando Redondo
+21,2019-03-26 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+29,2019-03-26 00:00:00+00:00,Implement task,yohanesalfandi
+27,2019-03-26 04:37:40.174829+00:00,Open,Kurnia Dwi
+28,2019-03-26 04:39:55.348982+00:00,Open,MLuthfi Ridhwan
+29,2019-03-26 05:19:42.515422+00:00,Open,Yohanes Alfandi
+29,2019-03-26 05:29:47.784651+00:00,Resolved,Yohanes Alfandi
+21,2019-03-26 07:31:56.708291+00:00,Resolved,Indah Nur Fitri Astuti
+28,2019-03-26 08:06:10.068483+00:00,Resolved,MLuthfi Ridhwan
+30,2019-03-26 09:56:57.218838+00:00,Open,Fernando Redondo
+30,2019-03-26 10:25:47.320029+00:00,Resolved,Fernando Redondo
+16,2019-03-26 13:18:25.298478+00:00,Resolved,Jannatul Rahmadiani
+27,2019-03-26 14:35:52.665153+00:00,Resolved,Kurnia Dwi
+19,2019-04-02 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+4,2019-04-02 00:00:00+00:00,Implement task,MLuthfi Ridhwan
+17,2019-04-02 00:00:00+00:00,Implement task,Kurnia Dwi
+16,2019-04-02 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+3,2019-04-02 00:00:00+00:00,Implement task,Fernando Redondo
+18,2019-04-02 06:59:09.775079+00:00,Invalid,Tien Kusumasari
+23,2019-04-02 07:00:53.600441+00:00,Closed,Tien Kusumasari
+27,2019-04-02 07:03:16.995256+00:00,Closed,Tien Kusumasari
+17,2019-04-02 07:05:02.523530+00:00,Closed,Tien Kusumasari
+21,2019-04-02 07:06:03.527758+00:00,Closed,Tien Kusumasari
+14,2019-04-02 07:06:37.044299+00:00,Invalid,Tien Kusumasari
+19,2019-04-02 07:07:33.498396+00:00,Closed,Tien Kusumasari
+16,2019-04-02 07:08:05.818994+00:00,Open,Tien Kusumasari
+30,2019-04-02 07:09:08.056823+00:00,Open,Tien Kusumasari
+28,2019-04-02 07:10:15.341467+00:00,Closed,Tien Kusumasari
+12,2019-04-02 11:28:47.354426+00:00,Invalid,Jannatul Rahmadiani
+16,2019-04-02 12:00:43.973046+00:00,Resolved,Jannatul Rahmadiani
+4,2019-04-02 15:37:50.306945+00:00,Open,MLuthfi Ridhwan
+4,2019-04-02 15:42:44.514091+00:00,Resolved,MLuthfi Ridhwan
+19,2019-04-02 16:23:19.858139+00:00,Open,Indah Nur Fitri Astuti
+19,2019-04-02 16:26:09.440026+00:00,Resolved,Indah Nur Fitri Astuti
+23,2019-04-03 00:00:00+00:00,Implement task,yohanesalfandi
+31,2019-04-09 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+32,2019-04-09 00:00:00+00:00,Implement task,yohanesalfandi
+20,2019-04-09 02:59:03.523044+00:00,Closed,Tien Kusumasari
+31,2019-04-09 04:02:57.134321+00:00,Open,Jannatul Rahmadiani
+22,2019-04-09 04:35:22.928834+00:00,Closed,Tien Kusumasari
+29,2019-04-09 04:35:52.763808+00:00,Closed,Tien Kusumasari
+30,2019-04-09 04:36:21.179823+00:00,Closed,Tien Kusumasari
+19,2019-04-09 04:36:58.161426+00:00,Closed,Tien Kusumasari
+10,2019-04-09 10:43:56.468889+00:00,Resolved,MLuthfi Ridhwan
+10,2019-04-09 10:44:38.145708+00:00,Closed,MLuthfi Ridhwan
+32,2019-04-09 16:42:55.384643+00:00,Open,Yohanes Alfandi
+33,2019-04-09 16:44:40.040046+00:00,Open,Fernando Redondo
+32,2019-04-09 16:58:35.045319+00:00,Resolved,Yohanes Alfandi
+33,2019-04-09 17:24:10.034547+00:00,Resolved,Fernando Redondo
+33,2019-04-10 00:00:00+00:00,Implement task,Fernando Redondo
+35,2019-04-16 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+34,2019-04-16 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+34,2019-04-16 15:24:46.271335+00:00,Open,Indah Nur Fitri Astuti
+34,2019-04-16 15:27:49.814540+00:00,Resolved,Indah Nur Fitri Astuti
+35,2019-04-16 16:01:10.838308+00:00,Open,Jannatul Rahmadiani
+36,2019-04-16 17:02:04.590262+00:00,Open,Yohanes Alfandi
+36,2019-04-16 17:03:48.891302+00:00,Resolved,Yohanes Alfandi
+36,2019-04-17 00:00:00+00:00,Implement task,yohanesalfandi
+34,2019-04-23 00:00:00+00:00,Implement task,Indah Nur Fitri Astuti
+35,2019-04-23 00:00:00+00:00,Implement task,Jannatul Rahmadiani
+25,2019-04-25 13:04:37.682127+00:00,Invalid,Kurnia Dwi
+37,2019-04-29 13:02:44.852057+00:00,Open,Kurnia Dwi
+26,2019-04-30 05:55:27.341188+00:00,Closed,ekky novriza alam
+37,2019-04-30 05:57:18.049398+00:00,Closed,ekky novriza alam
+24,2019-04-30 05:57:57.705483+00:00,Closed,ekky novriza alam
+35,2019-04-30 05:59:22.799906+00:00,On hold,ekky novriza alam
+31,2019-04-30 06:00:20.146753+00:00,Closed,ekky novriza alam

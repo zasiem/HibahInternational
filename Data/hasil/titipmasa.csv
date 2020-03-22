@@ -1,0 +1,113 @@
+Case ID,Timestamp,Activity,Resource
+10,2019-02-18 00:00:00+00:00,Implement task,rahkmahnabila
+2,2019-02-20 00:00:00+00:00,Implement task,Anisa Agustina
+12,2019-02-20 00:00:00+00:00,Implement task,muhammad fikri makmur
+1,2019-02-20 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+1,2019-02-20 07:33:22.518372+00:00,Open,Sevira Hendari Pratiwi
+2,2019-02-20 08:07:21.631360+00:00,Open,Anisa Agustina
+16,2019-02-25 00:00:00+00:00,Implement task,Rahkmah Nabila
+11,2019-02-25 00:00:00+00:00,Implement task,Nisya
+3,2019-02-26 00:00:00+00:00,Implement task,ben hughie
+3,2019-02-26 07:31:19.020058+00:00,Open,ben hughie
+5,2019-02-28 00:00:00+00:00,Implement task,Nisya
+4,2019-02-28 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+4,2019-02-28 05:41:36.001178+00:00,Open,Sevira Hendari Pratiwi
+5,2019-02-28 10:43:53.674795+00:00,Open,Nisya
+6,2019-03-01 00:00:00+00:00,Implement task,Rahkmah Nabila
+2,2019-03-01 00:00:00+00:00,Implement task,Anisa Agustina
+2,2019-03-02 00:00:00+00:00,Implement task,muhammad fikri makmur
+2,2019-03-02 00:00:00+00:00,Implement task,muhammad fikri makmur
+8,2019-03-04 00:00:00+00:00,Implement task,ben hughie
+8,2019-03-04 00:00:00+00:00,Implement task,ben hughie
+7,2019-03-17 00:00:00+00:00,Implement task,Rahkmah Nabila
+7,2019-03-17 07:07:42.676828+00:00,Open,Rahkmah Nabila
+2,2019-03-18 00:00:00+00:00,Implement task,muhammad fikri makmur
+5,2019-03-18 00:00:00+00:00,Implement task,Nisya
+8,2019-03-18 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+2,2019-03-18 00:00:00+00:00,Implement task,muhammad fikri makmur
+8,2019-03-18 14:07:15.417676+00:00,Open,Sevira Hendari Pratiwi
+19,2019-03-19 00:00:00+00:00,Implement task,Nisya
+22,2019-03-19 00:00:00+00:00,Implement task,muhammad fikri makmur
+13,2019-03-19 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+21,2019-03-19 00:00:00+00:00,Implement task,Rahkmah Nabila
+7,2019-03-19 00:00:00+00:00,Implement task,Rahkmah Nabila
+8,2019-03-19 00:00:00+00:00,Implement task,ben hughie
+20,2019-03-19 00:00:00+00:00,Implement task,ben hughie
+3,2019-03-19 03:19:38.841552+00:00,Resolved,Tien Kusumasari
+5,2019-03-19 03:22:44.240690+00:00,Closed,Tien Kusumasari
+8,2019-03-19 03:23:17.848977+00:00,Resolved,Tien Kusumasari
+3,2019-03-19 03:23:56.601807+00:00,Closed,Tien Kusumasari
+8,2019-03-19 03:24:31.627708+00:00,Closed,Tien Kusumasari
+1,2019-03-19 03:26:14.055725+00:00,Closed,Tien Kusumasari
+4,2019-03-19 03:30:57.228474+00:00,Duplicate,Tien Kusumasari
+2,2019-03-19 03:35:35.491068+00:00,Resolved,Tien Kusumasari
+2,2019-03-19 03:35:51.331907+00:00,Closed,Tien Kusumasari
+9,2019-03-19 04:14:36.201645+00:00,Open,muhammad fikri makmur
+10,2019-03-19 04:15:34.453100+00:00,Open,Rahkmah Nabila
+11,2019-03-19 04:16:50.322295+00:00,Open,Nisya
+12,2019-03-19 04:18:41.398654+00:00,Open,muhammad fikri makmur
+9,2019-03-19 04:43:04.666557+00:00,Resolved,Rahkmah Nabila
+13,2019-03-19 06:44:04.455344+00:00,Open,Sevira Hendari Pratiwi
+14,2019-03-19 06:44:44.542971+00:00,Open,muhammad fikri makmur
+10,2019-03-19 06:46:37.658558+00:00,Resolved,Rahkmah Nabila
+11,2019-03-19 06:50:08.656884+00:00,Resolved,Rahkmah Nabila
+15,2019-03-19 06:59:56.414712+00:00,Open,muhammad fikri makmur
+16,2019-03-19 07:01:14.982849+00:00,Open,Rahkmah Nabila
+17,2019-03-19 07:02:05.709815+00:00,Open,Anisa Agustina
+18,2019-03-19 07:03:08.350995+00:00,Open,Anisa Agustina
+19,2019-03-19 07:04:20.170180+00:00,Open,Nisya
+14,2019-03-19 07:04:52.873539+00:00,Resolved,Rahkmah Nabila
+20,2019-03-19 07:06:12.137901+00:00,Open,ben hughie
+21,2019-03-19 07:07:07.948886+00:00,Open,Rahkmah Nabila
+22,2019-03-19 07:07:52.761866+00:00,Open,muhammad fikri makmur
+23,2019-03-19 07:08:39.161846+00:00,Open,Nisya
+24,2019-03-19 07:10:59.307367+00:00,Open,Sevira Hendari Pratiwi
+25,2019-03-19 07:11:26.498337+00:00,Open,Rahkmah Nabila
+26,2019-03-20 00:00:00+00:00,Implement task,Anisa Agustina
+26,2019-03-20 00:00:00+00:00,Implement task,Anisa Agustina
+16,2019-03-25 00:00:00+00:00,Implement task,muhammad fikri makmur
+16,2019-03-25 00:00:00+00:00,Implement task,muhammad fikri makmur
+7,2019-03-25 00:00:00+00:00,Implement task,Rahkmah Nabila
+21,2019-03-25 00:00:00+00:00,Implement task,Rahkmah Nabila
+17,2019-03-26 00:00:00+00:00,Implement task,Anisa Agustina
+13,2019-03-26 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+16,2019-03-26 00:00:00+00:00,Implement task,Nisya
+7,2019-03-28 00:00:00+00:00,Implement task,Rahkmah Nabila
+16,2019-03-28 00:00:00+00:00,Implement task,Rahkmah Nabila
+24,2019-03-29 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+24,2019-04-01 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+15,2019-04-01 00:00:00+00:00,Implement task,muhammad fikri makmur
+15,2019-04-01 00:00:00+00:00,Implement task,muhammad fikri makmur
+24,2019-04-01 00:00:00+00:00,Implement task,Rahkmah Nabila
+23,2019-04-02 00:00:00+00:00,Implement task,Nisya
+25,2019-04-02 00:00:00+00:00,Implement task,Anisa Agustina
+22,2019-04-02 00:00:00+00:00,Implement task,Nisya
+16,2019-04-02 02:55:23.703947+00:00,Closed,Tien Kusumasari
+14,2019-04-02 03:01:34.169683+00:00,Closed,Tien Kusumasari
+17,2019-04-02 03:02:56.347903+00:00,Closed,Tien Kusumasari
+22,2019-04-02 03:26:19.118466+00:00,Closed,Tien Kusumasari
+15,2019-04-02 03:31:31.850268+00:00,Closed,Tien Kusumasari
+24,2019-04-02 03:39:20.823157+00:00,Closed,Tien Kusumasari
+25,2019-04-02 03:42:32.693809+00:00,Closed,Tien Kusumasari
+13,2019-04-08 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+21,2019-04-08 00:00:00+00:00,Implement task,muhammad fikri makmur
+19,2019-04-09 00:00:00+00:00,Implement task,Nisya
+23,2019-04-09 00:00:00+00:00,Implement task,Rahkmah Nabila
+18,2019-04-09 00:00:00+00:00,Implement task,Anisa Agustina
+21,2019-04-22 00:00:00+00:00,Implement task,muhammad fikri makmur
+26,2019-04-22 00:00:00+00:00,Implement task,ben hughie
+27,2019-04-22 00:00:00+00:00,Implement task,ben hughie
+26,2019-04-22 14:58:43.518570+00:00,Open,ben hughie
+27,2019-04-22 15:20:05.013788+00:00,Open,ben hughie
+19,2019-04-23 00:00:00+00:00,Implement task,Nisya
+21,2019-04-23 00:00:00+00:00,Implement task,Rahkmah Nabila
+13,2019-04-23 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+21,2019-04-29 00:00:00+00:00,Implement task,Rahkmah Nabila
+13,2019-04-30 00:00:00+00:00,Implement task,Sevira Hendari Pratiwi
+21,2019-04-30 04:17:05.852584+00:00,Resolved,ekky novriza alam
+19,2019-04-30 04:41:10.538180+00:00,On hold,ekky novriza alam
+27,2019-04-30 04:42:11.140922+00:00,On hold,ekky novriza alam
+18,2019-04-30 04:43:32.369445+00:00,On hold,ekky novriza alam
+20,2019-04-30 04:43:41.780431+00:00,On hold,ekky novriza alam
+26,2019-04-30 04:43:48.493665+00:00,On hold,ekky novriza alam
+13,2019-04-30 04:52:32.739149+00:00,Resolved,ekky novriza alam

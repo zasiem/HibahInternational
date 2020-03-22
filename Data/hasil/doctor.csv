@@ -1,0 +1,100 @@
+Case ID,Timestamp,Activity,Resource
+1,2019-02-14 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-02-14 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-02-14 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-02-16 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-02-16 00:00:00+00:00,Merge Branch,Tb Rama Ramadhan
+5,2019-02-19 00:00:00+00:00,Implement task,Ghalib Mahendra
+5,2019-02-19 00:00:00+00:00,Implement task,Ghalib Mahendra
+1,2019-02-20 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+5,2019-02-21 00:00:00+00:00,Implement task,sylvia feng
+5,2019-02-21 00:00:00+00:00,Implement task,Ghalib Mahendra
+3,2019-02-21 00:00:00+00:00,Implement task,Ghalib Mahendra
+2,2019-02-25 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+9,2019-02-25 00:00:00+00:00,Implement task,Adityo Satrio
+8,2019-02-25 00:00:00+00:00,Implement task,Adityo Satrio
+7,2019-02-25 00:00:00+00:00,Implement task,avisa gavrilla
+5,2019-02-28 00:00:00+00:00,Merge Branch,Ghalib Mahendra
+5,2019-02-28 00:00:00+00:00,Implement task,Ghalib Mahendra
+1,2019-03-01 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+6,2019-03-01 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-03-02 00:00:00+00:00,Implement task,sylvia feng
+4,2019-03-02 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+8,2019-03-03 00:00:00+00:00,Implement task,avisa gavrilla
+2,2019-03-03 00:00:00+00:00,Implement task,avisa gavrilla
+2,2019-03-03 00:00:00+00:00,Implement task,Adityo Satrio
+2,2019-03-04 00:00:00+00:00,Merge Branch,avisa gavrilla
+1,2019-03-04 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-03-19 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+12,2019-03-19 00:00:00+00:00,Implement task,Ghalib Mahendra
+1,2019-03-19 05:07:52.056187+00:00,Open,Tb Rama Ramadhan
+2,2019-03-19 05:13:46.292415+00:00,Open,avisa gavrilla
+3,2019-03-19 05:14:40.070977+00:00,Open,sylvia feng
+4,2019-03-19 05:15:29.255299+00:00,Open,sylvia feng
+5,2019-03-19 05:15:48.157303+00:00,Open,Ghalib Mahendra
+6,2019-03-19 05:18:02.301469+00:00,Open,Muhammad Ishak Syukri
+7,2019-03-19 05:18:30.612427+00:00,Open,Muhammad Ishak Syukri
+8,2019-03-19 05:18:34.033729+00:00,Open,Adityo Satrio
+9,2019-03-19 05:19:06.144251+00:00,Open,Adityo Satrio
+9,2019-03-19 06:30:31.849064+00:00,Closed,ekky novriza alam
+7,2019-03-19 06:33:17.630363+00:00,Closed,ekky novriza alam
+6,2019-03-19 06:33:22.916561+00:00,Closed,ekky novriza alam
+4,2019-03-19 06:36:42.911230+00:00,Closed,ekky novriza alam
+3,2019-03-19 06:36:51.814370+00:00,Closed,ekky novriza alam
+3,2019-03-19 06:37:33.355187+00:00,Open,ekky novriza alam
+2,2019-03-19 06:38:04.526926+00:00,Closed,ekky novriza alam
+1,2019-03-19 06:38:15.954458+00:00,Closed,ekky novriza alam
+10,2019-03-19 12:40:22.165115+00:00,Open,Tb Rama Ramadhan
+11,2019-03-19 13:08:52.854259+00:00,Open,avisa gavrilla
+12,2019-03-19 13:10:17.198785+00:00,Open,Ghalib Mahendra
+13,2019-03-19 13:25:05.806566+00:00,Open,Tb Rama Ramadhan
+14,2019-03-19 14:42:10.932308+00:00,Open,sylvia feng
+15,2019-03-19 14:43:34.045376+00:00,Open,sylvia feng
+16,2019-03-19 14:46:10.818639+00:00,Open,Adityo Satrio
+18,2019-03-19 15:55:13.785328+00:00,Open,Muhammad Ishak Syukri
+19,2019-03-19 16:10:38.436424+00:00,Open,avisa gavrilla
+20,2019-03-19 16:21:41.302098+00:00,Open,Muhammad Ishak Syukri
+10,2019-03-24 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+12,2019-03-26 00:00:00+00:00,Implement task,Ghalib Mahendra
+16,2019-03-26 00:00:00+00:00,Implement task,Adityo Satrio
+18,2019-03-27 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+11,2019-03-29 00:00:00+00:00,Implement task,avisa gavrilla
+21,2019-03-29 00:00:00+00:00,Implement task,Adityo Satrio
+14,2019-03-29 00:00:00+00:00,Implement task,sylvia feng
+3,2019-03-29 00:00:00+00:00,Implement task,sylvia feng
+11,2019-03-29 00:00:00+00:00,Implement task,avisa gavrilla
+21,2019-03-29 14:57:57.354461+00:00,Open,Adityo Satrio
+12,2019-03-30 00:00:00+00:00,Implement task,Ghalib Mahendra
+16,2019-03-30 00:00:00+00:00,Implement task,Adityo Satrio
+10,2019-03-30 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+10,2019-04-01 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+10,2019-04-01 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+18,2019-04-01 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+10,2019-04-02 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+3,2019-04-02 05:06:22.147626+00:00,Closed,Tien Kusumasari
+21,2019-04-02 05:09:20.197531+00:00,Closed,Tien Kusumasari
+14,2019-04-02 05:10:21.422616+00:00,Closed,Tien Kusumasari
+11,2019-04-02 05:14:48.823920+00:00,Closed,Tien Kusumasari
+18,2019-04-02 05:16:08.560843+00:00,Closed,Tien Kusumasari
+10,2019-04-08 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+22,2019-04-08 14:42:49.949445+00:00,Open,Ghalib Mahendra
+12,2019-04-11 00:00:00+00:00,Implement task,Ghalib Mahendra
+15,2019-04-21 00:00:00+00:00,Implement task,sylvia feng
+23,2019-04-21 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+13,2019-04-21 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+23,2019-04-21 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+23,2019-04-21 08:39:21.445906+00:00,Open,Tb Rama Ramadhan
+19,2019-04-22 00:00:00+00:00,Implement task,avisa gavrilla
+12,2019-04-22 00:00:00+00:00,Implement task,Ghalib Mahendra
+24,2019-04-22 00:00:00+00:00,Implement task,Adityo Satrio
+22,2019-04-22 00:00:00+00:00,Implement task,Ghalib Mahendra
+24,2019-04-22 14:10:16.240255+00:00,Open,Adityo Satrio
+20,2019-04-25 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+20,2019-04-25 00:00:00+00:00,Implement task,Muhammad Ishak Syukri
+23,2019-04-27 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+15,2019-04-30 06:20:47.263847+00:00,Closed,Tien Kusumasari
+13,2019-04-30 06:25:24.260487+00:00,Closed,Tien Kusumasari
+23,2019-04-30 06:26:09.422209+00:00,Closed,Tien Kusumasari
+17,2019-04-30 06:26:59.638315+00:00,Invalid,Tien Kusumasari
+24,2019-04-30 06:29:23.325505+00:00,Closed,Tien Kusumasari
+22,2019-04-30 06:29:40.679178+00:00,Closed,Tien Kusumasari

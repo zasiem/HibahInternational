@@ -1,0 +1,1037 @@
+﻿[
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][7] Perubahan proses payment",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Perubahan proses payment backend dan fornt end. \r\n\r\nBack end, logic beberapa kondisi yang masih bisa membuat proses tidak berhasil\r\n\r\nfront end : \r\n\r\nPerubahan fragment ke activity",
+    "assignee": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "created_on": "2019-04-30T05:05:42.336109+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T05:17:07.727268+00:00",
+    "id": 27
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][8] Pembuatan front-end proses setelah payment (Aproval)",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Pembuatan front-end aproval dari vendor ketika order masuk\r\n\r\nFront-end terdiri dari data order yang masuk, dan proses aprove apakah barang bsia dipinjam atau enggak",
+    "assignee": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "created_on": "2019-04-30T05:09:57.960565+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T05:16:45.588655+00:00",
+    "id": 28
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-26T01:47:58.535023+00:00",
+    "voters": [],
+    "title": "[3][2] Front End halaman review and feedback",
+    "reporter": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      }
+    ],
+    "content": "Halaman feedback adalah halaman dimana kita bisa menambahkan rating barang, dan memberikan feedback kepada barang yang sudah dipinjam.\r\nLalu jika di submit hasil review dan rating akan ditampilkan di halaman barang.\r\n\r\n\r\nMockup : \r\nbit.ly/TampilanMinjemin",
+    "assignee": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "created_on": "2019-04-09T03:04:13.998286+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:55:54.231642+00:00",
+    "id": 21
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-26T01:45:25.255072+00:00",
+    "voters": [],
+    "title": "[3][3] Membuat frontend fitur chat",
+    "reporter": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      }
+    ],
+    "content": "fitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Tampilan fiturchat ini dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak\r\n\r\nMockup : \r\nbit.ly/TampilanMinjemin",
+    "assignee": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "created_on": "2019-04-09T03:16:19.610122+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:52:58.861898+00:00",
+    "id": 22
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][1] Membuat Backend pengembalian barang",
+    "reporter": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      }
+    ],
+    "content": "# Story\r\n Setelah masa waktu penyewaan habis maka user akan mengembalikan barang dengan cara mengeklik button `Kembalikan` *(di halaman transaksi tab peminjaman)* Kemudian user akan diarahkan ke halaman Pengembalian barang, selanjutnya user harus mengisikan Metode pengembalian barang dan alamat pengembalian akan di ambil automatis ke alamat vendor kemudian terakhir dengan mengeklik tombol `Kembalikan Barang` maka akan muncul notifikasi masuk ke vendor.",
+    "assignee": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "created_on": "2019-04-08T16:29:08.190889+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:43:56.485583+00:00",
+    "id": 20
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T04:06:30.615783+00:00",
+    "voters": [],
+    "title": "[3][1] Membuat Front End pengembalian barang",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "Layout pengembalian barang adalah sebuah fitur pengembalian barang jika dirasa customer merasa barang yang di pinjam tidak sesuai. Didalam layout ini mempunyai fitur berupa pilih metode pengembalian, masukan alamat pengembalian, pilih waktu pengembalian dan pengajuan negosiasi jam pengembalian.  \r\n  \r\nMockup : bit.ly/TampilanMinjemin",
+    "assignee": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "created_on": "2019-04-22T06:25:58.681639+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:42:21.401412+00:00",
+    "id": 26
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T04:05:34.303347+00:00",
+    "voters": [],
+    "title": "[3][3] Membuat Backend fitur chat",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Deskripsi Fitur :\r\n\r\nFitur chat digunakan untuk mempermudah user berinteraksi dengan vendor. Ketika user memilih fitur chat, user akan melihat history chat yang pernah dilakukan, termasuk chat terbaru. Ketika user memilih salah satu chat maka akan ditampilkan pesan nya dengan dilengkapi dengan waktu kirim chat, nama user, nama toko vendor, keterangan apakah vendor sedang online atau tidak.\r\n\r\nBackend :   \r\n- Logic Menampilkan daftar history chat   \r\n- Menampilkan pesan chat - Input pesan   \r\n- Read pesan dan ditampilkan di tampilan chat",
+    "assignee": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "created_on": "2019-04-09T14:02:14.055400+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:05:34.301364+00:00",
+    "id": 24
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][4] Membuat fungsi daftar transaksi",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "M. Rozzaq Yusaliano",
+        "account_id": "557058:cb789e60-e22f-4376-aad7-6a409e9aadd3"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Membuat fungsi daftar transaksi\r\n\r\nFront End\r\n- Layout Daftar Transaksi\r\n- Layout Histori Transaksi\r\n\r\nBack End\r\n- Fungsi Daftar Transaksi\r\n- Fungsi Histori Transaksi",
+    "assignee": {
+      "display_name": "M. Rozzaq Yusaliano",
+      "account_id": "557058:cb789e60-e22f-4376-aad7-6a409e9aadd3"
+    },
+    "created_on": "2019-03-21T01:04:19.819905+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-23T03:35:44.733178+00:00",
+    "id": 15
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-04T01:22:58.463225+00:00",
+    "voters": [],
+    "title": "[2][5] Integrasi antara fungsi check out dengan transaksi",
+    "reporter": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      }
+    ],
+    "content": "Membuat integrasi antara fungsi check out dengan transaksi melalui api, sehinga ketika aktifitas checkout berhasil akan dialihkan ke page transaksi.",
+    "assignee": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "created_on": "2019-04-02T05:57:14.712964+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-23T02:18:35.192103+00:00",
+    "id": 19
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][2] Back End halaman feedback review",
+    "reporter": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      }
+    ],
+    "content": "Halaman feedback adalah halaman dimana kita bisa menambahkan rating barang, dan memberikan feedback kepada barang yang sudah dipinjam. Lalu jika di submit hasil review dan rating akan ditampilkan di halaman barang.",
+    "assignee": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "created_on": "2019-04-09T09:43:49.374742+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-22T09:21:08.276426+00:00",
+    "id": 23
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3] [5] Membuat halaman utama",
+    "reporter": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      }
+    ],
+    "content": "1. Front-End Membuat layout seperti di mockup, terdiri dari beberapa layout / activity\r\n* Halaman Utama\r\n2. Back-End\r\n* Passing data menggunakan API Minjemin\r\n\r\nLink Mockup : bit.ly/MockupMinjemincom",
+    "assignee": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "created_on": "2019-02-25T16:38:35.055106+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:17:45.316246+00:00",
+    "id": 5
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][4] -Membuat halaman Kelola profile",
+    "reporter": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      }
+    ],
+    "content": "Berisi tentang gambaran layout kelola profile",
+    "assignee": null,
+    "created_on": "2019-02-25T14:47:04.769884+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:17:32.346359+00:00",
+    "id": 4
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "(1) (6) Membuat Halaman Lupa password",
+    "reporter": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      },
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      }
+    ],
+    "content": "Membuat Halaman Lupa password yang dimana ketika user lupa dengan passwordnya, user dapat mensolvenya sendiri dengan halaman ini.",
+    "assignee": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "created_on": "2019-02-25T05:30:02.156945+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:17:14.616347+00:00",
+    "id": 3
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][2] Membuat CRUD Barang",
+    "reporter": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      }
+    ],
+    "content": "Membuat fungsi CRUD Barang\r\n\r\n** 1. Front-End Membuat layout seperti di mockup, terdiri dari beberapa layout / activity**\r\n\r\n* Upload Barang / Item (Create & Edit)\r\n* List Published dan Draft serta option delete\r\n\r\n**2. Back-End**\r\n\r\n* Fetch barang / item dari API Minjemin.com\r\n* Request create barang / item\r\n* Request update barang  / item\r\n* Request delete barang / item\r\n\r\nLink Mockup : bit.ly/MockupMinjemincom",
+    "assignee": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "created_on": "2019-02-24T23:00:20.670255+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:16:56.369309+00:00",
+    "id": 2
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[4][3] Membuat halaman utama",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "membuat layout home",
+    "assignee": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "created_on": "2019-03-03T16:55:22.112481+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:16:44.483871+00:00",
+    "id": 6
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][2]-Membuat Halaman Daftar",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "Task : Ryan & Alif",
+    "assignee": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "created_on": "2019-03-19T05:21:30.963425+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:16:20.707857+00:00",
+    "id": 8
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-03-19T12:02:40.195500+00:00",
+    "voters": [],
+    "title": "[1][1]- Membuat Halaman Masuk",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "Task : Alif, Rizky",
+    "assignee": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "created_on": "2019-03-19T05:19:35.619974+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-04T01:08:59.387016+00:00",
+    "id": 7
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2] Front-end Peminjaman Barang (Detail item)",
+    "reporter": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      }
+    ],
+    "content": "Taks Firdha dan Alif",
+    "assignee": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "created_on": "2019-03-19T12:39:24.980937+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T01:03:28.340183+00:00",
+    "id": 12
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2] Membuat fungsi peminjaman barang",
+    "reporter": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      }
+    ],
+    "content": "** 1. Front-End Membuat layout seperti di mockup, terdiri dari beberapa layout / activity**\r\n\r\n* Detail Item + Booking Proses\r\n* Informasi Vendor\r\n* Barang / Item Lainnya\r\n\r\n**2. Back-End**\r\n\r\n* Fetch Single Barang / Item\r\n* Booking Process\r\n* Fetch Barang Terbaru Lainnya\r\n\r\nLink Mockup : bit.ly/MockupMinjemincom",
+    "assignee": {
+      "display_name": "Alif Jafar",
+      "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+    },
+    "created_on": "2019-03-19T11:14:15.036093+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T01:01:33.902780+00:00",
+    "id": 9
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][3] membuat halaman checkout",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "membuat halaman checkout bersama rizky",
+    "assignee": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "created_on": "2019-03-19T14:13:59.652233+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T01:00:28.320642+00:00",
+    "id": 13
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-03-19T15:12:20.603646+00:00",
+    "voters": [],
+    "title": "[2][3]-Membuat Fungsi checkout",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Membuat Halaman Chekout\r\n\r\nFront End\r\nLayout Checkout : \r\n\r\n- Detail Peminjaman\r\n- Pembayaran\r\n\r\nBack End\r\n\r\n- Fungsi Detail Peminjaman\r\n- Pembayaran",
+    "assignee": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "created_on": "2019-03-19T15:11:07.187674+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T01:00:11.494869+00:00",
+    "id": 14
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T04:44:01.956794+00:00",
+    "voters": [],
+    "title": "[2][4] Membuat halaman daftar transaksi",
+    "reporter": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Ryan Risbaya",
+        "account_id": "5c54e79d85c9b117bae38a00"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      }
+    ],
+    "content": "Membuat tampilan item barang tagihan",
+    "assignee": {
+      "display_name": "Ryan Risbaya",
+      "account_id": "5c54e79d85c9b117bae38a00"
+    },
+    "created_on": "2019-03-19T12:09:30.604768+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T01:00:00.982235+00:00",
+    "id": 11
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T04:26:23.538983+00:00",
+    "voters": [],
+    "title": "[2][3] Layout checkout",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "membuat front end checkout bersama @rizkyrhakiki \r\n\r\nFront End\r\nLayout Checkout : \r\n\r\n- Detail Peminjaman\r\n- Pembayaran",
+    "assignee": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "created_on": "2019-03-26T06:52:29.997461+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T00:59:51.874452+00:00",
+    "id": 16
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][4] Membuat halaman daftar transaksi",
+    "reporter": {
+      "display_name": "Zenitho Madyagantang",
+      "account_id": "5c5402cb3e729341b351999f"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      },
+      {
+        "display_name": "Zenitho Madyagantang",
+        "account_id": "5c5402cb3e729341b351999f"
+      }
+    ],
+    "content": "Membuat fungsi dari halaman daftar transaksi",
+    "assignee": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "created_on": "2019-04-02T04:41:10.824782+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T00:59:30.838779+00:00",
+    "id": 17
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][1] Back End Filterin/Searching Data",
+    "reporter": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "created_on": "2019-04-02T04:47:38.594879+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-04T00:57:44.576473+00:00",
+    "id": 18
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:36:21.761586+00:00",
+    "voters": [],
+    "title": "[2][1] Front end Filter/Searching Data Barang",
+    "reporter": {
+      "display_name": "danti puji yuherisna",
+      "account_id": "5c543dc181ec9e450ceb5025"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      },
+      {
+        "display_name": "danti puji yuherisna",
+        "account_id": "5c543dc181ec9e450ceb5025"
+      }
+    ],
+    "content": "Task : Firdha dan Danti\r\n\r\nMembuat front end dan back end dari filter/searching data barang.\r\nYang terdiri dari XML dan Java class\r\n\r\nStory : user melakukukan pencarian barang dengan cara mengetik pada halaman home untuk pencarian. kemudian klik icon seacrh sehingga aplikasi memunculkan sesuai dengan kata kunci yang diketik oleh user. \r\n\r\nlibk mockup / attach mock up",
+    "assignee": {
+      "display_name": "firdha utami",
+      "account_id": "5c5407e91bed9a195187cfd3"
+    },
+    "created_on": "2019-03-19T12:07:18.330439+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T05:40:40.434794+00:00",
+    "id": 10
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][4] -Membuat halaman Kelola profile",
+    "reporter": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "firdha utami",
+        "account_id": "5c5407e91bed9a195187cfd3"
+      },
+      {
+        "display_name": "Alif Jafar",
+        "account_id": "557058:a48bb7f0-e306-4d56-914c-eb0697b7957e"
+      },
+      {
+        "display_name": "Rizky Rahmat Hakiki",
+        "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+      }
+    ],
+    "content": "Membuat fungsi halaman kelola profile\r\n\r\n1. **Front-End**\r\nMembuat layout seperti di mockup, terdiri dari beberapa layout / activity\r\n\r\n- Activity Profile\r\n- Edit Profile\r\n \r\n2. **Back-End**\r\n\r\n- Passing data menggunakan API Minjemin\r\n\r\nLink Mockup : bit.ly/MockupMinjemincom",
+    "assignee": {
+      "display_name": "Rizky Rahmat Hakiki",
+      "account_id": "557058:e9575654-1195-47eb-991d-d523e635c5d2"
+    },
+    "created_on": "2019-02-20T00:38:32.341844+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T15:51:08.744837+00:00",
+    "id": 1
+  }
+]

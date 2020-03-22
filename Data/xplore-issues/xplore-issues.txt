@@ -1,0 +1,2356 @@
+﻿[
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-29T10:23:05.081339+00:00",
+    "voters": [],
+    "title": "[3][4] Membuat back end dari fitur Profil",
+    "reporter": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      }
+    ],
+    "content": "Pada fitur ini akan ditampilkan nama user beserta emailnya, selain itu user / pengguna dapat melakukan edit profil, seperti mengganti foto user, dan nama pada aplikasi Xplore Malang.",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-04-09T03:09:05.998785+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:47:23.124961+00:00",
+    "id": 61
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][7] Membuat front end dari kategori Transportasi",
+    "reporter": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      }
+    ],
+    "content": "Pada fitur ini akan ditampilkan transportasi yang tersedia pada kota Malang",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-04-09T03:16:33.782299+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:45:09.303476+00:00",
+    "id": 63
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][8] Membuat back end dari fitur Transportasi",
+    "reporter": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      }
+    ],
+    "content": "Disini kita membuat Transportasi.java \r\n\r\nStori : Ketika user memilih pada navbar menu \"Transportasi\" maka akan muncul pilihan-pilihan transportasi apa yang dapat digunakan di kota Malang. Yang mana seluruh pilihannya dapat diklik lalu muncul dialog box yang merupakan deskripsi dari transportasi tersebut. Untuk kembali ke halaman transportasi user dapat memilih button back",
+    "assignee": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "created_on": "2019-04-21T09:11:21.552223+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:44:57.152802+00:00",
+    "id": 64
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][10] Membuat back end dari fitur Filter",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Stori : User bisa melihat konten berdasarkan kategori karena ada filter",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-04-30T03:29:32.737889+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:41:59.405681+00:00",
+    "id": 67
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][9] Membuat front end dari fitur Filter",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Stori : Filter digunakan untuk memisahkan konten berdasarkan kategori",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-04-30T03:27:48.782392+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:41:48.411740+00:00",
+    "id": 66
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][5] Membuat front end dari fitur Feeds",
+    "reporter": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-04-09T03:12:16.457866+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:39:39.017364+00:00",
+    "id": 62
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-30T03:45:02.215973+00:00",
+    "voters": [],
+    "title": "[3][6] Membuat back end dari fitur Feeds",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Story : user dapat melihat foto-foto pribadi yang diupload dan juga dapat mengunggah foto",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-03T17:37:09.132714+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:39:28.429659+00:00",
+    "id": 13
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:43:20.714931+00:00",
+    "voters": [],
+    "title": "[3][3] Membuat back end maps dari fitur Oleh-oleh",
+    "reporter": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      }
+    ],
+    "content": "Story : User dapat membuka maps untuk kategori oleh-oleh sehingga dapat memudahkan untuk menuju ke lokasi tujuan",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-04-09T03:05:39.414362+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:35:05.090174+00:00",
+    "id": 60
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][2] Membuat backend dari fitur About Us",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Stori : Untuk memunculkan informasi mengenai developer aplikasi",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-04-30T03:24:14.199556+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:33:26.567659+00:00",
+    "id": 65
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T05:30:02.822980+00:00",
+    "voters": [],
+    "title": "[3][1] Membuat Front-end dari fitur About us",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat Front-end dari fitur About us\r\n\r\nStory : membuat tampilan atau layout dari about us yang berisikan informasi mengenai aplikasi dan team developer",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-03-19T10:10:26.087815+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP3",
+    "updated_on": "2019-04-30T05:33:17.507729+00:00",
+    "id": 54
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][9] Membuat Front-End dari Fitur filter",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "Membuat front-end fitur search dan memasukkan rounded_button",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-02-23T07:22:37.437153+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-29T10:20:44.803773+00:00",
+    "id": 3
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][10] Membuat back-end dari fitur filter",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T10:20:09.958670+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-29T10:19:57.992043+00:00",
+    "id": 56
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T14:02:27.866312+00:00",
+    "voters": [],
+    "title": "[2][13] Membuat back-end kategori oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat back-end kategori oleh-oleh\r\n\r\nStory :  membuat fungsional dari kategori oleh-oleh yang di simpan di kategori dan di dropdown kebawah untuk dipilih",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-03-19T09:49:03.705414+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T14:02:27.849342+00:00",
+    "id": 44
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T06:03:50.944937+00:00",
+    "voters": [],
+    "title": "[2][3] Membuat front-end Like ketegoti Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat desain tampilan dari Like pada kategori oleh-oleh\r\n\r\nStory : membuat tampilan layout untuk like pada kategori oleh-oleh yang digunakan untuk menghitung berapa banyak user yang menyukai postingan tersebut",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T10:03:37.381382+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T06:03:50.942184+00:00",
+    "id": 45
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T06:00:35.573897+00:00",
+    "voters": [],
+    "title": "[2][7] Membuat Front-end maps pada kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat front-end maps pada kategori oleh-oleh\r\n\r\nStory : membuat layout button yang digunakan untuk mengarahkan ke link maps yang dituju",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T10:07:21.765623+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T06:00:35.567667+00:00",
+    "id": 49
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T05:58:37.746112+00:00",
+    "voters": [],
+    "title": "[2][8] Membuat back-end maps pada kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat back-end maps pada kategori oleh-oleh\r\n\r\nStory : membuat fungsional dari button maps yang apabila diklik akan berpindah ke tampilan maps dari google maps sesuai lokasi maps yang pada awal tertulis",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T10:07:47.414430+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:58:37.743788+00:00",
+    "id": 50
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T05:56:04.874787+00:00",
+    "voters": [],
+    "title": "[2][10] Membuat front end weather",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat front end weather\r\n\r\nStory : membuat layout atau tampilan yang digunakan untuk menampilkan suhu dan cuaca dari lokasi yang di pilih",
+    "assignee": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "created_on": "2019-03-19T10:08:34.913733+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:56:04.871661+00:00",
+    "id": 52
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T05:54:01.828950+00:00",
+    "voters": [],
+    "title": "[2][11] Membuat back end weather",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat back end weather\r\n\r\nStory : membuat fungsi dari sidebar fitur weather yang dapat menampilkan suhu dan cuaca dari lokasi yang dipilih",
+    "assignee": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "created_on": "2019-03-19T10:09:20.867679+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:54:01.824632+00:00",
+    "id": 53
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T05:50:59.988342+00:00",
+    "voters": [],
+    "title": "[2][12] Membuat Front End Kategori Oleh-Oleh",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "Membuat tampilan dari kategori oleh-oleh\r\n\r\nStory : membuat layout atau tampilan untuk kategori oleh-oleh yang di simpan di kategori dan di dropdown kebawah untuk dipilih",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-03-03T15:43:40.145159+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:50:59.985648+00:00",
+    "id": 10
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:25:47.473894+00:00",
+    "voters": [],
+    "title": "[1][23] Membuat Front End dari Like pda kategori Kuliner",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "Membuat tampilan dari Like pada kategori kuliner\r\n\r\nStory : membuat tampilan like pada kategori kuliner untuk mengetahui postingan mana yang disukai",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-03-19T08:41:38.126960+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP1",
+    "updated_on": "2019-04-02T05:25:47.471790+00:00",
+    "id": 34
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:20:01.749133+00:00",
+    "voters": [],
+    "title": "[1][15] Membuat back-end Like pada kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat fungsional dari Like pada kategori pariwisata\r\n\r\nStory : button like bisa di klik dan kemudian dihitung berapa banyak yang menyukai postingan tersebut. dan dapat berkurang jika button like dikurangin",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-03-19T08:35:47.356448+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP1",
+    "updated_on": "2019-04-02T05:22:03.767059+00:00",
+    "id": 30
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:21:36.048839+00:00",
+    "voters": [],
+    "title": "[1][24] Membuat back-end Like pada kategori Kuliner",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat fungsional dari Like pada kategori kuliner\r\n\r\nStory : button like bisa di klik dan kemudian dihitung berapa banyak yang menyukai postingan tersebut. dan dapat berkurang jika button like dikurangin",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-03-19T08:47:20.788941+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP1",
+    "updated_on": "2019-04-02T05:21:36.046649+00:00",
+    "id": 40
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:14:29.741398+00:00",
+    "voters": [],
+    "title": "[2][4] Membuat back-end Like pada Kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat fungsional dari Like pada kategori oleh-oleh\r\n\r\nStory : pada button like bisa klik dan untuk menghitung berapa banyak yang menyukai postingan pada kategori oleh-oleh. bisa bertambah jika di like dan bisa berkurang jika di unlike",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-03-19T10:04:40.003659+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:14:29.738220+00:00",
+    "id": 46
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:07:13.487163+00:00",
+    "voters": [],
+    "title": "[2][6] Membuat back-end Feedback pada kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat backend / fungsi dari feedback pada kategori Oleh-oleh\r\n\r\n\r\nStory : Saat user menginputkan feedback, id user beserta isi comment akan tersimpan dalam firebase. Setelah data tersimpan pada firebase, feedback beserta user akan ditampilkan pada kategori Oleh oleh",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T10:06:11.715394+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:07:13.481319+00:00",
+    "id": 48
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T05:01:25.720795+00:00",
+    "voters": [],
+    "title": "[2][5] Membuat front-end Feedback pada kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat tampilan Feedback pada kategori Olhe-oleh\r\n\r\nStory : pada kategori oleh oleh user / customer dapat menginputkan komentar / feedback pada kategori oleh oleh. Feedback akan menampilkan isi feedback dan user yang menginputkan feedback",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T10:05:36.715027+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T05:01:37.188601+00:00",
+    "id": 47
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T04:45:27.566540+00:00",
+    "voters": [],
+    "title": "[2][2] Membuat back-end Registrasi Account",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat back-end Registrasi Account\r\n\r\nStory : Ketika user telah melakukan registrasi, maka data user seperti nama, email dan password akan tersimpan didalam class user yang ada di firebase",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T10:50:31.476530+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T04:45:27.564342+00:00",
+    "id": 59
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-02T04:34:11.659315+00:00",
+    "voters": [],
+    "title": "[2][8] Membuat front-end dari fitur Profile",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Story : Menampilkan nama dan email yang sudah didaftarkan user pada profil",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T10:11:22.951255+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T04:34:11.657336+00:00",
+    "id": 55
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][9] Membuat back end link to feeds dari kategori Oleh-oleh",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T10:08:10.539621+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T04:15:30.954362+00:00",
+    "id": 51
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T04:00:58.970827+00:00",
+    "voters": [],
+    "title": "[2][1] Membuat front-end Registrasi Account",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat tampilan untuk menu login \r\n\r\nStory : user / customer melakukan registrasi dengan menginputkan nama, email, dan password masing-masing. \r\n\r\nlink mock up",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T10:50:01.302341+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "SP2",
+    "updated_on": "2019-04-02T04:03:55.670868+00:00",
+    "id": 58
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][20] Membuat back-end kategori kuliner",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T08:43:06.597648+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T03:41:26.497152+00:00",
+    "id": 35
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-01T05:51:33.066838+00:00",
+    "voters": [],
+    "title": "[1][14] Membuat front-end Like pada Kategori Pariwisata",
+    "reporter": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      }
+    ],
+    "content": "Membuat Like pada fitur Pariwisata",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-03T16:34:14.643523+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T01:22:42.319741+00:00",
+    "id": 12
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][22] Membuat Back End Feedback pada kategori kuliner",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T08:44:49.114736+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T01:19:19.690700+00:00",
+    "id": 37
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][13] Membuat back-end feedback pada kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T08:29:03.791614+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T01:18:40.421146+00:00",
+    "id": 27
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-04-01T05:50:17.606199+00:00",
+    "voters": [],
+    "title": "[1][23] Membuat front-end dari Like pada kategori kuliner",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat tampilan dari Like pada kategori kuliner",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T08:46:40.333950+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-01T05:50:17.603013+00:00",
+    "id": 39
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][21] Membuat Front End Feedback pada kategori kuliner",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T08:35:13.828338+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T16:26:22.018663+00:00",
+    "id": 29
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][12] Membuat front-end Feedback dari Kategori Pariwisata",
+    "reporter": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "Membuat front end fitur feedback  dan menambahkan rounded button",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-02-23T05:06:46.648184+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T16:24:43.005119+00:00",
+    "id": 2
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][29] Membuat Fitur Feed",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T08:24:37.923025+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T10:53:41.021477+00:00",
+    "id": 24
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][11] Testing Aplikasi",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": null,
+    "created_on": "2019-03-19T10:21:53.611482+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T10:21:53.611482+00:00",
+    "id": 57
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][26] Membuat back end link to feeds dari fitur Kuliner",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T08:50:08.663745+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:52:13.236171+00:00",
+    "id": 42
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][25] Membuat Back-end maps pada kategori Kuliner",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T08:49:16.083883+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:51:23.490601+00:00",
+    "id": 41
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][18] Membuat back-end link to feeds dari kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T08:41:12.627217+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:41:12.627217+00:00",
+    "id": 33
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][17] Membuat back-end maps pada kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-03-19T08:37:17.818478+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:37:17.818478+00:00",
+    "id": 32
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][16] Membuat front-end maps pada kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "created_on": "2019-03-19T08:36:41.335970+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:36:41.335970+00:00",
+    "id": 31
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][26] Membuat back end link to feeds dari fitur kuliner",
+    "reporter": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T08:33:07.562519+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:33:07.562519+00:00",
+    "id": 28
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][11] Membuat back-end kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T08:26:36.119830+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:26:36.119830+00:00",
+    "id": 26
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][10] Membuat front-end Kategori Pariwisata",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "created_on": "2019-03-19T08:24:43.780233+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:24:56.896950+00:00",
+    "id": 25
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][8] Membuat front-end logout",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T08:20:42.128086+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:22:18.913445+00:00",
+    "id": 22
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][9] Membuat Back-end Logout",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T08:21:40.162569+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:21:45.876698+00:00",
+    "id": 23
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][19] Membuat Front End Kategori Kuliner",
+    "reporter": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-03T15:49:01.361230+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T08:07:17.812118+00:00",
+    "id": 11
+  },
+  {
+    "status": "new",
+    "priority": "minor",
+    "kind": "enhancement",
+    "content_updated_on": "2019-02-27T12:21:07.810247+00:00",
+    "voters": [],
+    "title": "[1][28] membuat navigation bottom",
+    "reporter": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      }
+    ],
+    "content": "Menu Home, Feed, Profile",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-02-27T12:14:56.543102+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T07:07:03.456636+00:00",
+    "id": 7
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][27]Membuat Front-end Fitur Feedback pada Sidebar",
+    "reporter": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-03T15:23:57.693816+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T07:02:14.791160+00:00",
+    "id": 9
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][5] Membuat back-end Login dengan Akun Google",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat fungsional Login dengan akun Google",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T06:55:59.616493+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:56:14.434637+00:00",
+    "id": 21
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][7] Membuat Console Firebase untuk Login dengan Akun Facebook",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Mengintegrasikan aplikasi dengan Facebook",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T06:53:27.846861+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:53:36.040738+00:00",
+    "id": 20
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": "2019-03-19T06:52:05.947707+00:00",
+    "voters": [],
+    "title": "[1][6] Mencoba membuat Firebase Login Google",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Pembuatan Firebase untuk button Login with Google atau Mengintegrasikan aplikasi dengan Google",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-02-19T22:50:18.059810+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:52:05.934556+00:00",
+    "id": 1
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][5] Membuat back-end Login dengan Akun Facebook",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ilham Satria",
+        "account_id": "5c54062c17919c1f8bfb79ff"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat back-end Login dengan Akun Facebook",
+    "assignee": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "created_on": "2019-03-19T06:43:44.717840+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:49:31.280106+00:00",
+    "id": 19
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][5] Membuat back-end Login dengan Email Registrasi",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T06:41:35.437590+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:42:30.390767+00:00",
+    "id": 18
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][4] Membuat front-end Login Xplore Malang",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T06:38:19.786802+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:38:30.518482+00:00",
+    "id": 17
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][3] Membuat back-end dari Splash Screen",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": null,
+    "created_on": "2019-03-19T06:36:20.616886+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:36:35.012394+00:00",
+    "id": 16
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][2] Membuat front-end dari Splash Screen",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-03-19T06:35:19.668988+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:35:30.436415+00:00",
+    "id": 15
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][1] Membuat Akun Firebase (Console Firebase)",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "Membuat Akun Firebase (Console Firebase) dengan akun email baru sesuai project (xploremalang@gmail.com)",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-19T06:32:46.286739+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T06:32:54.732866+00:00",
+    "id": 14
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][3] Membuat Front-End untuk menu About Us",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "On Progress pembuatan, hanya saja ada masalah pada compiler.",
+    "assignee": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "created_on": "2019-02-24T19:30:28.431831+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T04:19:19.294147+00:00",
+    "id": 5
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[25][2] Membuat desain front end sidebar",
+    "reporter": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "aulia ikhsanati",
+        "account_id": "5c542c887f1b2543d2863018"
+      },
+      {
+        "display_name": "aprilia widyas",
+        "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "created_on": "2019-02-24T23:38:52.696579+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T04:18:37.901479+00:00",
+    "id": 6
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[8][3] Membuat front-end Fitur Pariwisata",
+    "reporter": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "dennis cunong",
+        "account_id": "5c541b153e729341b3519a01"
+      },
+      {
+        "display_name": "Rizka Fadhilah",
+        "account_id": "5c5409df87530c43d3a1e089"
+      }
+    ],
+    "content": "Membuat front-end Fitur Pariwisata sekaligus mengulik mengenai scroll view dan backendnya",
+    "assignee": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "created_on": "2019-02-23T07:22:49.334264+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T04:18:23.055406+00:00",
+    "id": 4
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Membuat Fitur Feed",
+    "reporter": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Hanif Ramadhan",
+        "account_id": "5c434134f9d0ab2efb44d298"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "created_on": "2019-03-02T03:41:16.553938+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-19T04:15:47.169357+00:00",
+    "id": 8
+  }
+]

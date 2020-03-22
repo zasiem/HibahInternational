@@ -1,0 +1,230 @@
+Case ID,Timestamp,Activity,Resource
+2,2019-02-14 00:00:00+00:00,Implement task,aulia ikhsanati
+1,2019-02-14 00:00:00+00:00,Implement task,Tb Rama Ramadhan
+1,2019-02-15 00:00:00+00:00,Implement task,Hanif Ramadhan
+17,2019-02-15 00:00:00+00:00,Implement task,Hanif Ramadhan
+18,2019-02-15 00:00:00+00:00,Implement task,Hanif Ramadhan
+15,2019-02-16 00:00:00+00:00,Implement task,aulia ikhsanati
+4,2019-02-19 00:00:00+00:00,Implement task,Rizka Fadhilah
+1,2019-02-19 22:50:18.059810+00:00,Open,Hanif Ramadhan
+2,2019-02-23 05:06:46.648184+00:00,Open,aulia ikhsanati
+3,2019-02-23 07:22:37.437153+00:00,Open,dennis cunong
+4,2019-02-23 07:22:49.334264+00:00,Open,Rizka Fadhilah
+5,2019-02-24 19:30:28.431831+00:00,Open,aprilia widyas
+6,2019-02-24 23:38:52.696579+00:00,Open,aulia ikhsanati
+2,2019-02-25 00:00:00+00:00,Implement task,aulia ikhsanati
+5,2019-02-25 00:00:00+00:00,Implement task,aprilia widyas
+3,2019-02-25 00:00:00+00:00,Implement task,dennis cunong
+3,2019-02-25 00:00:00+00:00,Implement task,dennis cunong
+3,2019-02-25 00:00:00+00:00,Implement task,dennis cunong
+1,2019-02-25 00:00:00+00:00,Implement task,Ilham Satria
+4,2019-02-25 00:00:00+00:00,Implement task,Rizka Fadhilah
+2,2019-02-25 00:00:00+00:00,Implement task,aulia ikhsanati
+5,2019-02-25 00:00:00+00:00,Implement task,aprilia widyas
+1,2019-02-25 00:00:00+00:00,Implement task,Hanif Ramadhan
+4,2019-02-25 03:30:06.239858+00:00,Resolved,Rizka Fadhilah
+6,2019-02-25 10:10:47.328461+00:00,Resolved,aprilia widyas
+5,2019-02-25 12:26:12.251917+00:00,Resolved,aprilia widyas
+5,2019-02-26 00:00:00+00:00,Implement task,aprilia widyas
+7,2019-02-26 00:00:00+00:00,Implement task,Hanif Ramadhan
+7,2019-02-27 00:00:00+00:00,Implement task,Hanif Ramadhan
+7,2019-02-27 12:14:56.543102+00:00,Open,Hanif Ramadhan
+8,2019-03-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+8,2019-03-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+8,2019-03-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+8,2019-03-02 03:41:16.553938+00:00,Open,Hanif Ramadhan
+10,2019-03-03 00:00:00+00:00,Implement task,dennis cunong
+12,2019-03-03 00:00:00+00:00,Implement task,Rizka Fadhilah
+12,2019-03-03 00:00:00+00:00,Merge Branch,Rizka Fadhilah
+9,2019-03-03 00:00:00+00:00,Implement task,aulia ikhsanati
+11,2019-03-03 00:00:00+00:00,Implement task,Ilham Satria
+9,2019-03-03 15:23:57.693816+00:00,Open,aulia ikhsanati
+10,2019-03-03 15:43:40.145159+00:00,Open,dennis cunong
+11,2019-03-03 15:49:01.361230+00:00,Open,Ilham Satria
+12,2019-03-03 16:34:14.643523+00:00,Open,Hanif Ramadhan
+13,2019-03-03 17:37:09.132714+00:00,Open,Hanif Ramadhan
+13,2019-03-03 17:51:50.514957+00:00,Resolved,aprilia widyas
+13,2019-03-04 00:00:00+00:00,Implement task,aulia ikhsanati
+6,2019-03-12 00:00:00+00:00,Implement task,Hanif Ramadhan
+8,2019-03-18 00:00:00+00:00,Implement task,Hanif Ramadhan
+31,2019-03-19 00:00:00+00:00,Implement task,dennis cunong
+5,2019-03-19 00:00:00+00:00,Implement task,aprilia widyas
+2,2019-03-19 00:00:00+00:00,Implement task,aulia ikhsanati
+52,2019-03-19 00:00:00+00:00,Implement task,Rizka Fadhilah
+18,2019-03-19 00:00:00+00:00,Implement task,Hanif Ramadhan
+8,2019-03-19 04:15:47.211468+00:00,Closed,ekky novriza alam
+11,2019-03-19 04:17:52.655070+00:00,Closed,ekky novriza alam
+4,2019-03-19 04:18:23.088973+00:00,Closed,ekky novriza alam
+6,2019-03-19 04:18:37.932261+00:00,Closed,ekky novriza alam
+5,2019-03-19 04:19:19.326224+00:00,Closed,ekky novriza alam
+13,2019-03-19 04:21:03.578415+00:00,Open,ekky novriza alam
+1,2019-03-19 04:50:25.679849+00:00,Resolved,aprilia widyas
+14,2019-03-19 06:32:46.286739+00:00,Open,Hanif Ramadhan
+14,2019-03-19 06:32:54.762408+00:00,Resolved,aprilia widyas
+15,2019-03-19 06:35:19.668988+00:00,Open,aulia ikhsanati
+15,2019-03-19 06:35:30.474917+00:00,Resolved,aprilia widyas
+16,2019-03-19 06:36:20.616886+00:00,Open,
+16,2019-03-19 06:36:35.053820+00:00,Resolved,aprilia widyas
+17,2019-03-19 06:38:19.786802+00:00,Open,Hanif Ramadhan
+17,2019-03-19 06:38:30.554371+00:00,Resolved,aprilia widyas
+18,2019-03-19 06:41:35.437590+00:00,Open,Hanif Ramadhan
+19,2019-03-19 06:43:44.717840+00:00,Open,Ilham Satria
+20,2019-03-19 06:53:27.846861+00:00,Open,Ilham Satria
+20,2019-03-19 06:53:36.086402+00:00,Resolved,aprilia widyas
+21,2019-03-19 06:55:59.616493+00:00,Open,Hanif Ramadhan
+21,2019-03-19 06:56:14.485471+00:00,Resolved,aprilia widyas
+9,2019-03-19 07:02:14.832593+00:00,Resolved,aprilia widyas
+22,2019-03-19 08:20:42.128086+00:00,Open,aulia ikhsanati
+22,2019-03-19 08:20:52.912760+00:00,Resolved,aprilia widyas
+23,2019-03-19 08:21:40.162569+00:00,Open,Hanif Ramadhan
+23,2019-03-19 08:21:45.948093+00:00,Resolved,aprilia widyas
+24,2019-03-19 08:24:37.923025+00:00,Open,Hanif Ramadhan
+25,2019-03-19 08:24:43.780233+00:00,Open,Rizka Fadhilah
+25,2019-03-19 08:24:56.952899+00:00,Resolved,aprilia widyas
+24,2019-03-19 08:25:26.121759+00:00,Resolved,dennis cunong
+26,2019-03-19 08:26:36.119830+00:00,Open,Ilham Satria
+27,2019-03-19 08:29:03.791614+00:00,Open,aulia ikhsanati
+28,2019-03-19 08:33:07.562519+00:00,Open,Hanif Ramadhan
+29,2019-03-19 08:35:13.828338+00:00,Open,aulia ikhsanati
+30,2019-03-19 08:35:47.356448+00:00,Open,aprilia widyas
+31,2019-03-19 08:36:41.335970+00:00,Open,dennis cunong
+32,2019-03-19 08:37:17.818478+00:00,Open,dennis cunong
+33,2019-03-19 08:41:12.627217+00:00,Open,Ilham Satria
+34,2019-03-19 08:41:38.126960+00:00,Open,aprilia widyas
+34,2019-03-19 08:42:30.229533+00:00,Resolved,dennis cunong
+35,2019-03-19 08:43:06.597648+00:00,Open,Ilham Satria
+37,2019-03-19 08:44:49.114736+00:00,Open,aulia ikhsanati
+39,2019-03-19 08:46:40.333950+00:00,Open,Ilham Satria
+40,2019-03-19 08:47:20.788941+00:00,Open,aprilia widyas
+39,2019-03-19 08:48:35.387977+00:00,Resolved,dennis cunong
+41,2019-03-19 08:49:16.083883+00:00,Open,Hanif Ramadhan
+42,2019-03-19 08:50:08.663745+00:00,Open,aulia ikhsanati
+44,2019-03-19 09:49:03.705414+00:00,Open,dennis cunong
+45,2019-03-19 10:03:37.381382+00:00,Open,Hanif Ramadhan
+46,2019-03-19 10:04:40.003659+00:00,Open,aprilia widyas
+47,2019-03-19 10:05:36.715027+00:00,Open,aulia ikhsanati
+48,2019-03-19 10:06:11.715394+00:00,Open,aulia ikhsanati
+49,2019-03-19 10:07:21.765623+00:00,Open,Ilham Satria
+50,2019-03-19 10:07:47.414430+00:00,Open,Ilham Satria
+51,2019-03-19 10:08:10.539621+00:00,Open,Hanif Ramadhan
+52,2019-03-19 10:08:34.913733+00:00,Open,Rizka Fadhilah
+53,2019-03-19 10:09:20.867679+00:00,Open,Rizka Fadhilah
+54,2019-03-19 10:10:26.087815+00:00,Open,aprilia widyas
+55,2019-03-19 10:11:22.951255+00:00,Open,Ilham Satria
+56,2019-03-19 10:20:09.958670+00:00,Open,Hanif Ramadhan
+57,2019-03-19 10:21:53.611482+00:00,Open,
+58,2019-03-19 10:50:01.302341+00:00,Open,aulia ikhsanati
+59,2019-03-19 10:50:31.476530+00:00,Open,aulia ikhsanati
+47,2019-03-19 16:20:03.277859+00:00,Resolved,aulia ikhsanati
+2,2019-03-19 16:24:24.919170+00:00,Resolved,aulia ikhsanati
+29,2019-03-19 16:26:22.446269+00:00,Resolved,aulia ikhsanati
+58,2019-03-24 00:00:00+00:00,Implement task,aulia ikhsanati
+59,2019-03-24 00:00:00+00:00,Implement task,aulia ikhsanati
+58,2019-03-24 07:12:07.123412+00:00,Resolved,aulia ikhsanati
+59,2019-03-24 10:01:03.357922+00:00,Resolved,aulia ikhsanati
+53,2019-03-25 00:00:00+00:00,Implement task,Rizka Fadhilah
+67,2019-03-26 00:00:00+00:00,Implement task,Ilham Satria
+13,2019-03-26 00:00:00+00:00,Implement task,Hanif Ramadhan
+30,2019-03-26 00:00:00+00:00,Implement task,aprilia widyas
+67,2019-03-26 00:00:00+00:00,Implement task,Ilham Satria
+55,2019-03-26 00:00:00+00:00,Implement task,dennis cunong
+53,2019-03-26 00:00:00+00:00,Implement task,dennis cunong
+55,2019-03-26 00:00:00+00:00,Implement task,dennis cunong
+55,2019-04-01 00:00:00+00:00,Merge Branch,Hanif Ramadhan
+55,2019-04-01 00:00:00+00:00,Merge Branch,Hanif Ramadhan
+44,2019-04-01 00:00:00+00:00,Implement task,dennis cunong
+35,2019-04-01 00:00:00+00:00,Implement task,dennis cunong
+52,2019-04-01 00:00:00+00:00,Implement task,Rizka Fadhilah
+53,2019-04-01 00:00:00+00:00,Implement task,Rizka Fadhilah
+27,2019-04-01 00:00:00+00:00,Implement task,aulia ikhsanati
+37,2019-04-01 00:00:00+00:00,Implement task,aulia ikhsanati
+48,2019-04-01 00:00:00+00:00,Implement task,aulia ikhsanati
+55,2019-04-01 00:00:00+00:00,Implement task,Ilham Satria
+55,2019-04-01 11:34:09.719308+00:00,Resolved,Ilham Satria
+30,2019-04-02 00:00:00+00:00,Merge Branch,aprilia widyas
+30,2019-04-02 00:00:00+00:00,Implement task,aprilia widyas
+30,2019-04-02 00:00:00+00:00,Implement task,aprilia widyas
+32,2019-04-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+41,2019-04-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+49,2019-04-02 00:00:00+00:00,Implement task,Hanif Ramadhan
+58,2019-04-02 00:00:00+00:00,Implement task,aulia ikhsanati
+30,2019-04-02 01:06:04.792797+00:00,Resolved,aprilia widyas
+40,2019-04-02 01:06:49.239463+00:00,Resolved,aprilia widyas
+46,2019-04-02 01:07:25.122367+00:00,Resolved,aprilia widyas
+37,2019-04-02 01:08:55.293356+00:00,Resolved,aulia ikhsanati
+27,2019-04-02 01:12:35.802787+00:00,Resolved,aulia ikhsanati
+53,2019-04-02 01:14:01.522707+00:00,Resolved,Rizka Fadhilah
+52,2019-04-02 01:14:33.813186+00:00,Resolved,Rizka Fadhilah
+48,2019-04-02 01:16:38.991412+00:00,Resolved,aulia ikhsanati
+45,2019-04-02 01:21:19.176487+00:00,Resolved,aprilia widyas
+12,2019-04-02 01:22:42.384283+00:00,Resolved,aprilia widyas
+35,2019-04-02 03:41:26.529091+00:00,Resolved,dennis cunong
+44,2019-04-02 03:41:49.898749+00:00,Resolved,dennis cunong
+58,2019-04-02 04:03:55.703635+00:00,Closed,Tien Kusumasari
+59,2019-04-02 04:04:55.181031+00:00,Closed,Tien Kusumasari
+45,2019-04-02 04:06:37.628703+00:00,Closed,Tien Kusumasari
+46,2019-04-02 04:08:29.938676+00:00,Closed,Tien Kusumasari
+47,2019-04-02 04:10:24.419888+00:00,Closed,Tien Kusumasari
+48,2019-04-02 04:11:36.263556+00:00,Closed,Tien Kusumasari
+49,2019-04-02 04:13:20.430208+00:00,Closed,Tien Kusumasari
+50,2019-04-02 04:14:45.596179+00:00,Closed,Tien Kusumasari
+52,2019-04-02 04:18:51.391594+00:00,Closed,Tien Kusumasari
+53,2019-04-02 04:19:36.424975+00:00,Closed,Tien Kusumasari
+44,2019-04-02 04:22:18.286265+00:00,Closed,Tien Kusumasari
+10,2019-04-02 04:22:54.885026+00:00,Closed,Tien Kusumasari
+52,2019-04-08 00:00:00+00:00,Merge Branch,Rizka Fadhilah
+52,2019-04-08 00:00:00+00:00,Implement task,Rizka Fadhilah
+52,2019-04-08 00:00:00+00:00,Implement task,Rizka Fadhilah
+54,2019-04-09 00:00:00+00:00,Implement task,aprilia widyas
+61,2019-04-09 00:00:00+00:00,Implement task,aulia ikhsanati
+3,2019-04-09 00:00:00+00:00,Implement task,dennis cunong
+56,2019-04-09 00:00:00+00:00,Implement task,Ilham Satria
+63,2019-04-09 00:00:00+00:00,Implement task,Hanif Ramadhan
+60,2019-04-09 03:05:39.414362+00:00,Open,Hanif Ramadhan
+61,2019-04-09 03:09:05.998785+00:00,Open,aulia ikhsanati
+62,2019-04-09 03:12:16.457866+00:00,Open,Hanif Ramadhan
+63,2019-04-09 03:16:33.782299+00:00,Open,aulia ikhsanati
+54,2019-04-09 08:07:10.672488+00:00,Resolved,aprilia widyas
+67,2019-04-11 00:00:00+00:00,Implement task,Hanif Ramadhan
+61,2019-04-16 00:00:00+00:00,Implement task,aulia ikhsanati
+64,2019-04-16 00:00:00+00:00,Implement task,Rizka Fadhilah
+46,2019-04-20 00:00:00+00:00,Implement task,aprilia widyas
+13,2019-04-20 00:00:00+00:00,Implement task,Hanif Ramadhan
+62,2019-04-20 00:00:00+00:00,Implement task,Hanif Ramadhan
+63,2019-04-20 00:00:00+00:00,Implement task,aulia ikhsanati
+63,2019-04-20 13:28:34.557375+00:00,Resolved,aulia ikhsanati
+64,2019-04-21 00:00:00+00:00,Implement task,Rizka Fadhilah
+64,2019-04-21 00:00:00+00:00,Implement task,Rizka Fadhilah
+64,2019-04-21 09:11:21.552223+00:00,Open,Rizka Fadhilah
+64,2019-04-21 09:28:07.356747+00:00,Resolved,Rizka Fadhilah
+56,2019-04-22 00:00:00+00:00,Implement task,Ilham Satria
+56,2019-04-24 00:00:00+00:00,Implement task,Hanif Ramadhan
+56,2019-04-24 00:00:00+00:00,Implement task,Hanif Ramadhan
+60,2019-04-24 10:06:47.562834+00:00,Resolved,aulia ikhsanati
+13,2019-04-24 10:08:39.330125+00:00,Resolved,aulia ikhsanati
+62,2019-04-24 10:09:57.609156+00:00,Resolved,aulia ikhsanati
+3,2019-04-24 10:15:32.270964+00:00,Resolved,aulia ikhsanati
+64,2019-04-25 00:00:00+00:00,Implement task,Rizka Fadhilah
+51,2019-04-26 00:00:00+00:00,Implement task,Hanif Ramadhan
+62,2019-04-26 00:00:00+00:00,Implement task,dennis cunong
+54,2019-04-26 00:00:00+00:00,Implement task,aprilia widyas
+11,2019-04-26 00:00:00+00:00,Implement task,Ilham Satria
+60,2019-04-29 00:00:00+00:00,Implement task,Hanif Ramadhan
+56,2019-04-29 10:19:58.098386+00:00,Resolved,aulia ikhsanati
+61,2019-04-29 10:23:18.421420+00:00,Resolved,aulia ikhsanati
+65,2019-04-30 03:24:14.199556+00:00,Open,dennis cunong
+65,2019-04-30 03:24:33.091456+00:00,Resolved,aprilia widyas
+66,2019-04-30 03:27:48.782392+00:00,Open,Ilham Satria
+66,2019-04-30 03:28:13.428022+00:00,Resolved,aprilia widyas
+67,2019-04-30 03:29:32.737889+00:00,Open,Hanif Ramadhan
+67,2019-04-30 03:29:45.618243+00:00,Resolved,aprilia widyas
+54,2019-04-30 05:33:17.552931+00:00,Closed,Tien Kusumasari
+65,2019-04-30 05:33:26.608895+00:00,Closed,Tien Kusumasari
+60,2019-04-30 05:35:05.135154+00:00,Closed,Tien Kusumasari
+13,2019-04-30 05:39:28.479919+00:00,Closed,Tien Kusumasari
+62,2019-04-30 05:39:39.066762+00:00,Closed,Tien Kusumasari
+66,2019-04-30 05:41:26.875014+00:00,Closed,Tien Kusumasari
+67,2019-04-30 05:41:59.458833+00:00,Closed,Tien Kusumasari
+64,2019-04-30 05:44:57.197225+00:00,Closed,Tien Kusumasari
+63,2019-04-30 05:45:09.345161+00:00,Closed,Tien Kusumasari
+61,2019-04-30 05:47:23.170182+00:00,Closed,Tien Kusumasari

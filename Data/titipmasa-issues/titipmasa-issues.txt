@@ -1,0 +1,1046 @@
+﻿[
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:36:59.909158+00:00",
+    "voters": [],
+    "title": "[3][1] Membuat halaman validasi user",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat halaman validasi user dengan menggunakan id card (KTP/SIM/Id card lainnya) dan nomor telephone\r\n\r\nStory: Halaman ini merupakan halaman yang memvalidasi user, dimana untuk membuktikan user benar - benar valid atau tidak. Pada halaman ini user harus melengkapi data yang diminta seperti KTP/SIM. user juga harus melengkapi data -data yang belum diisi saat register",
+    "assignee": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "created_on": "2019-03-19T06:44:04.455344+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:52:32.701488+00:00",
+    "id": 13
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][4] Membuat Filter Keberangkatan",
+    "reporter": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "ben hughie",
+        "account_id": "5c5439871bed9a195187d0bb"
+      }
+    ],
+    "content": "Saya membuat Filter Keberangkatan yang terdiri atas : \r\n- Asal (kota)\r\n- Tujuan (kota)\r\n- Tanggal keberangkatan\r\n- Tanggal kepulangan\r\n- Confirm",
+    "assignee": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "created_on": "2019-04-22T14:58:43.518570+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:43:48.445692+00:00",
+    "id": 26
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:49:37.478736+00:00",
+    "voters": [],
+    "title": "[3][4] Membuat fitur filter keberangkatan",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "ben hughie",
+        "account_id": "5c5439871bed9a195187d0bb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan filter keberangkatan pada fitur trip\r\n\r\nStory: Pada halaman ini user dapat melakukan filter keberangkatan berdasarkan yang paling cepat",
+    "assignee": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "created_on": "2019-03-19T07:06:12.137901+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:43:41.746738+00:00",
+    "id": 20
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:46:48.441813+00:00",
+    "voters": [],
+    "title": "[3][3] Membuat fitur filter rekomendasi",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Anisa Agustina",
+        "account_id": "5c540a9c3e729341b35199b7"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan untuk filter rekomendasi\r\n\r\nStory: Pada halaman ini user dapat melakukan filter berdasarkan barang yang diinginkan, misal Si A ingin menampilkan semua titipan sepatu",
+    "assignee": {
+      "display_name": "Anisa Agustina",
+      "account_id": "5c540a9c3e729341b35199b7"
+    },
+    "created_on": "2019-03-19T07:03:08.350995+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:43:32.332846+00:00",
+    "id": 18
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-22T15:21:11.646311+00:00",
+    "voters": [],
+    "title": "[3][4] Membuat Filter Keberangkatan 2",
+    "reporter": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "ben hughie",
+        "account_id": "5c5439871bed9a195187d0bb"
+      }
+    ],
+    "content": "Filter keberangkatan 2 terdiri atas :\r\n- Foto produk dari kota yang ingin didatangi\r\n- Harga dari produk tersebut\r\n- Request produk",
+    "assignee": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "created_on": "2019-04-22T15:20:05.013788+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:42:11.096499+00:00",
+    "id": 27
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:45:41.942281+00:00",
+    "voters": [],
+    "title": "[3][2] Membuat fitur filter tempat tujuan",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan trip filter tempat tujuan\r\n\r\nStory: Pada halaman ini user dapat melakukan filter berdasarkan tempat tujuan, misal A asal bandung ingin membeli barang dari makassar, ada dapat melakukan filter tempat tujuan dari tempat asal barang ke tempat asal A",
+    "assignee": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "created_on": "2019-03-19T07:04:20.170180+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:41:10.498859+00:00",
+    "id": 19
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-08T13:34:22.522949+00:00",
+    "voters": [],
+    "title": "[3][5] Membuat fitur Chat/Message",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "ekky novriza alam",
+        "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat fitur chat\r\n\r\nStory: Pada halaman ini user dapat melakukan percakapan atau mengirim pesan langsung ke penitip barang. Misal si A ingin menitip barang, dan ingin mengetahui beberapa hal tentang barang tersebut, si A dapat mengontak langsung si yang dititipi. Di halaman ini user akan di arahkan ke WhatsApp si user yang posting titipan",
+    "assignee": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "created_on": "2019-03-19T07:07:07.948886+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:17:05.811435+00:00",
+    "id": 21
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][4] Membuat database dengan firebase",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat firebase.\r\nMenyambungkan firebase ke project.\r\nMembuat database.",
+    "assignee": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "created_on": "2019-03-17T07:07:42.676828+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-25T16:48:41.582002+00:00",
+    "id": 7
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T12:31:28.965342+00:00",
+    "voters": [],
+    "title": "[2][7] Membuat halaman konfirmasi transaksi",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Anisa Agustina",
+        "account_id": "5c540a9c3e729341b35199b7"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan konfirmasi transaksi\r\n\r\nStory : setelah yang dititpi mengirimkan konfirmasi, maka yang menitip harus melakukan konfirmasi pembayaran, bahwa dia telah membayar yang mereka titip",
+    "assignee": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "created_on": "2019-03-19T07:11:26.498337+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T12:31:28.960292+00:00",
+    "id": 25
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T11:46:38.285146+00:00",
+    "voters": [],
+    "title": "[2][8] Membuat halaman pembayaran",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan untuk pembayaran\r\n\r\nStory : Apabila orang yang dititipi telah menyetujui barang tersebut, maka orang yang dititipi dapat menginputkan biaya kirim untuk tujuan barang tersebut, tanggal keberangkat, jam keberangkatan, jumlah titipan, serta dapat melakukan penitipan barang secara pulang-pergi.",
+    "assignee": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "created_on": "2019-03-19T07:10:59.307367+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T11:46:38.269941+00:00",
+    "id": 24
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:26:51.922241+00:00",
+    "voters": [],
+    "title": "[2][3] Membuat halaman trip internasional",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Anisa Agustina",
+        "account_id": "5c540a9c3e729341b35199b7"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan untuk trip international\r\n\r\nStory: Ketika user berhasil login, maka user dapat memilih halaman Trip Internasional dengan menggeser (slide halaman) atau memilih menu internasional pada menu bar di bawah. Fitur trip Internasional yang berisi daftar negara-negara apa saja yang tersedia. User juga dapat memilih negara mana yang mau user lakukan untuk menitipkan barang.",
+    "assignee": {
+      "display_name": "Anisa Agustina",
+      "account_id": "5c540a9c3e729341b35199b7"
+    },
+    "created_on": "2019-03-19T07:02:05.709815+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:26:51.918360+00:00",
+    "id": 17
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:23:04.599735+00:00",
+    "voters": [],
+    "title": "[2][4] Menyambungkan API Location (Maps)",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat location dengan menggunakan API Maps\r\n\r\nStory: User dapat mengetahui lokasi tepat dimana dia berada yang dapat di lihat pada halaman User Profile dengan nama Lokasi Saya. Dengan fitur Lokasi Saya ini juga dapat meyakinkan user (Yang dititip) mengenai keberadaan yang menitipkan barangnya.",
+    "assignee": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "created_on": "2019-03-19T06:59:56.414712+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:23:04.596370+00:00",
+    "id": 15
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:18:32.945171+00:00",
+    "voters": [],
+    "title": "[2][2] Membuat login API pada website",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat login dengan API pada database Website http://titipmasa.id/\r\n\r\nStory: User dapat melakukan login akun pada website http://titipmasa.id/ dan dapat login pada aplikasi mobile titip masa. Jika belum punya akun, User dapat melakukan registrasi yang akan mengarah pada database website http://titipmasa.id/",
+    "assignee": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "created_on": "2019-03-19T06:44:44.542971+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:18:32.941010+00:00",
+    "id": 14
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T07:10:24.851310+00:00",
+    "voters": [],
+    "title": "[2][6] Membuat halaman review titipan",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat halaman review titipan yang berisi detail dari barang titipan.\r\n\r\nStory: User dapat melihat detail dari barang yang mau dititip. Detail barang tersebut berisi gambar, harga barang, deskripsi barang. Pada halaman detail tersebut, user dapat melakukan konfirmasi pembayaran jika user ingin menitipkan barang tersebut",
+    "assignee": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "created_on": "2019-03-19T07:08:39.161846+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-09T12:02:44.481795+00:00",
+    "id": 23
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T04:04:44.514322+00:00",
+    "voters": [],
+    "title": "[2][1] Membuat halaman trip local",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat halaman untuk melihat trip local yang tersedia\r\n\r\nStory: Ketika user berhasil login, maka user dapat memilih halaman Trip Lokal yang berisi daftar daerah-daerah yang ada di Lokal. User juga dapat memilih daerah mana yang mau user lakukan untuk menitipkan barang.",
+    "assignee": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "created_on": "2019-03-19T07:01:14.982849+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T04:04:44.512522+00:00",
+    "id": 16
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T03:21:40.928453+00:00",
+    "voters": [],
+    "title": "[2][5] Membuat halaman titipan (post barang)",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat halaman titipan post barang pada aplikasi mobile tanpa melakukan upload foto barang yang akan di titip. \r\n\r\nStory : user melakukan prosesn penitipan barang dengan cara memilih lokasi kemudian memilih  detail titipan pada aplikasi (telah di sediakan) kemudian melakukan submit.",
+    "assignee": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "created_on": "2019-03-19T07:07:52.761866+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T03:26:19.078104+00:00",
+    "id": 22
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][3] Membuat intro slider",
+    "reporter": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      }
+    ],
+    "content": "Membuat tampilan intro slider 2",
+    "assignee": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "created_on": "2019-02-28T10:43:53.674795+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:54:00.230888+00:00",
+    "id": 5
+  },
+  {
+    "status": "closed",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][8] Membuat halaman user profile",
+    "reporter": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "ben hughie",
+        "account_id": "5c5439871bed9a195187d0bb"
+      }
+    ],
+    "content": "Membuat tampilan depan untuk user profile pada activity_user_profil.xml",
+    "assignee": {
+      "display_name": "ben hughie",
+      "account_id": "5c5439871bed9a195187d0bb"
+    },
+    "created_on": "2019-02-26T07:31:19.020058+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:53:06.208049+00:00",
+    "id": 3
+  },
+  {
+    "status": "duplicate",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][3] Membuat intro slider",
+    "reporter": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      }
+    ],
+    "content": "membuat intro slider yang pertama",
+    "assignee": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "created_on": "2019-02-28T05:41:36.001178+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:52:28.177422+00:00",
+    "id": 4
+  },
+  {
+    "status": "closed",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][3]membuat intro slider",
+    "reporter": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      }
+    ],
+    "content": "Merubah posisi dari button Next pada intro slider 1 dan merubah fontsize nya",
+    "assignee": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "created_on": "2019-03-18T14:07:15.417676+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:51:59.610284+00:00",
+    "id": 8
+  },
+  {
+    "status": "closed",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][7] Membuat halaman lupa password",
+    "reporter": {
+      "display_name": "Anisa Agustina",
+      "account_id": "5c540a9c3e729341b35199b7"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Anisa Agustina",
+        "account_id": "5c540a9c3e729341b35199b7"
+      }
+    ],
+    "content": "Membuat layout lupa password pada activity_lupaPassword.xml\r\nMembuat alert pada mainActivity",
+    "assignee": {
+      "display_name": "Anisa Agustina",
+      "account_id": "5c540a9c3e729341b35199b7"
+    },
+    "created_on": "2019-02-20T08:07:21.631360+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:51:14.068243+00:00",
+    "id": 2
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][6] Membuat halaman login",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Nisya",
+        "account_id": "5c544ec60abefd4ed4ed6ef6"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat fitur login",
+    "assignee": {
+      "display_name": "Nisya",
+      "account_id": "5c544ec60abefd4ed4ed6ef6"
+    },
+    "created_on": "2019-03-19T04:16:50.322295+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:50:20.115852+00:00",
+    "id": 11
+  },
+  {
+    "status": "new",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][9] Membuat main activity titip masa",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat front end dan back end untuk halaman utama ketika login sudah success",
+    "assignee": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "created_on": "2019-03-19T04:18:41.398654+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:49:43.949058+00:00",
+    "id": 12
+  },
+  {
+    "status": "closed",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][5] Membuat halaman registrasi",
+    "reporter": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Sevira Hendari Pratiwi",
+        "account_id": "5c5406700e5b0669d85a399a"
+      }
+    ],
+    "content": "Membuat layout registrasi pada file activity_registrasi.xml",
+    "assignee": {
+      "display_name": "Sevira Hendari Pratiwi",
+      "account_id": "5c5406700e5b0669d85a399a"
+    },
+    "created_on": "2019-02-20T07:33:22.518372+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:48:59.479882+00:00",
+    "id": 1
+  },
+  {
+    "status": "resolved",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][2] Membuat halaman splash screen",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat tampilan splash screen ketika aplikasi pertama kali dibuka",
+    "assignee": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "created_on": "2019-03-19T04:15:34.453100+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:46:37.615789+00:00",
+    "id": 10
+  },
+  {
+    "status": "resolved",
+    "priority": "minor",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][1] Membuat landing page website",
+    "reporter": {
+      "display_name": "Rahkmah Nabila",
+      "account_id": "5c42dc499760f569b628ce07"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "muhammad fikri makmur",
+        "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+      },
+      {
+        "display_name": "Rahkmah Nabila",
+        "account_id": "5c42dc499760f569b628ce07"
+      }
+    ],
+    "content": "Membuat landing page website titip masa",
+    "assignee": {
+      "display_name": "muhammad fikri makmur",
+      "account_id": "557058:fcba70f6-1c5a-40c9-b2f1-cffbb1bd67cb"
+    },
+    "created_on": "2019-03-19T04:14:36.201645+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-03-19T06:45:54.819001+00:00",
+    "id": 9
+  }
+]

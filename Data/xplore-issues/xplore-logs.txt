@@ -1,0 +1,2282 @@
+﻿[
+  {
+    "comment": 50684705,
+    "changed_to": "Pembuatan Firebase untuk button Login with Google",
+    "field": "content",
+    "created_on": "2019-02-19T23:11:44.102909+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": ""
+  },
+  {
+    "comment": 50685054,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-02-20T00:00:08.185318+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": "apriliawidyas"
+  },
+  {
+    "comment": 50758388,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-02-24T23:39:40.617976+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 5,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 50759869,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-02-25T03:30:06.239858+00:00",
+    "user": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "issue": 4,
+    "changed_from": "new"
+  },
+  {
+    "comment": 50765365,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-02-25T10:10:47.328461+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 6,
+    "changed_from": "new"
+  },
+  {
+    "comment": 50767821,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-02-25T12:26:12.251917+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 5,
+    "changed_from": "new"
+  },
+  {
+    "comment": 50806830,
+    "changed_to": "Menu Home, Feed, Profile",
+    "field": "content",
+    "created_on": "2019-02-27T12:21:08.193795+00:00",
+    "user": {
+      "display_name": "Hanif Ramadhan",
+      "account_id": "5c434134f9d0ab2efb44d298"
+    },
+    "issue": 7,
+    "changed_from": ""
+  },
+  {
+    "comment": 50868361,
+    "changed_to": "bug",
+    "field": "kind",
+    "created_on": "2019-03-03T15:49:35.887565+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 11,
+    "changed_from": "task"
+  },
+  {
+    "comment": 50869009,
+    "changed_to": "denniscunong",
+    "field": "responsible",
+    "created_on": "2019-03-03T17:01:42.160807+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 50869371,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-03T17:51:50.514957+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 13,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209599,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T04:15:47.211468+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 8,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209612,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T04:17:52.655070+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 11,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209618,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T04:18:23.088973+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 4,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209620,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T04:18:37.932261+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 6,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209623,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-03-19T04:19:19.326224+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 5,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209637,
+    "changed_to": "open",
+    "field": "status",
+    "created_on": "2019-03-19T04:21:03.578415+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 13,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51209885,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T04:50:25.679849+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51209901,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-03-19T04:52:25.596166+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 2,
+    "changed_from": "ilhamsatria"
+  },
+  {
+    "comment": 51210947,
+    "changed_to": "[1][12] Membuat front-end Feedback dari Fitur Pariwisata",
+    "field": "title",
+    "created_on": "2019-03-19T06:30:13.786165+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 2,
+    "changed_from": "[10][2] Membuat front-end Feedback dari Fitur Pariwisata"
+  },
+  {
+    "comment": 51210985,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:32:54.762408+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 14,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211017,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:35:30.474917+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 15,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211036,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:36:35.053820+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 16,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211059,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:38:30.554371+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 17,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211188,
+    "changed_to": "[1][1] Mencoba membuat Firebase Login Google dan Facebook",
+    "field": "title",
+    "created_on": "2019-03-19T06:49:07.225303+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": "[5][5] Mencoba membuat Firebase Login Google dan Facebook"
+  },
+  {
+    "comment": 51211196,
+    "changed_to": "[1][5] Membuat back-end Login dengan Akun Facebook",
+    "field": "title",
+    "created_on": "2019-03-19T06:49:31.314397+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 19,
+    "changed_from": "[1][6] Membuat back-end Login dengan Akun Facebook"
+  },
+  {
+    "comment": 51211232,
+    "changed_to": "[1][6] Mencoba membuat Firebase Login Google",
+    "field": "title",
+    "created_on": "2019-03-19T06:52:06.061981+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": "[1][1] Mencoba membuat Firebase Login Google dan Facebook"
+  },
+  {
+    "comment": 51211232,
+    "changed_to": "Pembuatan Firebase untuk button Login with Google atau Mengintegrasikan aplikasi dengan Google",
+    "field": "content",
+    "created_on": "2019-03-19T06:52:06.038928+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 1,
+    "changed_from": "Pembuatan Firebase untuk button Login with Google"
+  },
+  {
+    "comment": 51211255,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:53:36.086402+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 20,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211319,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T06:56:14.485471+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 21,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211337,
+    "changed_to": "[1][12] Membuat front-end Feedback dari Kategori Pariwisata",
+    "field": "title",
+    "created_on": "2019-03-19T06:57:31.384989+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 2,
+    "changed_from": "[1][12] Membuat front-end Feedback dari Fitur Pariwisata"
+  },
+  {
+    "comment": 51211399,
+    "changed_to": "[1][27]Membuat Fitur Feedback pada Sidebar",
+    "field": "title",
+    "created_on": "2019-03-19T07:00:24.367616+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 9,
+    "changed_from": "Membuat Fitur Feedback"
+  },
+  {
+    "comment": 51211418,
+    "changed_to": "[1][27]Membuat Front-end Fitur Feedback pada Sidebar",
+    "field": "title",
+    "created_on": "2019-03-19T07:01:59.837512+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 9,
+    "changed_from": "[1][27]Membuat Fitur Feedback pada Sidebar"
+  },
+  {
+    "comment": 51211424,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T07:02:14.832593+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 9,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51211480,
+    "changed_to": "[1][28] membuat navigation bottom",
+    "field": "title",
+    "created_on": "2019-03-19T07:07:03.629352+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 7,
+    "changed_from": "[25][3] membuat navigation bottom"
+  },
+  {
+    "comment": 51211600,
+    "changed_to": "[3][9] Membuat Front-End dari Fitur Search",
+    "field": "title",
+    "created_on": "2019-03-19T07:15:41.701698+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 3,
+    "changed_from": "[3][4] Membuat Front-End dari Fitur Search"
+  },
+  {
+    "comment": 51211626,
+    "changed_to": "[1][14] Membuat front-end Rating pada Kategori Pariwisata",
+    "field": "title",
+    "created_on": "2019-03-19T07:18:04.537484+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 12,
+    "changed_from": "Membuat Rating pada fitur Pariwisata"
+  },
+  {
+    "comment": 51212404,
+    "changed_to": "[2][1] Membuat Frond End Kategori Oleh-Oleh",
+    "field": "title",
+    "created_on": "2019-03-19T08:05:25.208225+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 10,
+    "changed_from": "Membuat Frond End Oleh-Oleh"
+  },
+  {
+    "comment": 51212436,
+    "changed_to": "[1][19] Membuat Front End Kategori Kuliner",
+    "field": "title",
+    "created_on": "2019-03-19T08:07:17.860814+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 11,
+    "changed_from": "Membuat Front End Kuliner"
+  },
+  {
+    "comment": 51212644,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:20:52.912760+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 22,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51212658,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:21:45.948093+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 23,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51212670,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-03-19T08:22:19.066194+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 22,
+    "changed_from": "hramadhaan"
+  },
+  {
+    "comment": 51212721,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:24:56.952899+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 25,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51212726,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:25:26.121759+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 24,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51212819,
+    "changed_to": "[1][27] Membuat Fitur Need",
+    "field": "title",
+    "created_on": "2019-03-19T08:31:40.340506+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 24,
+    "changed_from": "[1][26] Membuat Fitur Need"
+  },
+  {
+    "comment": 51212913,
+    "changed_to": "[1][30] Membuat Fitur Need",
+    "field": "title",
+    "created_on": "2019-03-19T08:37:37.358595+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 24,
+    "changed_from": "[1][27] Membuat Fitur Need"
+  },
+  {
+    "comment": 51212983,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:42:30.229533+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 34,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51213086,
+    "changed_to": "ilhamsatria",
+    "field": "responsible",
+    "created_on": "2019-03-19T08:48:31.488592+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 39,
+    "changed_from": ""
+  },
+  {
+    "comment": 51213087,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T08:48:35.387977+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 39,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51213120,
+    "changed_to": "apriliawidyas",
+    "field": "responsible",
+    "created_on": "2019-03-19T08:49:54.480633+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 40,
+    "changed_from": ""
+  },
+  {
+    "comment": 51213151,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-03-19T08:51:23.546656+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 41,
+    "changed_from": ""
+  },
+  {
+    "comment": 51213164,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-03-19T08:52:13.613276+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 42,
+    "changed_from": ""
+  },
+  {
+    "comment": 51214242,
+    "changed_to": "denniscunong",
+    "field": "responsible",
+    "created_on": "2019-03-19T09:50:35.380153+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 44,
+    "changed_from": ""
+  },
+  {
+    "comment": 51214851,
+    "changed_to": "[1][30] Membuat Fitur Feed",
+    "field": "title",
+    "created_on": "2019-03-19T10:22:55.886815+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 24,
+    "changed_from": "[1][30] Membuat Fitur Need"
+  },
+  {
+    "comment": 51215416,
+    "changed_to": "[2][12] Membuat Front End Kategori Oleh-Oleh",
+    "field": "title",
+    "created_on": "2019-03-19T10:49:20.371908+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 10,
+    "changed_from": "[2][1] Membuat Frond End Kategori Oleh-Oleh"
+  },
+  {
+    "comment": 51215475,
+    "changed_to": "[2][13] Membuat back-end kategori oleh-oleh",
+    "field": "title",
+    "created_on": "2019-03-19T10:52:15.232107+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 44,
+    "changed_from": "[2][2] Membuat back-end kategori oleh-oleh"
+  },
+  {
+    "comment": 51215507,
+    "changed_to": "[1][29] Membuat Fitur Feed",
+    "field": "title",
+    "created_on": "2019-03-19T10:53:41.057049+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 24,
+    "changed_from": "[1][30] Membuat Fitur Feed"
+  },
+  {
+    "comment": 51221827,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T16:20:03.277859+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 47,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51221888,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T16:23:42.633715+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 47,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51221902,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T16:24:24.919170+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 2,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51221906,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T16:24:43.055805+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 2,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51221910,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T16:24:55.302537+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 29,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51221938,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-19T16:26:22.446269+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 29,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51298650,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-24T07:12:07.123412+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 58,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51298654,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-03-24T07:12:39.170758+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 58,
+    "changed_from": ""
+  },
+  {
+    "comment": 51298654,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-24T07:12:39.166342+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 58,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51299574,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-03-24T10:01:03.357922+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 59,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51419145,
+    "changed_to": "[2][4] Membuat back-end Like pada Kategori Oleh-oleh",
+    "field": "title",
+    "created_on": "2019-04-01T05:45:15.064524+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 46,
+    "changed_from": "[2][4] Membuat back-end Rating pada Kategori Oleh-oleh"
+  },
+  {
+    "comment": 51419145,
+    "changed_to": "Membuat fungsional dari Like pada kategori oleh-oleh",
+    "field": "content",
+    "created_on": "2019-04-01T05:45:15.058823+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 46,
+    "changed_from": ""
+  },
+  {
+    "comment": 51419154,
+    "changed_to": "[2][3] Membuat front-end Like ketegoti Oleh-oleh",
+    "field": "title",
+    "created_on": "2019-04-01T05:46:10.990310+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 45,
+    "changed_from": "[2][3] Membuat front-end Rating ketegoti Oleh-oleh"
+  },
+  {
+    "comment": 51419154,
+    "changed_to": "Membuat desain tampilan dari Like pada kategori oleh-oleh",
+    "field": "content",
+    "created_on": "2019-04-01T05:46:10.986449+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 45,
+    "changed_from": ""
+  },
+  {
+    "comment": 51419171,
+    "changed_to": "[1][15] Membuat back-end Like pada kategori Pariwisata",
+    "field": "title",
+    "created_on": "2019-04-01T05:47:10.391279+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 30,
+    "changed_from": "[1][15] Membuat back-end rating pada kategori Pariwisata"
+  },
+  {
+    "comment": 51419171,
+    "changed_to": "Membuat fungsional dari Like pada kategori pariwisata",
+    "field": "content",
+    "created_on": "2019-04-01T05:47:10.384604+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 30,
+    "changed_from": ""
+  },
+  {
+    "comment": 51419192,
+    "changed_to": "[1][24] Membuat back-end Like pada kategori Kuliner",
+    "field": "title",
+    "created_on": "2019-04-01T05:48:50.842972+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 40,
+    "changed_from": "[1][24] Membuat back-end Rating pada kategori Kuliner"
+  },
+  {
+    "comment": 51419192,
+    "changed_to": "Membuat fungsional dari Like pada kategori kuliner",
+    "field": "content",
+    "created_on": "2019-04-01T05:48:50.840220+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 40,
+    "changed_from": ""
+  },
+  {
+    "comment": 51419206,
+    "changed_to": "[1][23] Membuat front-end dari Like pada kategori kuliner",
+    "field": "title",
+    "created_on": "2019-04-01T05:50:17.648037+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 39,
+    "changed_from": "[1][23] Membuat front-end dari Rating pada kategori kuliner"
+  },
+  {
+    "comment": 51419206,
+    "changed_to": "Membuat tampilan dari Like pada kategori kuliner",
+    "field": "content",
+    "created_on": "2019-04-01T05:50:17.644199+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 39,
+    "changed_from": ""
+  },
+  {
+    "comment": 51419218,
+    "changed_to": "[1][14] Membuat front-end Like pada Kategori Pariwisata",
+    "field": "title",
+    "created_on": "2019-04-01T05:51:33.109422+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 12,
+    "changed_from": "[1][14] Membuat front-end Rating pada Kategori Pariwisata"
+  },
+  {
+    "comment": 51419218,
+    "changed_to": "Membuat Like pada fitur Pariwisata",
+    "field": "content",
+    "created_on": "2019-04-01T05:51:33.105034+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 12,
+    "changed_from": "Membuat Rating pada fitur Pariwisata beserta button2 untuk input rating"
+  },
+  {
+    "comment": 51419277,
+    "changed_to": "[1][23] Membuat Front End dari Like pda kategori Kuliner",
+    "field": "title",
+    "created_on": "2019-04-01T05:56:18.704798+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 34,
+    "changed_from": "[1][23] Membuat Front End dari rating pda kategori Kuliner"
+  },
+  {
+    "comment": 51419277,
+    "changed_to": "Membuat tampilan dari Like pada kategori kuliner",
+    "field": "content",
+    "created_on": "2019-04-01T05:56:18.701482+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 34,
+    "changed_from": ""
+  },
+  {
+    "comment": 51425267,
+    "changed_to": "[2][8] Membuat front-end dari fitur Profile",
+    "field": "title",
+    "created_on": "2019-04-01T11:22:28.755885+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 55,
+    "changed_from": "[3][3] Membuat front-end dari fitur Profile"
+  },
+  {
+    "comment": 51425267,
+    "changed_to": "ilhamsatria",
+    "field": "responsible",
+    "created_on": "2019-04-01T11:22:28.747936+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 55,
+    "changed_from": ""
+  },
+  {
+    "comment": 51425474,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-01T11:34:09.719308+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 55,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435879,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:06:04.792797+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 30,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435882,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:06:49.239463+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 40,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435888,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:07:25.122367+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 46,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435897,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-04-02T01:08:24.051864+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 37,
+    "changed_from": "rizkafadhilah"
+  },
+  {
+    "comment": 51435903,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:08:55.293356+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 37,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435928,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:12:35.802787+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 27,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435937,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:14:01.522707+00:00",
+    "user": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "issue": 53,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435942,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:14:33.813186+00:00",
+    "user": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "issue": 52,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435946,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-04-02T01:15:57.632417+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 12,
+    "changed_from": "rizkafadhilah"
+  },
+  {
+    "comment": 51435952,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:16:38.991412+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 48,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435958,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:18:04.923471+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 48,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51435962,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:18:40.449482+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 27,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51435964,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:19:19.718954+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 37,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51435979,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:20:25.416597+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 46,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51435984,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-04-02T01:21:08.905925+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 45,
+    "changed_from": ""
+  },
+  {
+    "comment": 51435984,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:21:08.901773+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 45,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51435986,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:21:19.176487+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 45,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51435999,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T01:22:42.384283+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 12,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51436014,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:23:37.024307+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 34,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51436020,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:24:14.352704+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 40,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51436027,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-04-02T01:25:12.172582+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 30,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51437154,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T03:41:26.529091+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 35,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437155,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-02T03:41:49.898749+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 44,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437275,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T03:56:54.402283+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 44,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437300,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T04:00:59.008252+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 58,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437300,
+    "changed_to": "Membuat tampilan untuk menu login \r\n\r\nStory : user / customer melakukan registrasi dengan menginputkan nama, email, dan password masing-masing. \r\n\r\nlink mock up",
+    "field": "content",
+    "created_on": "2019-04-02T04:00:59.003865+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 58,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437321,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:03:55.703635+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 58,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437326,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:04:55.181031+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 59,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437340,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:06:37.628703+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 45,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437357,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:08:29.938676+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 46,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437372,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:10:24.419888+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 47,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437382,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:11:36.263556+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 48,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437395,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:13:20.430208+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 49,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437405,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:14:45.596179+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 50,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437417,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-04-02T04:15:30.988745+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 51,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437424,
+    "changed_to": "[2][11] Membuat back end weather",
+    "field": "title",
+    "created_on": "2019-04-02T04:16:03.557821+00:00",
+    "user": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "issue": 53,
+    "changed_from": "[2]11] Membuat back end weather"
+  },
+  {
+    "comment": 51437441,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:18:51.391594+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 52,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437447,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:19:36.424975+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 53,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437478,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:22:18.286265+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 44,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51437482,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:22:54.885026+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 10,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437552,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T04:34:11.693817+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 55,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437552,
+    "changed_to": "Story : Menampilkan nama dan email yang sudah didaftarkan user pada profil",
+    "field": "content",
+    "created_on": "2019-04-02T04:34:11.690243+00:00",
+    "user": {
+      "display_name": "Ilham Satria",
+      "account_id": "5c54062c17919c1f8bfb79ff"
+    },
+    "issue": 55,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437654,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T04:45:27.600759+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 59,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437654,
+    "changed_to": "Membuat back-end Registrasi Account\r\n\r\nStory : Ketika user telah melakukan registrasi, maka data user seperti nama, email dan password akan tersimpan didalam class user yang ada di firebase",
+    "field": "content",
+    "created_on": "2019-04-02T04:45:27.597145+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 59,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437777,
+    "changed_to": "Membuat tampilan Feedback pada kategori Olhe-oleh\r\n\r\nStory : pada kategori oleh oleh user / customer dapat menginputkan komentar / feedback pada kategori oleh oleh. Feedback akan menampilkan isi feedback dan user yang menginputkan feedback",
+    "field": "content",
+    "created_on": "2019-04-02T05:01:25.755759+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 47,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437778,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:01:37.218276+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 47,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437816,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:07:13.544406+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 48,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437816,
+    "changed_to": "Membuat backend / fungsi dari feedback pada kategori Oleh-oleh\r\n\r\n\r\nStory : Saat user menginputkan feedback, id user beserta isi comment akan tersimpan dalam firebase. Setelah data tersimpan pada firebase, feedback beserta user akan ditampilkan pada kategori Oleh oleh",
+    "field": "content",
+    "created_on": "2019-04-02T05:07:13.537250+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 48,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437880,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:14:29.771967+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 46,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437880,
+    "changed_to": "Membuat fungsional dari Like pada kategori oleh-oleh\r\n\r\nStory : pada button like bisa klik dan untuk menghitung berapa banyak yang menyukai postingan pada kategori oleh-oleh. bisa bertambah jika di like dan bisa berkurang jika di unlike",
+    "field": "content",
+    "created_on": "2019-04-02T05:14:29.769277+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 46,
+    "changed_from": "Membuat fungsional dari Like pada kategori oleh-oleh"
+  },
+  {
+    "comment": 51437924,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:20:01.783027+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 30,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437924,
+    "changed_to": "Membuat fungsional dari Like pada kategori pariwisata\r\n\r\nStory : button like bisa di klik dan kemudian dihitung berapa banyak yang menyukai postingan tersebut. dan dapat berkurang jika button like dikurangin",
+    "field": "content",
+    "created_on": "2019-04-02T05:20:01.779063+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 30,
+    "changed_from": "Membuat fungsional dari Like pada kategori pariwisata"
+  },
+  {
+    "comment": 51437935,
+    "changed_to": "SP1",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:21:36.087542+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 40,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437935,
+    "changed_to": "Membuat fungsional dari Like pada kategori kuliner\r\n\r\nStory : button like bisa di klik dan kemudian dihitung berapa banyak yang menyukai postingan tersebut. dan dapat berkurang jika button like dikurangin",
+    "field": "content",
+    "created_on": "2019-04-02T05:21:36.083262+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 40,
+    "changed_from": "Membuat fungsional dari Like pada kategori kuliner"
+  },
+  {
+    "comment": 51437942,
+    "changed_to": "SP1",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:22:03.806713+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 30,
+    "changed_from": "SP2"
+  },
+  {
+    "comment": 51437972,
+    "changed_to": "SP1",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:25:47.511570+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 34,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437972,
+    "changed_to": "Membuat tampilan dari Like pada kategori kuliner\r\n\r\nStory : membuat tampilan like pada kategori kuliner untuk mengetahui postingan mana yang disukai",
+    "field": "content",
+    "created_on": "2019-04-02T05:25:47.508020+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 34,
+    "changed_from": "Membuat tampilan dari Like pada kategori kuliner"
+  },
+  {
+    "comment": 51438013,
+    "changed_to": "SP3",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:30:02.855620+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 54,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438013,
+    "changed_to": "Membuat Front-end dari fitur About us\r\n\r\nStory : membuat tampilan atau layout dari about us yang berisikan informasi mengenai aplikasi dan team developer",
+    "field": "content",
+    "created_on": "2019-04-02T05:30:02.851732+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 54,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438068,
+    "changed_to": "SP3",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:34:34.071798+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438068,
+    "changed_to": "[3][6] Membuat layout fitur Hasil Search",
+    "field": "title",
+    "created_on": "2019-04-02T05:34:34.068774+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": "Membuat layout fitur Hasil Search"
+  },
+  {
+    "comment": 51438068,
+    "changed_to": "Membuat layout fitur hasil  dari search\r\n\r\nStory : membuat layout atau tampilan dari fitur hasil search untuk menampilkan apa saja yang sesuai dengan pencarian",
+    "field": "content",
+    "created_on": "2019-04-02T05:34:34.065708+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438261,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:51:00.023857+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438261,
+    "changed_to": "Membuat tampilan dari kategori oleh-oleh\r\n\r\nStory : membuat layout atau tampilan untuk kategori oleh-oleh yang di simpan di kategori dan di dropdown kebawah untuk dipilih",
+    "field": "content",
+    "created_on": "2019-04-02T05:51:00.020687+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 10,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438295,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:54:01.862869+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 53,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438295,
+    "changed_to": "Membuat back end weather\r\n\r\nStory : membuat fungsi dari sidebar fitur weather yang dapat menampilkan suhu dan cuaca dari lokasi yang dipilih",
+    "field": "content",
+    "created_on": "2019-04-02T05:54:01.859531+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 53,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438323,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:56:04.928492+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 52,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438323,
+    "changed_to": "Membuat front end weather\r\n\r\nStory : membuat layout atau tampilan yang digunakan untuk menampilkan suhu dan cuaca dari lokasi yang di pilih",
+    "field": "content",
+    "created_on": "2019-04-02T05:56:04.924473+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 52,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438385,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T05:58:37.780583+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 50,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438385,
+    "changed_to": "Membuat back-end maps pada kategori oleh-oleh\r\n\r\nStory : membuat fungsional dari button maps yang apabila diklik akan berpindah ke tampilan maps dari google maps sesuai lokasi maps yang pada awal tertulis",
+    "field": "content",
+    "created_on": "2019-04-02T05:58:37.776678+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 50,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438419,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T06:00:35.623446+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 49,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438419,
+    "changed_to": "Membuat front-end maps pada kategori oleh-oleh\r\n\r\nStory : membuat layout button yang digunakan untuk mengarahkan ke link maps yang dituju",
+    "field": "content",
+    "created_on": "2019-04-02T06:00:35.617411+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 49,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438491,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-02T06:03:50.985658+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 45,
+    "changed_from": ""
+  },
+  {
+    "comment": 51438491,
+    "changed_to": "Membuat desain tampilan dari Like pada kategori oleh-oleh\r\n\r\nStory : membuat tampilan layout untuk like pada kategori oleh-oleh yang digunakan untuk menghitung berapa banyak user yang menyukai postingan tersebut",
+    "field": "content",
+    "created_on": "2019-04-02T06:03:50.979079+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 45,
+    "changed_from": "Membuat desain tampilan dari Like pada kategori oleh-oleh"
+  },
+  {
+    "comment": 51447213,
+    "changed_to": "Membuat back-end kategori oleh-oleh\r\n\r\nStory :  membuat fungsional dari kategori oleh-oleh yang di simpan di kategori dan di dropdown kebawah untuk dipilih",
+    "field": "content",
+    "created_on": "2019-04-02T14:02:27.991860+00:00",
+    "user": {
+      "display_name": "dennis cunong",
+      "account_id": "5c541b153e729341b3519a01"
+    },
+    "issue": 44,
+    "changed_from": ""
+  },
+  {
+    "comment": 51546808,
+    "changed_to": "[3][6] Membuat back end dari fitur Feeds",
+    "field": "title",
+    "created_on": "2019-04-09T03:17:37.092337+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": "[3][6] Membuat layout fitur Hasil Search"
+  },
+  {
+    "comment": 51546808,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-09T03:17:37.088915+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": "Membuat layout fitur hasil  dari search\r\n\r\nStory : membuat layout atau tampilan dari fitur hasil search untuk menampilkan apa saja yang sesuai dengan pencarian"
+  },
+  {
+    "comment": 51550741,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-09T08:07:10.672488+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 54,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51736287,
+    "changed_to": "aulianurii",
+    "field": "responsible",
+    "created_on": "2019-04-20T13:28:12.342378+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 63,
+    "changed_from": "denniscunong"
+  },
+  {
+    "comment": 51736290,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-20T13:28:34.557375+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 63,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51740351,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-21T09:28:07.356747+00:00",
+    "user": {
+      "display_name": "Rizka Fadhilah",
+      "account_id": "5c5409df87530c43d3a1e089"
+    },
+    "issue": 64,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51784578,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-24T10:06:47.562834+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 60,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51784612,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-04-24T10:08:21.736822+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": "apriliawidyas"
+  },
+  {
+    "comment": 51784622,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-24T10:08:39.330125+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 13,
+    "changed_from": "open"
+  },
+  {
+    "comment": 51784647,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-24T10:09:57.609156+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 62,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51784775,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-24T10:15:32.270964+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 3,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51873513,
+    "changed_to": "[3][10] Membuat back-end dari fitur filter",
+    "field": "title",
+    "created_on": "2019-04-29T10:19:38.303320+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 56,
+    "changed_from": "[3][10] Membuat back-end dari fitur Search"
+  },
+  {
+    "comment": 51873513,
+    "changed_to": "hramadhaan",
+    "field": "responsible",
+    "created_on": "2019-04-29T10:19:38.297059+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 56,
+    "changed_from": ""
+  },
+  {
+    "comment": 51873522,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-29T10:19:58.098386+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 56,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51873541,
+    "changed_to": "[3][9] Membuat Front-End dari Fitur filter",
+    "field": "title",
+    "created_on": "2019-04-29T10:20:44.855297+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 3,
+    "changed_from": "[3][9] Membuat Front-End dari Fitur Search"
+  },
+  {
+    "comment": 51873579,
+    "changed_to": "Pada fitur ini akan ditampilkan nama user beserta emailnya, selain itu user / pengguna dapat melakukan edit profil, seperti mengganti foto user, dan nama pada aplikasi Xplore Malang.",
+    "field": "content",
+    "created_on": "2019-04-29T10:23:05.124855+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 61,
+    "changed_from": "Pada fitur ini akan ditampilkan nama user beserta emailnya, selain itu user / pengguna dapat melakukan edit profil, seperti mengganti email, dan username."
+  },
+  {
+    "comment": 51873585,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-29T10:23:18.421420+00:00",
+    "user": {
+      "display_name": "aulia ikhsanati",
+      "account_id": "5c542c887f1b2543d2863018"
+    },
+    "issue": 61,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886291,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-30T03:24:33.091456+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 65,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886319,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-30T03:28:13.428022+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 66,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886332,
+    "changed_to": "resolved",
+    "field": "status",
+    "created_on": "2019-04-30T03:29:45.618243+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 67,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51886447,
+    "changed_to": "Story : User dapat membuka maps untuk kategori oleh-oleh sehingga dapat memudahkan untuk menuju ke lokasi tujuan",
+    "field": "content",
+    "created_on": "2019-04-30T03:43:20.748598+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 60,
+    "changed_from": ""
+  },
+  {
+    "comment": 51886458,
+    "changed_to": "Story : user dapat melihat foto-foto pribadi yang diupload dan juga dapat mengunggah foto",
+    "field": "content",
+    "created_on": "2019-04-30T03:45:02.252733+00:00",
+    "user": {
+      "display_name": "aprilia widyas",
+      "account_id": "557058:62f8febd-d0ce-4582-8d22-276546a22728"
+    },
+    "issue": 13,
+    "changed_from": ""
+  },
+  {
+    "comment": 51887204,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:33:17.552931+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 54,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887205,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:33:26.608895+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 65,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887218,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:35:05.135154+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 60,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887255,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:39:28.479919+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 13,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887258,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:39:39.066762+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 62,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887274,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:41:26.875014+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 66,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887281,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:41:59.458833+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 67,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887305,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:44:57.197225+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 64,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887310,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:45:09.345161+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 63,
+    "changed_from": "resolved"
+  },
+  {
+    "comment": 51887325,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:47:23.170182+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 61,
+    "changed_from": "resolved"
+  }
+]

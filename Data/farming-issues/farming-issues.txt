@@ -1,0 +1,2200 @@
+﻿[
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][10][a]Notifikasi Like Dan Comment Untuk Fitur Postingan Panen",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Jika ada user lain yang like dan comment pada postingan kita, maka akan muncul notifikasi like dan comment dengan klik pada icon pemberitahuan",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-20T20:21:35.762385+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:10:52.174541+00:00",
+    "id": 55
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][8][a] Penambahan Fitur My Forum dan My Panen",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Fitur yang berguna untuk melihat history dari postingan forum dan panen yang sudah di post oleh user dengan cara klik pada menu drawable dan klik My Panen untuk melihat history panen dan klik My Forum untuk melihat history forum",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-20T15:34:56.738697+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:09:56.218033+00:00",
+    "id": 53
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "bug",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][11][a] Perbaikan Layout About Us, Feedback, Login, Register, Profile (Landscapeable)",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Memperbaikin layout agar bisa dalam mode landscape",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-22T13:52:56.233560+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:07:02.392954+00:00",
+    "id": 56
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][9][a] Post Detail dan User Profile",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "User bisa melihat detail dari postingan yang ada di fitur panen dan forum.\r\nUser juga bisa melihat pofile user lain dengan klik pada username, foto profile, atau pada publisher yang ada postingan user lain",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-20T18:07:30.973353+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T04:04:47.632451+00:00",
+    "id": 54
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][6][b]Controller Menampilkan Comment Pada Postingan Panen",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Controller ini berguna untuk menampilkan comment yang ditulis oleh user terhadap suatu postingan dengan cara klik pada icon comment pada post yang ada di dalam fitur panen",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-17T19:36:09.270644+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:58:34.324128+00:00",
+    "id": 51
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][7][a] Layout + Controller Profile & Edit Profile",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Untuk menampilkan informasi dari user dengan cara klik pada icon profile, jika user ingin mengedit profile, klik pada button edit profile, dan ubah data yang ingin di edit kemudian klik save",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-18T06:39:46.245775+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:57:36.637383+00:00",
+    "id": 52
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][6][a]Layout + Controller Pada Fitur Panen (Posting, Adapater, Like, dan Comment)",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Layout + Controller pada panen fitur ini berguna untuk memposting hasil panen dari user. Untuk posting dilakukan dengan cara tap pada icon panen dan tab tombol add yang ada pada fitur panen. Lalu masukkan foto dan description dari panen yang ingin di post oleh user, kemudian tab post, maka postingan panen yang dilakukan oleh user otomatis akan masuk ke dalam firebase, dan akan tertampil juga di dalam fitur panen.\r\nUntuk like dilakukan dengan cara tap pada icon like pada post, dan untuk comment dilakukan dengan tap icon comment pada post, lalu masukkan comment dan tap post",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-17T18:26:11.671478+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:54:17.721517+00:00",
+    "id": 49
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-30T03:41:55.906182+00:00",
+    "voters": [],
+    "title": "[3][3] Pembuatan layout feedback",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Ini adalah tampilan untuk mengirimkan feedback, dengan cara login dengan akun yang sudah dibuat kemudian pilih tab navigation drawer, lalu pilih tab setting, dan pilih send feedback. Setelah itu pengguna bisa mengirimkan feedback via gmail, dengan email tujuan email official [farming@gmail.com](mailto:farming@gmail.com). Dengan itu pengguna akan mendapatkan tanggapan terhadap feedback yang sudah diberikan",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-09T16:11:56.028758+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:53:25.499659+00:00",
+    "id": 42
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][5][a]WebView Fragment Artikel",
+    "reporter": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      }
+    ],
+    "content": "Fitur ini digunakan user untuk melihat berita-berita terkini seputar pertanian, ketika user menekan icon artikel user otomatis diarahkan ke Artikel Pertanian.",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-04-16T17:20:17.060417+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:53:10.128878+00:00",
+    "id": 46
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][12] Fixasi layout feedback",
+    "reporter": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-04-25T16:00:57.370282+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:49:37.946320+00:00",
+    "id": 61
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][3][b] Pembuatan fungsional feedback",
+    "reporter": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      },
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      }
+    ],
+    "content": "fungsional berfungsi sebagai java yang memprogram feedback untuk aplikasi farming",
+    "assignee": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "created_on": "2019-04-09T16:56:00.367077+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:47:19.040233+00:00",
+    "id": 44
+  },
+  {
+    "status": "on hold",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-09T16:38:33.029921+00:00",
+    "voters": [],
+    "title": "[3][3][a] pembuatan fungsionalitas feedback (penambahan variabel)",
+    "reporter": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-04-09T16:31:28.384180+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:46:00.976837+00:00",
+    "id": 43
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][4][b]Layout Forum (Untuk Menampilkan Hasil Posting)",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Layout ini berguna untuk menampilkan hasil postingan yang dipost oleh user, dengan klik icon forum pada bottom navigation, maka akan muncul layout dari hasil postingan yang akan diambil datanya dari firebase",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-17T13:09:08.076076+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:44:26.452807+00:00",
+    "id": 47
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][4][a]Fitur Posting Forum",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Fitur ini digunakan user untuk memposting forum diskusi dengan para user lainnya, dengan tap icon menu forum pada bottom navigation bar, lalu klik icon add, kemudian user memasukkan foto dan deskripsi dari forum yang ingin di buat, setalah itu klik button post, maka otomatis forum yang dibuat user tersebut akan tersimpat pada firebase",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-15T06:47:32.924676+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:42:38.815313+00:00",
+    "id": 45
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][4][c]Controller Forum (Adapter, Like, Comment)",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Controller ini berguna untuk menampilkan postingan forum yang sudah di post oleh user. caranya adalah dengan klik icon forum, maka akan tertampil postingan yang sudah dipost oleh user, user juga bisa ike post dengan klik pada icon like, dan menambahkan comment denngan klik icon comment pada postingan.",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-17T13:43:39.873333+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:42:21.349240+00:00",
+    "id": 48
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][4][d]Controller Menampilkan Comment User Pada Postingan Forum",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Controller ini berguna untuk menampilkan comment yang ditulis oleh user terhadap suatu postingan dengan cara klik pada icon comment pada post yang ada di dalam fitur forum",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-17T19:19:53.943204+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:40:43.047602+00:00",
+    "id": 50
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][2][a] Menambahkan logo dan deskripsi aplikasi pada layout about us",
+    "reporter": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      }
+    ],
+    "content": "Story: Ketika user memilih menu about us, maka user akan melihat tampilan deskripsi tentang aplikasi",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-04-09T14:41:58.660803+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:35:03.678925+00:00",
+    "id": 41
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[3][1] Rebuild App",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Pembangunan Ulang Aplikasi Farming",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-09T05:54:05.164064+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:33:40.571476+00:00",
+    "id": 39
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][f] membuat fungsionalitas new_listpanen",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "Story : fungsionalitas ini berguna untuk menambahkan list panen yang ada pada user agar user dapat membagikan pengalaman panen kepada user lainnya.",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-04-09T12:20:55.974414+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 3",
+    "updated_on": "2019-04-30T03:30:31.904767+00:00",
+    "id": 40
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Layout Artikel",
+    "reporter": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-03-19T16:49:22.444271+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:54:32.542899+00:00",
+    "id": 24
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T06:18:08.554084+00:00",
+    "voters": [],
+    "title": "[2][1] Pembuatan list / daftar form diskusi",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Membuat daftar list topik diskusi \r\n\r\nStory : user dapat membuat topik baru untuk forum diskusi dengan cara user melakukan klik menu forum kemudian klik icon button add. Aplikasi akan memunculkan jendela untuk mengisi judul (topik) dan nama user dalam bentuk free text \r\n\r\nlink mock up / attach mock up",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T12:55:20.730449+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:54:09.271629+00:00",
+    "id": 21
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][d] Pembuatan fitur penambahan list panen",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "Story : fitur ini berguna untuk menambahkan list panen untuk user agar bisa membagikan pengalaman kepada user lain dengan cara klik icon + yang ada di kanan bawah, setelah itu masukkan judul panen dan nama petani dan selanjutnya pilih OK.",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-04-02T06:51:05.591110+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:54:06.405283+00:00",
+    "id": 28
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][e] Menyambungkan fitur list panen ke firebase",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "Story : memasukkan hasil dari penambahan list panen ke firebase dengan cara setelah klik OK pada fitur list panen maka akan otomatis masuk ke firebase",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-04-02T06:53:24.594791+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:54:03.188996+00:00",
+    "id": 29
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][1][d] Menyambungkan layout chatroom dengan firebase",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "Story: Fitur ini digunakan untuk mengkoneksikan layout chatroom dengan firebase yang realtime database, agar user dapat melakukan diskusi secara realtime. Dengan cara masuk ke fitur Forum, kemudian klik list topik diskusi yang sudah ada ataupun membuat baru topik diskusi, lalu klik topik diskusi tersebut maka akan muncul jendela chatroom yang sudah terhubung dengan firebase.",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-02T07:08:04.284066+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:53:56.726311+00:00",
+    "id": 32
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T11:27:28.793717+00:00",
+    "voters": [],
+    "title": "[2][2][b] integrasi layout isi panen dengan menggunakan firebase",
+    "reporter": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      }
+    ],
+    "content": "Story: user dapat mengakses detail panen hasil dari get data pada firebase. Dimulai ketika user(petani) menginputkan topik tentang panen dengan cara mengklik button add pada tampilan listpanen. Maka topik yang ditambahkan akan terhubung dengan firebase. Ketika user ingin melihat detail panen, maka user memulai dengan menekan klik pada topik yang diinginkan, maka activity akan berpindah (intent) pada layout isi panen dan akan get data dari firebase yang sebelumnya telah ditambahkan",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-04-02T06:29:02.825643+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-25T19:53:53.552365+00:00",
+    "id": 25
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:40:43.024336+00:00",
+    "voters": [],
+    "title": "[1][6][3] Membuat fungsionalitas lupa password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah backend untuk menjalankan fitur lupa password",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-03-19T11:03:42.858860+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:45:46.658170+00:00",
+    "id": 18
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T14:52:57.779356+00:00",
+    "voters": [],
+    "title": "[1][2][d] Menyambungkan class login, register, dan lupa password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah cara untuk menyambungkan 3 class agar dapat berhubungan",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:54:31.442107+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:45:05.089424+00:00",
+    "id": 5
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:11:12.944884+00:00",
+    "voters": [],
+    "title": "[1][3][a]Pembuatan layout beranda",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "berikut adalah tampilan dari fitur home",
+    "assignee": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "created_on": "2019-03-19T10:57:38.990771+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:59.273841+00:00",
+    "id": 9
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:15:31.755246+00:00",
+    "voters": [],
+    "title": "[1][3][b]Mengkoneksikan home dengan ubah profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fitur ini adalah backend dari fitur home yang menghubungkan fitur home dan ubah profil",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:58:25.908467+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:54.030617+00:00",
+    "id": 10
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:16:55.722737+00:00",
+    "voters": [],
+    "title": "[1][4][a] Pembuatan layout ubah profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah tampilan dari fitur ubah profil",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-03-19T10:59:17.525102+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:49.016070+00:00",
+    "id": 11
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][4] Pembuatan Fitur Ubah Profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fitur ini merupakan, fitur yang dapat digunakan user untuk mengganti data yang ada pada profil user.",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-25T15:21:37.505942+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:42.641257+00:00",
+    "id": 58
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:23:17.637458+00:00",
+    "voters": [],
+    "title": "[1][4][b] Membuat fungsionalitas ubah profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah backend untuk menjalankan fitur ubah profile",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-03-19T10:59:48.176247+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:38.123667+00:00",
+    "id": 12
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:24:00.412838+00:00",
+    "voters": [],
+    "title": "[1][4][c] Menambah fungsi cancel pada fungsionalitas ubah profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah backend dari button cancel pada fitur ubah profil",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-03-19T11:00:19.135228+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:34.083247+00:00",
+    "id": 13
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:34:58.335437+00:00",
+    "voters": [],
+    "title": "[1][5][3] Menghubungkan fungsi ubah password kedalam fungsionalitas ubah profile",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah backend ubah password yang menghubungkan fitur ubah password dan ubah profile",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T11:01:59.218150+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:29.424130+00:00",
+    "id": 16
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:37:03.708637+00:00",
+    "voters": [],
+    "title": "[1][7] Pembuatan fungsionalitas navigation/side bar",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah back end untuk menjalankan fitur navigation/side bar",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T11:04:57.560410+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:24.507844+00:00",
+    "id": 20
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][6] Pembuatan Fitur Lupa Password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fitur ini dapat digunakan user pada saat user lupa passwordnya, dengan cara user memasukkan email yang didaftarkan untuk mendapatkan form ubah password lama ke password baru",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-04-25T15:38:38.060451+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:19.691576+00:00",
+    "id": 60
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:39:24.495719+00:00",
+    "voters": [],
+    "title": "[1][6][1] Membuat layout lupa password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah tampilan dari fitur lupa password",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-03-19T11:03:14.515974+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:44:13.969788+00:00",
+    "id": 17
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T14:47:29.137132+00:00",
+    "voters": [],
+    "title": "[1][2][c] Membuat controller login",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah controller login, hampir sama dengan fungsionalitas login",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:52:18.849635+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:43:02.277589+00:00",
+    "id": 4
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T14:44:51.487895+00:00",
+    "voters": [],
+    "title": "[1][2][b] Pembuatan fungsionalitas login",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fungsionalitas login adalah, sebagai back end fitur login agar fitur ini dapat berjalan fungsinya.",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:51:51.879759+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:42:58.428863+00:00",
+    "id": 3
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T14:38:37.656836+00:00",
+    "voters": [],
+    "title": "[1][2][a] Pembuatan layout Login",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Tampilan pada saat user melakukan login.",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:51:22.205847+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:42:53.897387+00:00",
+    "id": 2
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][2] Pembuatan Fitur Login",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fitur ini digunakan agar user dapat bisa mengakses fitur layanan yang disediakan farming.app",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-25T14:38:33.474946+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:42:48.556031+00:00",
+    "id": 57
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T14:32:25.295204+00:00",
+    "voters": [],
+    "title": "[1][1]Pembuatan SplashScreen",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Tampilan awal pada saat launching aplikasi, dengan cara klik shortcut aplikasi farming.app",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-03-19T10:48:40.741093+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T18:42:41.898634+00:00",
+    "id": 1
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[1][5] Pembuatan Fitur Ubah Password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Fitur ini dapat digunakan user untuk mengubah password lama dengan password baru.",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-04-25T15:31:52.793375+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T16:15:00.714066+00:00",
+    "id": 59
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:32:38.768586+00:00",
+    "voters": [],
+    "title": "[1][5][1] Membuat layout ubah password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah tampilan pada fitur ubah password",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-03-19T11:00:45.144603+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T16:14:56.226736+00:00",
+    "id": 14
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:33:18.459558+00:00",
+    "voters": [],
+    "title": "[1][5][2] Membuat fungsionalitas ubah password",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut merupakan backend dari fitur ubah password agar fitur dapat dijalankan",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-03-19T11:01:09.445284+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T16:14:50.511143+00:00",
+    "id": 15
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-25T15:41:03.327525+00:00",
+    "voters": [],
+    "title": "[1][6][2] Penambahan fungsionalitas lupa password ke firebase dan email",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Berikut adalah backend untuk menjalankan fitur lupa password agar terhubung ke firebase dan email",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-03-19T11:04:22.937538+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-25T16:14:12.915384+00:00",
+    "id": 19
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Pembuatan layout register",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-03-19T10:55:17.717806+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 1",
+    "updated_on": "2019-04-02T12:24:50.507860+00:00",
+    "id": 6
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Menyambungkan fungsionalitas register ke firebase",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-03-19T10:56:21.646070+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-04-02T12:09:45.080034+00:00",
+    "id": 8
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][1][e] Menghubungkan layout chatroom dengan layout list topik diskusi",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Story : Fungsi ini digunakan untuk perantara untuk memindahkan dari layout list topik ke layout chatroom dengan cara mengklik list topik diskusi",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-02T12:00:18.482206+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T12:00:22.514180+00:00",
+    "id": 38
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][c] menghubungkan tampilan home(panen) dengan layout isi panen",
+    "reporter": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      }
+    ],
+    "content": "story: Ketika user menginginkan untuk mengakses fitur panen, maka user akan klik tombol panen yang terdapat pada home, kemudian setelah panen di klik maka secara otomatis tampilan akan berganti dan menampilkan halaman list panen",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-04-02T11:30:20.401449+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T11:33:09.854845+00:00",
+    "id": 37
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T11:12:58.613397+00:00",
+    "voters": [],
+    "title": "[2][2][a] Front end layout isi panen",
+    "reporter": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Ayuvira Kusuma",
+        "account_id": "5c542d4dc694663913aa668e"
+      }
+    ],
+    "content": "Story : Merupakan tampilan detail ketika user ingin melihat list panen. User dapat melihat layout ini saat user melakukan klik menu panen kemudian selanjutnya klik salah satu daftar panen(topik yang ditambahkan oleh petani) dan kemudian akan menampilkan layout isi panen.\r\n\r\nlink mock up / attach mock up",
+    "assignee": {
+      "display_name": "Ayuvira Kusuma",
+      "account_id": "5c542d4dc694663913aa668e"
+    },
+    "created_on": "2019-03-19T14:41:13.038409+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T11:22:43.842125+00:00",
+    "id": 23
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][f]menyambungkan fitur home dengan fitur panen",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "story : ketika user memilih panen maka tampilan pada aplikasi akan berpindah ke dalam interface panen",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-04-02T10:47:21.451635+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T10:47:35.654345+00:00",
+    "id": 36
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][3][d] Menyambungkan layout artikel dengan layout detail artikel",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "Story: fungsi ini menyambungkan layout artikel dengan detail artikel dengan mengklik list yang artikel",
+    "assignee": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "created_on": "2019-04-02T07:14:03.187487+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:14:55.065946+00:00",
+    "id": 34
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][3][C] Menyambungkan Detail Artikel dengan Layout List Artikel",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Story : Ketika menge Klik Salah satu List Artikel maka Langsung terhubung dan muncul Layout Detail Artikelnya.",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-04-02T07:14:06.225235+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:14:42.460570+00:00",
+    "id": 35
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][1][C] Menyambungkan list forum dengan firebase",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Story: Fungsi menyambungkan list forum yang dibuat oleh user dengan database dengan cara klik pada menu Forum, kemudian klik icon add, lalu isi judul topik dan nama user, kemudian klik OK. maka akan otomatis masuk ke firebase",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-02T07:08:07.608300+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:08:27.220555+00:00",
+    "id": 33
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][2][c] Layout (front end) Pembuatan layout list panen",
+    "reporter": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Fahri Hamzalah",
+        "account_id": "5c542056a1c91017b40369bc"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Fahri Hamzalah",
+      "account_id": "5c542056a1c91017b40369bc"
+    },
+    "created_on": "2019-03-19T14:32:37.146483+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T07:01:47.272427+00:00",
+    "id": 22
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][3][b] Pembuatan Layout Detail Artikel",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ichwan Habibie",
+        "account_id": "5c54053d66bdb27a2ae917c1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Story: Layout ini memuat fungsi dari detail artikel yang disediakan melalui API web berita dengan cara klik Menu Artikel, kemudian klik salah satu artikel yang sudah disediakan, kemudian akan muncul detail dari artikel tersebut.",
+    "assignee": {
+      "display_name": "Ichwan Habibie",
+      "account_id": "5c54053d66bdb27a2ae917c1"
+    },
+    "created_on": "2019-04-02T06:59:37.287475+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T06:59:54.426080+00:00",
+    "id": 31
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][3][a] Pembuatan Layout List Artikel",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "farhan zuhdy",
+        "account_id": "5c54399854e1e6466b124cf5"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Story: Layout ini memuat fungsi dari daftar artikel yang sudah disediakan dengan cara mengambil dari API web berita.",
+    "assignee": {
+      "display_name": "farhan zuhdy",
+      "account_id": "5c54399854e1e6466b124cf5"
+    },
+    "created_on": "2019-04-02T06:56:46.843478+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T06:57:13.053261+00:00",
+    "id": 30
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": "2019-04-02T06:44:03.342613+00:00",
+    "voters": [],
+    "title": "[2][1][a] Pembuatan Layout List Chatroom",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "Story : Fitur ini dapat melakukan diskusi dengan user lain untuk mengajukan pertanyaan, maka akan muncul jendela chatroom untuk berdiskusi dengan cara masuk ke fitur Forum, lalu klik list topik diskusi maka akan muncul list chatroom dari user lain.",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-04-02T06:33:34.833400+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T06:55:11.206211+00:00",
+    "id": 26
+  },
+  {
+    "status": "closed",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "[2][1][b] Pembuatan Layout List Forum",
+    "reporter": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Tien Kusumasari",
+        "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+      },
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      }
+    ],
+    "content": "Story : Layout ini memuat fungsi dari penambah topik Forum yang dilakukan oleh user dengan cara klik pada menu Forum, kemudian klik icon Add, lalu isi Judul dan Nama user, dan Jika sudah klik OK. Topik forum tersebut akan otomatis masuk ke dalam firebase.",
+    "assignee": {
+      "display_name": "Ian Dzillan Malik",
+      "account_id": "5c531de735ef963d8b1b3207"
+    },
+    "created_on": "2019-04-02T06:48:37.815122+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": "Sprint 2",
+    "updated_on": "2019-04-02T06:53:56.959455+00:00",
+    "id": 27
+  },
+  {
+    "status": "resolved",
+    "priority": "major",
+    "kind": "task",
+    "content_updated_on": null,
+    "voters": [],
+    "title": "Pembuatan fungsionalitas register",
+    "reporter": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "component": null,
+    "watchers": [
+      {
+        "display_name": "Ian Dzillan Malik",
+        "account_id": "5c531de735ef963d8b1b3207"
+      },
+      {
+        "display_name": "Muhammad Rafidan",
+        "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+      }
+    ],
+    "content": "",
+    "assignee": {
+      "display_name": "Muhammad Rafidan",
+      "account_id": "557058:54663123-30b8-4294-b5fe-c56b236376d9"
+    },
+    "created_on": "2019-03-19T10:55:55.384308+00:00",
+    "version": null,
+    "edited_on": null,
+    "milestone": null,
+    "updated_on": "2019-03-29T16:38:56.552764+00:00",
+    "id": 7
+  }
+]

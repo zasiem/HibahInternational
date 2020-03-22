@@ -1,0 +1,179 @@
+Author,Commit,Message,Date
+M. Rozzaq Yusaliano,d97608f,M Merged in ojak (pull request #27) Integrasi Api Rating Send Feedback Detail Order Approved-by: Alif Jafar alifjafar@gmail.com,5/11/2019
+M. Rozzaq Yusaliano,6c32b21,Feedback after order completed done,5/11/2019
+M. Rozzaq Yusaliano,0af8b97,Integrasi Api Rating,5/11/2019
+Alif Jafar,e980234,enable multidex,5/11/2019
+Alif Jafar,bd6dfc9,Add Returning,4/30/2019
+Alif Jafar,99b2acb,Add Payment,4/30/2019
+Alif Jafar,7d07cb7,Add Model Order Invoice dll,4/30/2019
+Alif Jafar,5b0c119,Update Endpint Draft,4/27/2019
+Alif Jafar,90698b1,Update Language,4/27/2019
+Alif Jafar,ba84565,Update Language,4/27/2019
+Alif Jafar,4811df9,M Merge branch 'master' of bitbucket.org:rpl2019/minjemin-app,4/27/2019
+Alif Jafar,af5eea0,Update Language,4/27/2019
+Rizky Rahmat Hakiki,78210f1,M Merged in rizkyrhakiki (pull request #26) Add setting preference change language,4/27/2019
+Rizky Rahmat Hakiki,298a2ff,M fix some conflcit,4/27/2019
+Rizky Rahmat Hakiki,5ae4cd7,Add setting preference change language,4/27/2019
+Alif Jafar,e3314d5,Add Setting Preference Notification,4/27/2019
+Alif Jafar,f394ba6,Add FCM Messaging & Crashlytics,4/27/2019
+Alif Jafar,680db0a,Add FCM Messaging & Crashlytics,4/27/2019
+Alif Jafar,8c7c40f,M Fix Merge Conflict from branch alifjafar,4/23/2019
+Alif Jafar,65f6925,Resolve #20 Backend Pengembalian barang,4/23/2019
+Rizky Rahmat Hakiki,8ce22d8,M Merged in rizkyrhakiki (pull request #24) Update chat Approved-by: Alif Jafar alifjafar@gmail.com,4/23/2019
+Rizky Rahmat Hakiki,c11cb5b,M Layout Arpove Detail transkasi,4/23/2019
+Rizky Rahmat Hakiki,f5a9ca3,Update chat,4/23/2019
+Alif Jafar,112341,Fix Some Conflict,4/23/2019
+Alif Jafar,3652b2c,M Merge branch 'master' of bitbucket.org:rpl2019/minjemin-app,4/23/2019
+Rizky Rahmat Hakiki,ada5c83,M Merged in rizkyrhakiki (pull request #23) Resolved #24 pembuatan backend fungsi chat,4/23/2019
+Alif Jafar,d14c9e8,M Fix Some Conflict,4/23/2019
+Rizky Rahmat Hakiki,ceee9d9,Resolved #24 pembuatan backend fungsi chat,4/23/2019
+Alif Jafar,4fabbc5,M Fix Merge Conflict From ariefryan Branch,4/23/2019
+Alif Jafar,24f89e7,M Fix Merge Conflict From Zenitho Branch,4/23/2019
+Alif Jafar,d379b91,Resolve #19 Integrasi checkout & transaksi,4/23/2019
+Ryan Risbaya,96ca7ce,Ref #23 Profres Back End halaman feedback view,4/22/2019
+Alif Jafar,ead3edc,Change Padding Layout Item barang,4/22/2019
+firdha utami,cc44dcd,M Merged in firdha (pull request #20) Firdha Approved-by: Rizky Rahmat Hakiki rizkyrhakiki21@gmail.com,4/22/2019
+firdha utami,53430a5,resolve #22 pembuatan front end chat sudah selesai,4/22/2019
+firdha utami,8034982,resolved #22,4/22/2019
+Zenitho Madyagantang,d070a0a,Resolve #26 Front end pengembalian barang done,4/22/2019
+firdha utami,de58e7a,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into firdha,4/22/2019
+Rizky Rahmat Hakiki,1a3529b,M Merged in rizkyrhakiki (pull request #18) Rizkyrhakiki,4/22/2019
+Rizky Rahmat Hakiki,f2f614c,M merge file,4/22/2019
+Rizky Rahmat Hakiki,18748de,fix merge,4/22/2019
+danti puji yuherisna,c19053c,M Merged in dantipuji (pull request #17) Resolve #21 Layout Feedback Selesai Approved-by: Alif Jafar alifjafar@gmail.com,4/22/2019
+danti puji yuherisna,7cf46b6,Resolve #21 Layout Feedback Selesai,4/22/2019
+firdha utami,b76ebfa,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into firdha,4/22/2019
+danti puji yuherisna,d4f55fe,M Merged in dantipuji (pull request #15) Ref #21 Layout Feedback Fix,4/22/2019
+danti puji yuherisna,3347a4b,ref #21 Fix margin start margin end,4/22/2019
+Ryan Risbaya,ca7949c,M merge file,4/22/2019
+Alif Jafar,11f86e6,M Merged in alifjafar (pull request #16) Ref #20 Fix id Name layout  Bind Layout  Setup Spinner Adapter Approved-by: Alif Jafar alifjafar@gmail.com,4/19/2019
+Alif Jafar,515a64b,Refactoring Home & Fix Layout Home,4/19/2019
+Alif Jafar,c4fcd86,Refactoring Home & Fix Layout Home,4/19/2019
+Rizky Rahmat Hakiki,762b6c0,Ref #24 Penambahan item chat,4/16/2019
+Rizky Rahmat Hakiki,d498fb5,Penambahan item dan fragment chat,4/16/2019
+danti puji yuherisna,69b9052,Ref #21 Layout Feedback Fix,4/15/2019
+Alif Jafar,cd425ac,Ref #20 Setup Spinner Adapter,4/14/2019
+Alif Jafar,4bf384f,Ref #20 Fix id Name layout  Bind Layout,4/14/2019
+Alif Jafar,0118a3a,M Merged in alifjafar (pull request #14) Ref #20 Create ViewModel Pengembalian Barang,4/14/2019
+Alif Jafar,f39c2ce,M Merged in zenithomh (pull request #13) #25 layout pengembalian barang,4/14/2019
+M. Rozzaq Yusaliano,9028912,M Merged in ojak (pull request #12) Ref #21 Fix layout feedback dan toolbar,4/14/2019
+M. Rozzaq Yusaliano,9210083,Pembuatan Layout Tagihan (Placeholder),4/11/2019
+M. Rozzaq Yusaliano,3545daf,Pembuatan Layout peminjaman,4/11/2019
+M. Rozzaq Yusaliano,d568dfe,M Fix feedback layout dan set toolbar,4/11/2019
+Zenitho Madyagantang,c551204,layout pengembalian barang,4/9/2019
+Rizky Rahmat Hakiki,3cdbfbd,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into rizkyrhakiki,4/9/2019
+Rizky Rahmat Hakiki,faa7210,M Ref #24 menambahkan models untuk fungsi chat,4/9/2019
+Ryan Risbaya,23243be,M Ref #23 Back end halaman feedback view,4/9/2019
+firdha utami,8e24bfc,ref #22 membuat tampilan daftar chat,4/9/2019
+danti puji yuherisna,b202597,Ref #21 Layout feedback and rating,4/9/2019
+Alif Jafar,10044d2,Ref #20 Create ViewModel Pengembalian Barang,4/9/2019
+Alif Jafar,78a4705,Resolve #8 Register,4/4/2019
+Rizky Rahmat Hakiki,c9ce6a4,fix fungsi dan layout,4/2/2019
+Alif Jafar,2a387b3,M Merged from danti,4/2/2019
+Danti Puji Yuherisna,e6793db,Resolve #18 Back-end Filtering / Searching Data,4/2/2019
+Rizky Rahmat Hakiki,2cd951a,penambahan fungsi checkout,4/2/2019
+Alif Jafar,70a0835,Searchview,4/2/2019
+Rizky Rahmat Hakiki,111a8e0,M Merged in rizkyrhakiki (pull request #9) Backend (date picker) Chekout Approved-by: Alif Jafar alifjafar@gmail.com,4/2/2019
+Rizky Rahmat Hakiki,9efcb1a,M backend checkout,4/2/2019
+firdha utami,d276f56,M Merged in firdha (pull request #8) Ref #10 Layout filtering/Searching barang Approved-by: Alif Jafar alifjafar@gmail.com,4/2/2019
+Rizky Rahmat Hakiki,4d1569f,fix layout checkout,4/2/2019
+Alif Jafar,f628b53,Set Transaksi,4/2/2019
+Alif Jafar,ae63bbb,Ref #9 Backend Detail Item,4/2/2019
+Alif Jafar,c72b772,M Merged from Rizky,4/2/2019
+Alif Jafar,e8014f2,M Merge remote-tracking branch 'origin/master',4/2/2019
+Alif Jafar,7e149d5,Ref #9 Fix Layout Detail Item,4/2/2019
+Rizky Rahmat Hakiki,ad323ee,ref #14 perbaikan nav tab checkout,4/1/2019
+firdha utami,fb804ce,M Merged in firdha (pull request #6) layout filtering dan searching barang,4/1/2019
+Alif Jafar,2f1ac58,M Merge from zenitho,4/1/2019
+Alif Jafar,1f117cc,M Merge from Ryan,4/1/2019
+firdha utami,75ae120,Ref 10 layout filtering/searching,4/1/2019
+danti puji yuherisna,3c6616d,M Merged in dantipuji (pull request #3) Ref #11 Fragment Transaksi Approved-by: Alif Jafar alifjafar@gmail.com,4/1/2019
+Zenitho Madyagantang,c332380,Ref #14 Meneruskan layout checkout,4/1/2019
+firdha utami,0e39df1,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into firdha,4/1/2019
+Ryan Risbaya,3059733,Ref #11 Tampilan item barang tagihan,4/1/2019
+danti puji yuherisna,839d33a,Ref #11 Fragment Transaksi,4/1/2019
+Ryan Risbaya,ea7a6a0,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into ariefryan,4/1/2019
+Rizky Rahmat Hakiki,d877a9b,New Branch Rizky,4/1/2019
+Alif Jafar,84017a1,M Merge branch 'zenithomh' of bitbucket.org:rpl2019/minjemin-app into alifjafar,4/1/2019
+Zenitho Madyagantang,3c6a02b,memperbaiki resource file error,4/1/2019
+Ryan Risbaya,b80d56e,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into ariefryan,4/1/2019
+danti puji yuherisna,bbe5cb5,M Merged in dantipuji (pull request #2) Merge Layout Transaksi Peminjaman Approved-by: Alif Jafar alifjafar@gmail.com,4/1/2019
+danti puji yuherisna,6ec635b,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app into dantipuji,4/1/2019
+danti puji yuherisna,6b7e2ed,Ref #11 Layout Transaksi Peminjaman & ViewPager,4/1/2019
+Alif Jafar,1d03594,M Merged in alifjafar (pull request #1) Merge branch alifjafar to master Approved-by: Alif Jafar alifjafar@gmail.com,4/1/2019
+Ryan Risbaya,827b9e6,branch ryan,4/1/2019
+firdha utami,99a8992,Branch baru firdha,4/1/2019
+danti puji yuherisna,62f90b6,Branch baru punya Danti,4/1/2019
+Alif Jafar,3ed71c9,M Merge branch 'master' of bitbucket.org:rpl2019/minjemin-app into alifjafar Conflicts: app/src/main/AndroidManifest.xml,4/1/2019
+Rizky Rahmat Hakiki,8c491bc,Ref #14 Menambah fragment pembayaran,3/26/2019
+Alif Jafar,9053f20,Ref #9 Request Api Single Item (Peminjaman barang),3/26/2019
+Ryan Risbaya,7b2b3d4,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app,3/26/2019
+Ryan Risbaya,9229f4f,Ref #11 Merapihkan layout halaman transaksi peminjaman,3/26/2019
+Zenitho Madyagantang,dea811c,Ref #16 layout checkout,3/26/2019
+firdha utami,1790070,Ref #10 Layout filtering/searching,3/26/2019
+danti puji yuherisna,1bbb82e,Ref #11 Merapihkan front end halaman transaksi tagihan,3/25/2019
+Rizky Rahmat Hakiki,955d897,M Ref #14 Fragment Detail Peminjaman,3/19/2019
+Rizky Rahmat Hakiki,fe207f0,Ref #14 Fragment Detail Peminjaman,3/19/2019
+danti puji yuherisna,9a5b857,Progress tampilan transaksi Peminjaman,3/19/2019
+Rizky Rahmat Hakiki,57a1140,Ref #14 Add navigation tab for chekcout + perbaiki error gradle dan manifest,3/19/2019
+Ryan Risbaya,2932d9f,M Progress tampilan transaction,3/19/2019
+Ryan Risbaya,011b738,Progress tampilan transaction,3/19/2019
+Zenitho Madyagantang,a39d13a,checkout git commit -m checkout ',3/19/2019
+firdha utami,80842d0,M Merge remote-tracking branch 'origin/master',3/19/2019
+firdha utami,52c0020,create filter/search button,3/19/2019
+Alif Jafar,81ec764,Ref #9 Detail Item Peminjaman Layout,3/19/2019
+Alif Jafar,49fbe1e,Fix getItemCount BaseRecycleAdapter,3/19/2019
+Alif Jafar,1e67b8c,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app,3/19/2019
+Alif Jafar,e51c8b2,Fix Validation Register,3/19/2019
+Rizky Rahmat Hakiki,2607ad9,Ref #1 Tambah Notifikasi,3/19/2019
+Ryan Risbaya,e940b7e,Resolve #6 Update Home,3/18/2019
+Rizky Rahmat Hakiki,05bcd9f,M Merge branch 'master' of bitbucket.org:rpl2019/minjemin-app,3/18/2019
+Rizky Rahmat Hakiki,7d6bbcb,M Ref #1 Update Profile & Update Foto Profil,3/18/2019
+Rizky Rahmat Hakiki,6714a40,Ref #1 Tambah Verifikasi akun,3/18/2019
+Alif Jafar,ce31808,Profile Update,3/18/2019
+Zenitho Madyagantang,f55daa8,Ref #6 Mengambil Data dari Api untuk home,3/18/2019
+Alif Jafar,93ca8a4,Resolve #2 CRUD Barang Done,3/17/2019
+Alif Jafar,b54e719,Fix Change Password,3/17/2019
+Alif Jafar,98e19c0,M Merge to Maste,3/15/2019
+Alif Jafar,d748623,Ref #2 Read Published & Draft Item,3/14/2019
+Alif Jafar,f1a5add,Ref #2 Success Add Item/Barang,3/12/2019
+Alif Jafar,8b80c44,Ref #2 Upload Image Item,3/10/2019
+Rizky Rahmat Hakiki,123d9df,Ref #1 Add some feature for kelola profile: edit profile  change password  change address,3/10/2019
+Alif Jafar,e35dfa6,Add Glide Image Processing,3/9/2019
+Alif Jafar,9e4dd72,Update Avatar Profile,3/9/2019
+Alif Jafar,91e3713,Ref #2 Request Category,3/8/2019
+Alif Jafar,acc303c,Ref #2 Add BottomSheet for Category (Create Item),3/8/2019
+Alif Jafar,9d43674,Migrate ForgotPassword & SplashScreen AndroidX,3/8/2019
+Alif Jafar,8ef78c8,Major Update Migrate to AndroidX (Pattern MVVM),3/7/2019
+Zenitho Madyagantang,3a69638,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app,3/4/2019
+Zenitho Madyagantang,047d3d8,Ref #6 update tampilan utama,3/4/2019
+Ryan Risbaya,4114489,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app,3/3/2019
+Alif Jafar,6156148,Ref #2 Create Item / Barang,3/3/2019
+Ryan Risbaya,dd5dba6,Ref #5 menambahkan fungsi backend home,3/3/2019
+Alif Jafar,65f9541,Ref #2 Create Item / Barang,3/3/2019
+Rizky Rahmat Hakiki,4dd890a,Ref#1 Update kelola profile,3/3/2019
+danti puji yuherisna,119d15f,Layout Kelola Profile,2/28/2019
+Ryan Risbaya,f2df59f,Ref #5 salah ref  maksudnya 5 bukan 3,2/25/2019
+Ryan Risbaya,6bc389d,Ref #3 Lupa membuat Issues,2/25/2019
+Alif Jafar,53becee,Add .idea/misc.xml to gitignore,2/25/2019
+Alif Jafar,20ab879,Add .idea/misc.xml to gitignore,2/25/2019
+Alif Jafar,4924ebb,Add .idea/misc.xml to gitignore,2/25/2019
+Alif Jafar,b8957b4,Add .idea/misc.xml to gitignore,2/25/2019
+Alif Jafar,c6392eb,M Merge branch 'master' of bitbucket.org:rpl2019/minjemin-app Conflicts: .idea/misc.xml,2/25/2019
+Alif Jafar,71d647b,Ref #2 Layout Vendor (CRUD),2/25/2019
+Ryan Risbaya,7a46000,M Layout Home,2/25/2019
+Ryan Risbaya,40bc0d2,Tampilan layout home,2/25/2019
+danti puji yuherisna,29443fd,M Merge branch 'master' of https://bitbucket.org/rpl2019/minjemin-app Conflicts: .idea/misc.xml,2/25/2019
+danti puji yuherisna,28bc0fd,Gambaran Layout Kelola Profile,2/25/2019
+Alif Jafar,5788b72,Update Minor Intent to Forget Password,2/25/2019
+firdha utami,aebecda,Resolve #3 Forgot Password,2/25/2019
+Rizky Rahmat Hakiki,2.91E+20,sebagian layout tampilan utama,2/22/2019
+Rizky Rahmat Hakiki,61f4c22,Perapihan minor layout login  register  splash  dan lupa password,2/20/2019
+Alif Jafar,564f525,Login via Google,2/19/2019
+Alif Jafar,3278966,M Merge remote-tracking branch 'origin/master' Conflicts: .idea/misc.xml app/src/main/java/com/minjemin/app/Activity/LoginActivity.java app/src/main/java/com/minjemin/app/Activity/SplashActivity.java,2/19/2019
+Alif Jafar,816fd96,Login via Google,2/19/2019
+Zenitho Madyagantang,254e9ef,Layout lupa password,2/18/2019
+Rizky Rahmat Hakiki,79aa266,Redesign login done  register still progress,2/13/2019
+Alif Jafar,cccd2fd,Remove Minjemin.zip,2/13/2019
+Alif Jafar,79db77c,Old App,2/13/2019
+Alif Jafar,bdaa670,Old App,2/13/2019

@@ -1,0 +1,902 @@
+﻿[
+  {
+    "comment": 51210000,
+    "changed_to": "(1),(1) Membuat Logo Sport Loka",
+    "field": "title",
+    "created_on": "2019-03-19T05:04:04.871725+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 1,
+    "changed_from": "Membuat Logo Sport Loka"
+  },
+  {
+    "comment": 51210024,
+    "changed_to": "(1),(2) Membuat Front-End fitur sign-in sign-up",
+    "field": "title",
+    "created_on": "2019-03-19T05:05:54.892747+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 4,
+    "changed_from": "Membuat layout fitur sign-in (2) (4)"
+  },
+  {
+    "comment": 51210055,
+    "changed_to": "(1),(3)Membuat back-end untuk sign-in sign-up",
+    "field": "title",
+    "created_on": "2019-03-19T05:09:10.298481+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 2,
+    "changed_from": "Membuat back-end untuk sign-in  (1) (5)"
+  },
+  {
+    "comment": 51210055,
+    "changed_to": "Membuat koneksi sing-in & signup ke firebase",
+    "field": "content",
+    "created_on": "2019-03-19T05:09:10.294322+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 2,
+    "changed_from": "Merancang back-end dari sign in aplikasi sportloka"
+  },
+  {
+    "comment": 51210066,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T05:10:44.607498+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 5,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51210069,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T05:11:02.177632+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 4,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51210072,
+    "changed_to": "(1),(4)Membuat back-end untuk sign-in sign-up",
+    "field": "title",
+    "created_on": "2019-03-19T05:11:26.228833+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 2,
+    "changed_from": "(1),(3)Membuat back-end untuk sign-in sign-up"
+  },
+  {
+    "comment": 51210076,
+    "changed_to": "(1),(4)Membuat back-end untuk fitur sign-up",
+    "field": "title",
+    "created_on": "2019-03-19T05:11:45.009809+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 3,
+    "changed_from": "Membuat back-end untuk fitur sign-up (5) (5)"
+  },
+  {
+    "comment": 51210090,
+    "changed_to": "AtikaRahmawatiHusna",
+    "field": "responsible",
+    "created_on": "2019-03-19T05:13:02.995642+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 4,
+    "changed_from": ""
+  },
+  {
+    "comment": 51210104,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-19T05:14:19.761578+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 6,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51210104,
+    "changed_to": "minor",
+    "field": "priority",
+    "created_on": "2019-03-19T05:14:19.757444+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 6,
+    "changed_from": "major"
+  },
+  {
+    "comment": 51210116,
+    "changed_to": "hakimkim",
+    "field": "responsible",
+    "created_on": "2019-03-19T05:14:58.845071+00:00",
+    "user": {
+      "display_name": "atika rahmawatihusna",
+      "account_id": "5c5405a4cc3a1d3d8a2c162a"
+    },
+    "issue": 6,
+    "changed_from": ""
+  },
+  {
+    "comment": 51391193,
+    "changed_to": "disini saya mengubah tampilan login, serta implementasi sdk untuk API Facebook",
+    "field": "content",
+    "created_on": "2019-03-29T08:48:35.445272+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "disini saya mengubah tampilan login, karena mempertimbangkan warna agar lebih enak dilihat"
+  },
+  {
+    "comment": 51391216,
+    "changed_to": "task",
+    "field": "kind",
+    "created_on": "2019-03-29T08:50:09.083363+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "bug"
+  },
+  {
+    "comment": 51419894,
+    "changed_to": "(1),(1) Membuat Front end signin & signup",
+    "field": "title",
+    "created_on": "2019-04-01T06:37:31.451803+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 1,
+    "changed_from": "(1),(1) Membuat Logo Sport Loka"
+  },
+  {
+    "comment": 51419894,
+    "changed_to": "Membuat Front end signin & signup",
+    "field": "content",
+    "created_on": "2019-04-01T06:37:31.445304+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 1,
+    "changed_from": "Membuat design untuk logo aplikasi sportloka"
+  },
+  {
+    "comment": 51419918,
+    "changed_to": "(1),(1) Membuat tampilan splash screen",
+    "field": "title",
+    "created_on": "2019-04-01T06:39:30.730306+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 1,
+    "changed_from": "(1),(1) Membuat Front end signin & signup"
+  },
+  {
+    "comment": 51419941,
+    "changed_to": "(1),(2) Membuat Front-End fitur sign-in dan sign-up",
+    "field": "title",
+    "created_on": "2019-04-01T06:40:48.393854+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 5,
+    "changed_from": "(1),(2) Membuat Front-End fitur sign-in sign-up"
+  },
+  {
+    "comment": 51419941,
+    "changed_to": "Membuat Front-End sign in dan signup",
+    "field": "content",
+    "created_on": "2019-04-01T06:40:48.382922+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 5,
+    "changed_from": "Membuat Front-End signup"
+  },
+  {
+    "comment": 51419956,
+    "changed_to": "(1),(3) Membuat back-end fiture sign-in & sign-up",
+    "field": "title",
+    "created_on": "2019-04-01T06:41:43.786715+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 2,
+    "changed_from": "(1),(4)Membuat back-end untuk sign-in sign-up"
+  },
+  {
+    "comment": 51419978,
+    "changed_to": "(1),(4) Membuat Front-End Fitur bottom navigation",
+    "field": "title",
+    "created_on": "2019-04-01T06:43:52.222798+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 3,
+    "changed_from": "(1),(4)Membuat back-end untuk fitur sign-up"
+  },
+  {
+    "comment": 51419978,
+    "changed_to": "veraadelia",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:43:52.219066+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 3,
+    "changed_from": "ganarnugraha"
+  },
+  {
+    "comment": 51419978,
+    "changed_to": "membuat bottom nav histories, home, dan profile",
+    "field": "content",
+    "created_on": "2019-04-01T06:43:52.213298+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 3,
+    "changed_from": "Merancang serta membuat back-end fitur sign-up"
+  },
+  {
+    "comment": 51420012,
+    "changed_to": "(1),(5) Membuat front-end Fitur kategori lapangan olahraga",
+    "field": "title",
+    "created_on": "2019-04-01T06:45:57.881227+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 4,
+    "changed_from": "(1),(2) Membuat Front-End fitur sign-in sign-up"
+  },
+  {
+    "comment": 51420012,
+    "changed_to": "ganarnugraha",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:45:57.878013+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 4,
+    "changed_from": "AtikaRahmawatiHusna"
+  },
+  {
+    "comment": 51420022,
+    "changed_to": "(1),(6) Membuat back-end Fitur kategori lapangan",
+    "field": "title",
+    "created_on": "2019-04-01T06:46:46.022450+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 6,
+    "changed_from": "(1),(3) Membuat Design Splash Screen"
+  },
+  {
+    "comment": 51420022,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-01T06:46:46.017449+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 6,
+    "changed_from": "Membuat Design Splash Screen"
+  },
+  {
+    "comment": 51420031,
+    "changed_to": "(1),(7) Membuat front-end recommended lapangan olahraga",
+    "field": "title",
+    "created_on": "2019-04-01T06:47:42.136223+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 7,
+    "changed_from": "(1),(6) Membuat Front-End Fitur pilih kategori olahraga"
+  },
+  {
+    "comment": 51420031,
+    "changed_to": "hakimkim",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:47:42.130390+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 7,
+    "changed_from": "veraadelia"
+  },
+  {
+    "comment": 51420046,
+    "changed_to": "(1),(8) Membuat Front-End pilihan lapangan olahraga sesuai kategori",
+    "field": "title",
+    "created_on": "2019-04-01T06:48:44.939626+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 8,
+    "changed_from": "(1),(7) Membuat Fitur API Connect Email Google"
+  },
+  {
+    "comment": 51420052,
+    "changed_to": "(1),(9) Membuat back end lapangan olahraga sesuai kategori",
+    "field": "title",
+    "created_on": "2019-04-01T06:49:19.034133+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 9,
+    "changed_from": "(1),(8) Membuat Back-End Fitur Kategori Lapangan"
+  },
+  {
+    "comment": 51420060,
+    "changed_to": "(1),(10) Membuat front-end detail lapangan olahraga",
+    "field": "title",
+    "created_on": "2019-04-01T06:50:17.114893+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 10,
+    "changed_from": "(1),(8) Membuat Back-End Fitur kategori Lapangan"
+  },
+  {
+    "comment": 51420060,
+    "changed_to": "ganarnugraha",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:50:17.098211+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 10,
+    "changed_from": "azollad"
+  },
+  {
+    "comment": 51420088,
+    "changed_to": "(1), (11) Membuat back end fitur booking lapangan olahraga",
+    "field": "title",
+    "created_on": "2019-04-01T06:51:48.467615+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 11,
+    "changed_from": "(1),(9) Membuat Front-End Lapangan"
+  },
+  {
+    "comment": 51420113,
+    "changed_to": "(1),(12) Membuat fitur API connect email google & facebook",
+    "field": "title",
+    "created_on": "2019-04-01T06:52:59.049799+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 12,
+    "changed_from": "(1),(10) Membuat Front-End Deskripsi Detail Lapangan"
+  },
+  {
+    "comment": 51420113,
+    "changed_to": "rinaldyjs",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:52:59.045596+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 12,
+    "changed_from": "hakimkim"
+  },
+  {
+    "comment": 51420117,
+    "changed_to": "SP1",
+    "field": "milestone",
+    "created_on": "2019-04-01T06:53:29.429796+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 4,
+    "changed_from": ""
+  },
+  {
+    "comment": 51420130,
+    "changed_to": "SP1",
+    "field": "milestone",
+    "created_on": "2019-04-01T06:54:02.073071+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 6,
+    "changed_from": ""
+  },
+  {
+    "comment": 51420206,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-01T06:59:03.767911+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "SP1"
+  },
+  {
+    "comment": 51420206,
+    "changed_to": "ganarnugraha",
+    "field": "responsible",
+    "created_on": "2019-04-01T06:59:03.764292+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "veraadelia"
+  },
+  {
+    "comment": 51420206,
+    "changed_to": "(2),(1) Membuat Front-End detail lapangan",
+    "field": "title",
+    "created_on": "2019-04-01T06:59:03.760333+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "change UI Login + Implemen Facebook SDK"
+  },
+  {
+    "comment": 51420206,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-01T06:59:03.756666+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 26,
+    "changed_from": "disini saya mengubah tampilan login, serta implementasi sdk untuk API Facebook"
+  },
+  {
+    "comment": 51420219,
+    "changed_to": "(2),(2) Membuat backend detail lapangan",
+    "field": "title",
+    "created_on": "2019-04-01T06:59:36.414415+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 25,
+    "changed_from": "(2), (14) Membuat tampilan Konfirmasi booking"
+  },
+  {
+    "comment": 51420219,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-01T06:59:36.410968+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 25,
+    "changed_from": "Menampilkan durasi booking lapangan pada saat ingin digunakan"
+  },
+  {
+    "comment": 51420254,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-01T07:00:52.198568+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 14,
+    "changed_from": "SP1"
+  },
+  {
+    "comment": 51420254,
+    "changed_to": "azollad",
+    "field": "responsible",
+    "created_on": "2019-04-01T07:00:52.194291+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 14,
+    "changed_from": "veraadelia"
+  },
+  {
+    "comment": 51420254,
+    "changed_to": "(2),(3) Membuat schedule picker booking lapangan",
+    "field": "title",
+    "created_on": "2019-04-01T07:00:52.186450+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 14,
+    "changed_from": "(1),(12) Membuat Back-End Fitur Tampilan Lapangan"
+  },
+  {
+    "comment": 51420271,
+    "changed_to": "(2), (4) Membuat front end Konfirmasi booking",
+    "field": "title",
+    "created_on": "2019-04-01T07:01:48.279172+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 24,
+    "changed_from": "(2), (13) Penambahan tampilan status booking failed"
+  },
+  {
+    "comment": 51420271,
+    "changed_to": "AtikaRahmawatiHusna",
+    "field": "responsible",
+    "created_on": "2019-04-01T07:01:48.276012+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 24,
+    "changed_from": "hakimkim"
+  },
+  {
+    "comment": 51420271,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-01T07:01:48.271565+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 24,
+    "changed_from": "Penambahan tampilan status booking failed, pada fitur booking lapangan"
+  },
+  {
+    "comment": 51420301,
+    "changed_to": "SP2",
+    "field": "milestone",
+    "created_on": "2019-04-01T07:03:14.532305+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 15,
+    "changed_from": "SP1"
+  },
+  {
+    "comment": 51420301,
+    "changed_to": "(2),(5) Membuat Back-End konfirmasi booking",
+    "field": "title",
+    "created_on": "2019-04-01T07:03:14.529006+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 15,
+    "changed_from": "(1),(13) Membuat View List Rating Lapangan"
+  },
+  {
+    "comment": 51420340,
+    "changed_to": "(2),(6) Membuat front-end notifikasi histories booking",
+    "field": "title",
+    "created_on": "2019-04-01T07:04:48.317628+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 16,
+    "changed_from": "(2),(1) Membuat Front-End sudah di booking"
+  },
+  {
+    "comment": 51420340,
+    "changed_to": "hakimkim",
+    "field": "responsible",
+    "created_on": "2019-04-01T07:04:48.308528+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 16,
+    "changed_from": "ganarnugraha"
+  },
+  {
+    "comment": 51420340,
+    "changed_to": "",
+    "field": "content",
+    "created_on": "2019-04-01T07:04:48.303283+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 16,
+    "changed_from": "Issue ini dipindah ke sprint 2"
+  },
+  {
+    "comment": 51429473,
+    "changed_to": "major",
+    "field": "priority",
+    "created_on": "2019-04-01T15:08:12.050221+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 12,
+    "changed_from": "minor"
+  },
+  {
+    "comment": 51437568,
+    "changed_to": "Menampilkan foto lapangan beserta rating lapangan dan alamat serta map lapangan, price, dan jadwal \r\n\r\nStory : user dapat melakukan klik gambar lapangan kemudian aplikasi akan menampilkan detail lapangan beserta keterangan nya \r\n\r\nlink mock up",
+    "field": "content",
+    "created_on": "2019-04-02T04:35:30.927313+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 26,
+    "changed_from": ""
+  },
+  {
+    "comment": 51437621,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:41:09.848781+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 26,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437644,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:44:08.481501+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 25,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437664,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:46:50.624280+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 14,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437672,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:48:18.153274+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 24,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437676,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:48:36.398326+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 15,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51437690,
+    "changed_to": "wontfix",
+    "field": "status",
+    "created_on": "2019-04-02T04:50:09.783477+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 15,
+    "changed_from": "closed"
+  },
+  {
+    "comment": 51437692,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-02T04:51:06.920303+00:00",
+    "user": {
+      "display_name": "Tien Kusumasari",
+      "account_id": "557058:4bc04a1d-46f0-47a6-9496-106d2f0c5fa1"
+    },
+    "issue": 27,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51798540,
+    "changed_to": "(3), (4) Fitur history Booking",
+    "field": "title",
+    "created_on": "2019-04-25T04:56:51.537676+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 31,
+    "changed_from": "(3), (4) Membuat UI history Booking"
+  },
+  {
+    "comment": 51798556,
+    "changed_to": "Menampilkan detail boking yang sudah berhasil. di dalamnya juga terdapat fitur cancle booking\r\n\r\nHistory : User pilih history booking, pilih notifikasi yang masuk, melihat detal booking, dapat melakukan cancle booking dengan klik tombol cancle\r\n\r\nkemudian disini juga user dapat memmberikan rating untuk lapangan",
+    "field": "content",
+    "created_on": "2019-04-25T04:58:35.076207+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 32,
+    "changed_from": "Menampilkan detail boking yang sudah berhasil. di dalamnya juga terdapat fitur cancle booking\r\n\r\nHistory : User pilih history booking, pilih notifikasi yang masuk, melihat detal booking, dapat melakukan cancle booking dengan klik tombol cancle"
+  },
+  {
+    "comment": 51798568,
+    "changed_to": "SP3",
+    "field": "milestone",
+    "created_on": "2019-04-25T05:00:11.903121+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 33,
+    "changed_from": ""
+  },
+  {
+    "comment": 51798588,
+    "changed_to": "azollad",
+    "field": "responsible",
+    "created_on": "2019-04-25T05:02:41.428658+00:00",
+    "user": {
+      "display_name": "Vera Adelia",
+      "account_id": "5c5408c2e773004ed20fba9b"
+    },
+    "issue": 29,
+    "changed_from": "ganarnugraha"
+  },
+  {
+    "comment": 51887133,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:23:51.276088+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 31,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887148,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:26:27.860918+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 32,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887153,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:27:06.797396+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 33,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887162,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:28:28.892256+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 30,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887165,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:28:52.335532+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 28,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887175,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:30:09.116658+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 29,
+    "changed_from": "new"
+  },
+  {
+    "comment": 51887189,
+    "changed_to": "closed",
+    "field": "status",
+    "created_on": "2019-04-30T05:31:36.067617+00:00",
+    "user": {
+      "display_name": "ekky novriza alam",
+      "account_id": "557058:63167c9a-a2e2-4e16-8016-f3d3c1148c52"
+    },
+    "issue": 16,
+    "changed_from": "new"
+  }
+]

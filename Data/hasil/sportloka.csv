@@ -1,0 +1,133 @@
+Case ID,Timestamp,Activity,Resource
+1,2019-02-22 00:00:00+00:00,Implement task,Naufal Al Hakim
+5,2019-02-22 00:00:00+00:00,Implement task,Vera Adelia
+2,2019-02-22 00:00:00+00:00,Implement task,rinaldy js
+2,2019-02-22 00:00:00+00:00,Implement task,rinaldy js
+2,2019-02-22 00:00:00+00:00,Implement task,rinaldy js
+2,2019-02-25 00:00:00+00:00,Implement task,rinaldy js
+2,2019-02-25 00:00:00+00:00,Implement task,rinaldy js
+5,2019-02-25 00:00:00+00:00,Implement task,Vera Adelia
+5,2019-02-25 00:00:00+00:00,Implement task,atika rahmawatihusna
+5,2019-02-27 00:00:00+00:00,Implement task,atika rahmawatihusna
+14,2019-02-28 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+2,2019-03-01 00:00:00+00:00,Implement task,rinaldy js
+11,2019-03-01 00:00:00+00:00,Implement task,Ganar Nugraha
+14,2019-03-02 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+14,2019-03-02 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+6,2019-03-02 00:00:00+00:00,Implement task,Naufal Al Hakim
+4,2019-03-02 00:00:00+00:00,Implement task,Ganar Nugraha
+8,2019-03-06 00:00:00+00:00,Implement task,rinaldy js
+3,2019-03-18 00:00:00+00:00,Implement task,Vera Adelia
+18,2019-03-19 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+17,2019-03-19 00:00:00+00:00,Implement task,Naufal Al Hakim
+17,2019-03-19 00:00:00+00:00,Implement task,Naufal Al Hakim
+19,2019-03-19 00:00:00+00:00,Implement task,Vera Adelia
+20,2019-03-19 00:00:00+00:00,Implement task,atika rahmawatihusna
+1,2019-03-19 04:15:39.523290+00:00,Open,Naufal Al Hakim
+2,2019-03-19 04:22:12.705648+00:00,Open,rinaldy js
+3,2019-03-19 04:23:46.987338+00:00,Open,Vera Adelia
+4,2019-03-19 04:24:17.946947+00:00,Open,Ganar Nugraha
+5,2019-03-19 05:07:31.267203+00:00,Open,Vera Adelia
+6,2019-03-19 05:13:53.969438+00:00,Open,Naufal Al Hakim
+7,2019-03-19 05:22:27.030389+00:00,Open,Naufal Al Hakim
+8,2019-03-19 05:24:36.508410+00:00,Open,rinaldy js
+9,2019-03-19 05:26:10.559572+00:00,Open,rinaldy js
+10,2019-03-19 05:28:31.380015+00:00,Open,Ganar Nugraha
+11,2019-03-19 05:30:48.603849+00:00,Open,Ganar Nugraha
+12,2019-03-19 05:32:32.213898+00:00,Open,rinaldy js
+14,2019-03-19 05:34:41.983799+00:00,Open,Azolla Dhigo Prasetya
+15,2019-03-19 05:35:33.189279+00:00,Open,atika rahmawatihusna
+16,2019-03-19 05:37:14.162544+00:00,Open,Naufal Al Hakim
+21,2019-03-20 00:00:00+00:00,Implement task,Ganar Nugraha
+22,2019-03-25 00:00:00+00:00,Implement task,rinaldy js
+23,2019-03-25 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+19,2019-03-26 00:00:00+00:00,Implement task,Vera Adelia
+25,2019-03-26 00:00:00+00:00,Implement task,atika rahmawatihusna
+24,2019-03-26 00:00:00+00:00,Implement task,Naufal Al Hakim
+24,2019-03-26 10:19:11.124112+00:00,Open,atika rahmawatihusna
+25,2019-03-26 11:36:30.329794+00:00,Open,atika rahmawatihusna
+6,2019-03-28 00:00:00+00:00,Implement task,Vera Adelia
+26,2019-03-29 08:46:55.761157+00:00,Open,Ganar Nugraha
+3,2019-04-01 00:00:00+00:00,Implement task,Vera Adelia
+12,2019-04-01 00:00:00+00:00,Implement task,Vera Adelia
+27,2019-04-01 15:06:47.711371+00:00,Open,atika rahmawatihusna
+2,2019-04-02 00:00:00+00:00,Implement task,atika rahmawatihusna
+12,2019-04-02 00:00:00+00:00,Implement task,rinaldy js
+14,2019-04-02 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+28,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+10,2019-04-02 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+10,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+24,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+24,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+12,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+12,2019-04-02 00:00:00+00:00,Implement task,atika rahmawatihusna
+7,2019-04-02 00:00:00+00:00,Implement task,Naufal Al Hakim
+2,2019-04-02 00:00:00+00:00,Implement task,atika rahmawatihusna
+31,2019-04-02 00:00:00+00:00,Implement task,atika rahmawatihusna
+27,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+16,2019-04-02 00:00:00+00:00,Implement task,Naufal Al Hakim
+27,2019-04-02 00:00:00+00:00,Implement task,Vera Adelia
+27,2019-04-02 00:00:00+00:00,Implement task,Ganar Nugraha
+12,2019-04-02 00:00:00+00:00,Implement task,rinaldy js
+27,2019-04-02 00:00:00+00:00,Implement task,Naufal Al Hakim
+27,2019-04-02 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+26,2019-04-02 04:41:09.848781+00:00,Closed,Tien Kusumasari
+25,2019-04-02 04:44:08.481501+00:00,Closed,Tien Kusumasari
+14,2019-04-02 04:46:50.624280+00:00,Closed,Tien Kusumasari
+24,2019-04-02 04:48:18.153274+00:00,Closed,Tien Kusumasari
+15,2019-04-02 04:48:36.398326+00:00,Closed,Tien Kusumasari
+15,2019-04-02 04:50:09.783477+00:00,Wontfix,Tien Kusumasari
+27,2019-04-02 04:51:06.920303+00:00,Closed,Tien Kusumasari
+12,2019-04-03 00:00:00+00:00,Implement task,Vera Adelia
+12,2019-04-03 00:00:00+00:00,Implement task,Vera Adelia
+12,2019-04-03 00:00:00+00:00,Implement task,Vera Adelia
+30,2019-04-03 00:00:00+00:00,Implement task,Vera Adelia
+31,2019-04-03 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+25,2019-04-03 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+14,2019-04-03 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+28,2019-04-05 00:00:00+00:00,Implement task,Ganar Nugraha
+30,2019-04-05 00:00:00+00:00,Implement task,Naufal Al Hakim
+29,2019-04-05 00:00:00+00:00,Implement task,Ganar Nugraha
+33,2019-04-06 00:00:00+00:00,Implement task,rinaldy js
+11,2019-04-06 00:00:00+00:00,Implement task,Naufal Al Hakim
+11,2019-04-06 00:00:00+00:00,Implement task,Naufal Al Hakim
+14,2019-04-06 00:00:00+00:00,Implement task,atika rahmawatihusna
+8,2019-04-07 00:00:00+00:00,Implement task,rinaldy js
+27,2019-04-07 00:00:00+00:00,Implement task,atika rahmawatihusna
+15,2019-04-07 00:00:00+00:00,Implement task,atika rahmawatihusna
+15,2019-04-07 00:00:00+00:00,Implement task,atika rahmawatihusna
+15,2019-04-07 00:00:00+00:00,Implement task,atika rahmawatihusna
+15,2019-04-07 00:00:00+00:00,Implement task,atika rahmawatihusna
+28,2019-04-08 14:52:36.539432+00:00,Open,Ganar Nugraha
+29,2019-04-08 14:56:19.712274+00:00,Open,Azolla Dhigo Prasetya
+30,2019-04-08 15:02:33.375412+00:00,Open,Vera Adelia
+31,2019-04-08 15:08:04.446974+00:00,Open,Naufal Al Hakim
+32,2019-04-08 15:11:33.015956+00:00,Open,atika rahmawatihusna
+33,2019-04-08 15:14:21.924873+00:00,Open,rinaldy js
+32,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+27,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+30,2019-04-09 00:00:00+00:00,Implement task,rinaldy js
+33,2019-04-09 00:00:00+00:00,Implement task,rinaldy js
+32,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+32,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+32,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+32,2019-04-09 00:00:00+00:00,Implement task,atika rahmawatihusna
+30,2019-04-09 00:00:00+00:00,Implement task,Naufal Al Hakim
+31,2019-04-09 00:00:00+00:00,Implement task,Naufal Al Hakim
+25,2019-04-09 00:00:00+00:00,Merge Branch,Vera Adelia
+29,2019-04-09 00:00:00+00:00,Implement task,Ganar Nugraha
+28,2019-04-09 00:00:00+00:00,Implement task,Ganar Nugraha
+25,2019-04-09 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+31,2019-04-09 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+31,2019-04-09 00:00:00+00:00,Implement task,Azolla Dhigo Prasetya
+25,2019-04-09 00:00:00+00:00,Implement task,Vera Adelia
+31,2019-04-09 00:00:00+00:00,Implement task,Naufal Al Hakim
+30,2019-04-10 00:00:00+00:00,Implement task,Vera Adelia
+30,2019-04-13 00:00:00+00:00,Implement task,Vera Adelia
+31,2019-04-30 05:23:51.276088+00:00,Closed,ekky novriza alam
+32,2019-04-30 05:26:27.860918+00:00,Closed,ekky novriza alam
+33,2019-04-30 05:27:06.797396+00:00,Closed,ekky novriza alam
+30,2019-04-30 05:28:28.892256+00:00,Closed,ekky novriza alam
+28,2019-04-30 05:28:52.335532+00:00,Closed,ekky novriza alam
+29,2019-04-30 05:30:09.116658+00:00,Closed,ekky novriza alam
+16,2019-04-30 05:31:36.067617+00:00,Closed,ekky novriza alam

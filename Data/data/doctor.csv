@@ -1,0 +1,58 @@
+Author,Commit,Message,Date
+Tb Rama Ramadhan,a0f1100,Revisi Android,27/04/19
+Muhammad Ishak Syukri,4c63cc1,Back end Konsultasi ref #20,25/04/19
+Muhammad Ishak Syukri,f0e8b79,Back end konsultasi #20,25/04/19
+Ghalib Mahendra,cc77c1a,Back End Artikel (ref #22),22/04/19
+Adityo Satrio,aba27e7,front end artikel ref #24,22/04/19
+Ghalib Mahendra,041880a,benerin bug,22/04/19
+avisa gavrilla,2584729,front end konsultasi ref#19,22/04/19
+Tb Rama Ramadhan,490781e,revisi android,21/04/19
+Tb Rama Ramadhan,92c7e22,back end menampilkan profile ref#23,21/04/19
+Tb Rama Ramadhan,a5494ca,back end edit profile ref#13,21/04/19
+sylvia feng,16a5a7a,front end mengatur profile ref #15,21/04/19
+Ghalib Mahendra,081a814,fitur cari rumah sakit (ref #12),04/11/19
+Tb Rama Ramadhan,19137cd,revisi,04/08/19
+Tb Rama Ramadhan,28929eb,benerin bug pas pencet dokter,04/02/19
+Muhammad Ishak Syukri,c8cdd4b,Back end cari jadwal praktek (ref #18),04/01/19
+Tb Rama Ramadhan,53fe8de,fungsi search fitur cari dokter (ref #10),04/01/19
+Tb Rama Ramadhan,11499f8,Back End fitur Cari Dokter (ref #10),04/01/19
+Tb Rama Ramadhan,292a073,memasukan fitur cari dokter ke home (ref #10),30/03/19
+Adityo Satrio,03c95ae,Back End Fitur Cari Rumah Sakit (ref #16),30/03/19
+Ghalib Mahendra,0c8cdeb,Front end Cari rumah sakit (ref #12),30/03/19
+avisa gavrilla,280e2c3,revisi layout jadwal praktek (ref #11),29/03/19
+sylvia feng,0f71409,Front end Cari Dokter (ref #14),29/03/19
+Adityo Satrio,0d67004,Sign Out (ref #21),29/03/19
+sylvia feng,bd55553,Login Fungsional (ref #3),29/03/19
+avisa gavrilla,d7ceb77,layout_jadwal praktek #11,29/03/19
+Muhammad Ishak Syukri,6cfb6da,backend cari jadwal praktek,27/03/19
+Adityo Satrio,924200e,layout_daftar_rumah sakit,26/03/19
+Ghalib Mahendra,7170515,rumah sakit,26/03/19
+Tb Rama Ramadhan,9e96910,Daftar cari dokter,24/03/19
+Ghalib Mahendra,2650be7,layout Cari rumah sakit,19/03/19
+Tb Rama Ramadhan,f213e8f,revisi home,19/03/19
+Tb Rama Ramadhan,ea3f796,benerin error forgot password firebase,03/04/19
+avisa gavrilla,674b6c1,Merge branch 'master' of https://bitbucket.org/rpl19/e-doctor Conflicts: .idea/misc.xml,03/04/19
+avisa gavrilla,6f0d183,forgot password_firebase,03/03/19
+avisa gavrilla,8815ae0,forgot password_firebase,03/03/19
+Adityo Satrio,3704230,revisi Signup_fragment,03/03/19
+sylvia feng,b23582d,login firebase,03/02/19
+Tb Rama Ramadhan,ddffce8,benerin error sama setting firebase,03/02/19
+Muhammad Ishak Syukri,4ecb809,Splash Screen,03/01/19
+Tb Rama Ramadhan,804c295,revisi fitur home,03/01/19
+Ghalib Mahendra,cace3ce,Merge branch 'master' of https://bitbucket.org/rpl19/e-doctor Conflicts: .idea/misc.xml app/src/main/java/app/andropath/com/edoctor/Login_Fragment.java app/src/main/java/app/andropath/com/edoctor/MainActivity.java app/src/main/java/app/andropath/com/edoctor/Utils.java,28/02/19
+Ghalib Mahendra,dd17430,Revisi fitur login,28/02/19
+Muhammad Ishak Syukri,2f94d6a,signup fragment,25/02/19
+Adityo Satrio,67b0219,signup fragment,25/02/19
+Adityo Satrio,66df0cd,Signup Layout,25/02/19
+avisa gavrilla,367dfb9,nav drawer,25/02/19
+sylvia feng,25645ff,fungsional login,21/02/19
+Ghalib Mahendra,43ddbce,login layout,21/02/19
+Ghalib Mahendra,d4fbe5b,layout login,21/02/19
+Tb Rama Ramadhan,3ecabbb,ganti nama package,20/02/19
+Ghalib Mahendra,5d2c8a4,test.txt edited online with Bitbucket,19/02/19
+Ghalib Mahendra,305c48e,hapus home,19/02/19
+Tb Rama Ramadhan,adc298f,Merge branch 'master' of https://bitbucket.org/rpl19/e-doctor,16/02/19
+Tb Rama Ramadhan,e886649,home,16/02/19
+Tb Rama Ramadhan,581794e,README.md edited online with Bitbucket,14/02/19
+Tb Rama Ramadhan,99b4b5a,Initial commit,14/02/19
+Tb Rama Ramadhan,99b4b5a,Initial commit,14/02/19
